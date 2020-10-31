@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By # type: ignore
 import collections # type: ignore
 import time # type: ignore
 from typing import List, Set, Dict, Tuple, Optional # type: ignore
-
 from functions.helper_functions import create_log, log_remove_handlers, get_filename
 from classes.driver_class import Driver # type: ignore
 from classes.webpage_class import Webpage # type: ignore
@@ -90,12 +89,10 @@ class Search:
         self.search_log.info(f'execute_search: Submitting search for \'{self.search_term}\'')
         try:
             search_input = self.chrome_driver.wait.until(EC.element_to_be_clickable(self.search_input_selector)) # Find the text box to enter search term
-            # found_search_input_id = search_input.get_attribute('id')
             search_input.clear() # Clear any previous text entries
             search_input.send_keys(self.search_term) # Submit search term
             search_input.submit() # 'Press enter' and trigger search
             self.first_page_soup = bsoup(self.chrome_driver.driver.page_source, 'html.parser')
-            
             self.submit_unsuccessful = False
             self.search_log.debug(f'execute_search: Searching for \'{self.search_term}\' successful')
         except TimeoutException as ex:
@@ -113,7 +110,7 @@ class Search:
         else:
             self.search_log.info(f'check_if_category_page: Category Page check for \'{self.search_term}\' successful')
         return self.is_category_page
-                                          
+
     def get_number_of_results_pages(self):
         self.search_log.info(f'get_number_of_results_pages: Finding number of result pages for \'{self.search_term}\'')
         self.calc_num_result_pages_unsuccessful = self.calc_number_of_result_pages()
@@ -139,6 +136,7 @@ class Search:
     def cycle_through_results_pages(self):
         try:
             for page in range(self.number_of_result_pages - 1):
+                time.sleep(3)
                 self.click_next() # Click to display next results webpage
                 self.save_this_webpage_product_data() # Capture this webpage's html
                 self.page_processing_unsuccessful = False
@@ -179,11 +177,12 @@ class Search:
         unique_products_set = all_products_set.difference(duplicate_products_set) # Get the differences between the duplicate products and all products to identify the unique products
         self.products = list(duplicate_products_set) + list(unique_products_set) # Combine unique and duplicate sets
         self.search_log.debug(f'flag_duplicate_products:len(self.products):{len(self.products)}')
-                
+
     def create_output(self):
         self.search_log.info(f'create_output: Writing output file - {len(self.products)} product(s) created for search term \'{self.search_term}\'')
         df = pd.DataFrame.from_records([product.to_dict() for product in self.products])
-        df.sort_values(by=['result_page_number', 'result_page_item_position_index'],  inplace=True)
+        df.sort_values(by=['result_page_number', 'result_page_index_position'],  inplace=True)
         results_filenpathandame = get_filename(self.search_term, typeoffile='results', suffix='.csv')
-        df.to_csv(results_filenpathandame, index=False)
-        return df
+        df.to_csv(results_filenpathandame, sep='\t', index=False)
+        return df  
+    

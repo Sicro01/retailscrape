@@ -2,10 +2,11 @@ from classes.search_class import Search # type: ignore
 from functions.helper_functions import setup_log # type: ignore
 import time # type: ignore
 
-def execute_search(search_term):
+def execute_search(search_term, DEBUG_LEVEL):
+    
     # Execute search
-    search = Search(search_term)
-
+    search = Search(search_term, level=DEBUG_LEVEL)
+    print(f'execute_search:{DEBUG_LEVEL}')
     # (1) Set-up log
     search.search_log = setup_log(search.search_log, search.search_term, search.search_log_level)
     search.search_log.info(f'Search: Initiating new search for \'{search.search_term}\' on website {search.target_url} - max attempts limited to {search.max_get_attempts}')
@@ -48,10 +49,11 @@ def execute_search(search_term):
         # (7) Process and save all subsequent result pages
         page_processing_unsuccessful = search.cycle_through_results_pages()
         if page_processing_unsuccessful:
-            get_attempts = search.get_attempts  # Save number of attempts
-            search = Search(search_term) # Reset search instance as it maybe partially populated -
-            search.get_appempts = get_attempts # Restore number of attempts
             search.retry()
+            get_attempts = search.get_attempts  # Save number of attempts
+            search = Search(search_term, level=DEBUG_LEVEL) # Reset search instance as it maybe partially populated -
+            search.get_attempts = get_attempts # Restore number of attempts
+            
 
     # (8) 
     search.save_products()

@@ -1,5 +1,6 @@
 import pybase64 # type: ignore
 import io # type: ignore
+import sys # type: ignore
 import dash # type: ignore
 from dash.dependencies import Input, Output, State # type: ignore
 import dash_table # type: ignore
@@ -11,6 +12,9 @@ import time # type: ignore
 
 # Local modules
 from functions.uber_search import uber_search # type: ignore
+
+VALID_DEBUG_OPTIONS = ['CRITICAL', 'ERROR', 'WARNING', 'INFO', 'DEBUG'] # List of valid debug levels
+DEBUG_LEVEL = sys.argv[1] if (len(sys.argv) - 1) == 1 and sys.argv[1] in VALID_DEBUG_OPTIONS else 'INFO' # If argument entered set debug level
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], prevent_initial_callbacks=True)
 
@@ -85,8 +89,8 @@ body = html.Div(
             dash_table.DataTable(
                 id='result_table',
                 columns=[
-                    {'name': 'Position # on Page', 'id': 'result_page_item_position_index', 'hideable': True},
-                    {'name': 'Page #', 'id': 'result_page_number', 'hideable': True},
+                    {'name': 'Results Page #', 'id': 'result_page_number', 'hideable': True},
+                    {'name': 'Index Position on Page', 'id': 'result_page_index_position', 'hideable': True},
                     {'name': 'Search Term', 'id': 'search_term', 'hideable': True},
                     {'name': 'Source URL', 'id': 'url', 'hideable': True},
                     {'name': 'Product Description', 'id': 'description', 'hideable': True},
@@ -130,7 +134,7 @@ app.layout= html.Div([body])
     [State(component_id='upload_data', component_property='filename')],
     [State(component_id='search_term_input', component_property='value')]
 )
-def display_table(n_clicks, upload_contents, filename, search_terms):
+def run_search(n_clicks, upload_contents, filename, search_terms):
     # Determine which input triggered the callback
     ctx = dash.callback_context
     if not ctx.triggered:
@@ -142,7 +146,8 @@ def display_table(n_clicks, upload_contents, filename, search_terms):
     # User is trying to search
     if input_id == 'search_button':
         if search_terms != None: # Check search term entered
-            tabledata, success_message = uber_search(search_terms)
+            print(f'run_search:{DEBUG_LEVEL}')
+            tabledata, success_message = uber_search(search_terms, DEBUG_LEVEL)
             return tabledata, success_message
     # User is try to upload a result set
     if input_id == 'upload_data':
@@ -180,7 +185,8 @@ def display_message(n_clicks, upload_contents, filename, search_terms):
                 start_message = f'Single search term entered - searching for product sub-category...'
                 start_message += f'\'{list_of_search_terms[0]}\''
                 start_message += ' - results will be displayed below'
-                return start_message, success_message
+                return start_message
+                
         else:
             return 'Please enter one or more product sub-categories'
 

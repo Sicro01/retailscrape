@@ -1,9 +1,9 @@
 class Product:
-    def __init__(self, result_page_item_position_index, search_term, url, result_page_number, description, from_price, to_price, fulfillment, availability, rating, duplicate_indicator='N'):
-        self.result_page_item_position_index = result_page_item_position_index
+    def __init__(self, result_page_number, result_page_index_position, search_term, url, description, from_price, to_price, fulfillment, availability, rating, duplicate_indicator='N'):
+        self.result_page_number = result_page_number
+        self.result_page_index_position = result_page_index_position
         self.search_term = search_term
         self.url = url
-        self.result_page_number = result_page_number
         self.description = description
         self.from_price = from_price
         self.to_price = to_price
@@ -25,8 +25,8 @@ class Product:
     
     def to_dict(self):
         return {
-            'result_page_item_position_index': self.result_page_item_position_index
-            ,'result_page_number': self.result_page_number
+            'result_page_number': self.result_page_number
+            ,'result_page_index_position': self.result_page_index_position
             ,'search_term': self.search_term
             ,'url': self.url
             ,'description': self.description

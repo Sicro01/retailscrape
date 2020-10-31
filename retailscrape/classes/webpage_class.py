@@ -20,7 +20,7 @@ class Webpage():
         grid_ul_tags = self.soup.find_all('ul', class_='search-result-gridview-items four-items')
         for grid_ul_tag in grid_ul_tags:
             grid_item_div_tags = grid_ul_tag.find_all('div', class_='search-result-gridview-item clearfix arrange-fill') # All items are li html elements within the ul with the above classes
-            for result_page_item_position_index, grid_item_div_tag in enumerate(grid_item_div_tags):
+            for result_page_index_position, grid_item_div_tag in enumerate(grid_item_div_tags):
                 description_tuple = self.get_description(grid_item_div_tag) # Get description
                 rating_tuple = self.get_rating(grid_item_div_tag) # Get rating
                 prices_tuple = self.get_prices(grid_item_div_tag) # Get prices
@@ -28,7 +28,7 @@ class Webpage():
                 availability_tuple = self.get_availability(grid_item_div_tag) # Get Availability
                 
                 # Create a product entity
-                this_product = Product(result_page_item_position_index, search_term, self.url, self.result_page_number, description_tuple.description, prices_tuple.from_price, prices_tuple.to_price                                         ,fulfillment_tuple.fulfillment, availability_tuple.availability, rating_tuple.rating)
+                this_product = Product(self.result_page_number, result_page_index_position, search_term, self.url, description_tuple.description, prices_tuple.from_price, prices_tuple.to_price                                         ,fulfillment_tuple.fulfillment, availability_tuple.availability, rating_tuple.rating)
                 
                 self.webpage_log.debug(f'get_product_data:this_product:'+ '\n' + f'{this_product}')
                 self.products.append(this_product)
@@ -49,9 +49,9 @@ class Webpage():
     
     def get_prices(self, grid_item_div_tag):
         price_tags = [price for price in grid_item_div_tag.find_all('span', class_="price-main")]
-        these_prices = [price_tag.span.text for price_tag in price_tags]
-        these_prices.append(these_prices[0]) if len(these_prices) == 1 else None
-        these_prices.extend(['', '']) if len(these_prices) == 0 else None # Set empty prices if product has fulfillment of 'In-store Only' thenno prices will be displayed on webpage
+        these_prices = [price_tag.span.text[1:len(price_tag.span.text)] for price_tag in price_tags]  # Lose the first char ($ sign) so we end up with a numeric value
+        these_prices.append(these_prices[0]) if len(these_prices) == 1 else None # If we only have a single price (i.e not a price range product) then add another price of the same value
+        these_prices.extend(['', '']) if len(these_prices) == 0 else None # Set empty prices if product has fulfillment of 'In-store Only' then no prices will be displayed on webpage
         prices_tuple = self.price_tuple(these_prices[0], these_prices[1])
         self.webpage_log.debug(f'get_product_data:prices_tuple:{prices_tuple}')
         return prices_tuple

@@ -1,0 +1,11 @@
+2020-11-02 16:17:23 - retail_live - INFO - set_up_log: Log configured
+2020-11-02 16:17:23 - retail_live - INFO - Search: Initiating new search for 'beer' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-02 16:17:23 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 1
+2020-11-02 16:17:29 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:17:34 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 2
+2020-11-02 16:17:39 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:17:44 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 3
+2020-11-02 16:17:49 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:17:54 - retail_live - CRITICAL - check_attempts: Critical Error: Exceeded number of re-try attempts 4 to search for beer
+2020-11-02 16:17:54 - retail_live - CRITICAL - abort: Aborting search - trying to close log and Chrome
+2020-11-02 16:17:54 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

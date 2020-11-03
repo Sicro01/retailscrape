@@ -1,0 +1,8 @@
+2020-11-03 12:11:49 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 12:11:49 - retail_live - INFO - Search: Initiating new search for 'hand sanitizer' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 12:11:49 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/?query=hand sanitizer - attempt # 1
+2020-11-03 12:12:00 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/?query=hand sanitizer
+2020-11-03 12:12:12 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/?query=hand sanitizer?query=hand sanitizer - attempt # 2
+2020-11-03 12:12:20 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/?query=hand sanitizer?query=hand sanitizer
+2020-11-03 12:12:31 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/?query=hand sanitizer?query=hand sanitizer?query=hand sanitizer - attempt # 3
+2020-11-03 12:12:39 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/?query=hand sanitizer?query=hand sanitizer?query=hand sanitizer

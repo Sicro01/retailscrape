@@ -1,0 +1,46 @@
+2020-11-03 12:31:10 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 12:31:10 - retail_live - INFO - Search: Initiating new search for 'hand sanitizer' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 12:31:10 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/ - attempt # 1
+2020-11-03 12:31:19 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-03 12:31:34 - retail_live - INFO - submit_search_text: Submitting search for 'hand sanitizer'
+2020-11-03 12:31:45 - retail_live - INFO - check_if_category_page: Checking if search item 'hand sanitizer' is a sub-category
+2020-11-03 12:31:45 - retail_live - INFO - check_if_category_page: Category Page check for 'hand sanitizer' successful
+2020-11-03 12:31:55 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for 'hand sanitizer'
+2020-11-03 12:31:55 - retail_live - INFO - get_number_of_results_pages: Found 8 results pages for 'hand sanitizer'
+2020-11-03 12:31:55 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 8
+2020-11-03 12:31:57 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:31:57 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:31:57 - retail_live - INFO - save_this_webpage_product_data:Captured data page:1 of 8
+2020-11-03 12:32:05 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 2 of 8
+2020-11-03 12:32:06 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:06 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:07 - retail_live - INFO - save_this_webpage_product_data:Captured data page:2 of 8
+2020-11-03 12:32:15 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 3 of 8
+2020-11-03 12:32:16 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:16 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:16 - retail_live - INFO - save_this_webpage_product_data:Captured data page:3 of 8
+2020-11-03 12:32:25 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 4 of 8
+2020-11-03 12:32:25 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:25 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:26 - retail_live - INFO - save_this_webpage_product_data:Captured data page:4 of 8
+2020-11-03 12:32:34 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 5 of 8
+2020-11-03 12:32:35 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:35 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:35 - retail_live - INFO - save_this_webpage_product_data:Captured data page:5 of 8
+2020-11-03 12:32:43 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 6 of 8
+2020-11-03 12:32:44 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:44 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:44 - retail_live - INFO - save_this_webpage_product_data:Captured data page:6 of 8
+2020-11-03 12:32:53 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 7 of 8
+2020-11-03 12:32:54 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:32:54 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:32:54 - retail_live - INFO - save_this_webpage_product_data:Captured data page:7 of 8
+2020-11-03 12:33:02 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 8 of 8
+2020-11-03 12:33:03 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:33:03 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:33:03 - retail_live - INFO - save_this_webpage_product_data:Captured data page:8 of 8
+2020-11-03 12:33:03 - retail_live - INFO - save_search_results: Saving details
+2020-11-03 12:33:03 - retail_live - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-03 12:33:03 - retail_live - INFO - create_output: Writing output file - 300 product(s) created for search term 'hand sanitizer'
+2020-11-03 12:33:03 - retail_live - INFO - End
+2020-11-03 12:33:03 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

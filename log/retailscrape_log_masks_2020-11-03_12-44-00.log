@@ -1,0 +1,114 @@
+2020-11-03 12:44:00 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 12:44:00 - retail_live - INFO - Search: Initiating new search for 'masks' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 12:44:00 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/ - attempt # 1
+2020-11-03 12:44:09 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-03 12:44:24 - retail_live - INFO - submit_search_text: Submitting search for 'masks'
+2020-11-03 12:44:39 - retail_live - INFO - check_if_category_page: Checking if search item 'masks' is a sub-category
+2020-11-03 12:44:39 - retail_live - INFO - check_if_category_page: Category Page check for 'masks' successful
+2020-11-03 12:44:49 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for 'masks'
+2020-11-03 12:44:49 - retail_live - INFO - get_number_of_results_pages: Found 25 results pages for 'masks'
+2020-11-03 12:44:49 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 25
+2020-11-03 12:44:54 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:44:54 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:44:54 - retail_live - INFO - save_this_webpage_product_data:Captured data page:1 of 25
+2020-11-03 12:45:03 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 2 of 25
+2020-11-03 12:45:06 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:45:06 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:45:06 - retail_live - INFO - save_this_webpage_product_data:Captured data page:2 of 25
+2020-11-03 12:45:16 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 3 of 25
+2020-11-03 12:45:18 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:45:18 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:45:19 - retail_live - INFO - save_this_webpage_product_data:Captured data page:3 of 25
+2020-11-03 12:45:28 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 4 of 25
+2020-11-03 12:45:33 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:45:33 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:45:33 - retail_live - INFO - save_this_webpage_product_data:Captured data page:4 of 25
+2020-11-03 12:45:42 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 5 of 25
+2020-11-03 12:45:45 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:45:45 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:45:45 - retail_live - INFO - save_this_webpage_product_data:Captured data page:5 of 25
+2020-11-03 12:45:55 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 6 of 25
+2020-11-03 12:46:01 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:01 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:01 - retail_live - INFO - save_this_webpage_product_data:Captured data page:6 of 25
+2020-11-03 12:46:09 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 7 of 25
+2020-11-03 12:46:12 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:12 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:12 - retail_live - INFO - save_this_webpage_product_data:Captured data page:7 of 25
+2020-11-03 12:46:21 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 8 of 25
+2020-11-03 12:46:25 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:25 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:25 - retail_live - INFO - save_this_webpage_product_data:Captured data page:8 of 25
+2020-11-03 12:46:34 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 9 of 25
+2020-11-03 12:46:35 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:35 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:36 - retail_live - INFO - save_this_webpage_product_data:Captured data page:9 of 25
+2020-11-03 12:46:45 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 10 of 25
+2020-11-03 12:46:48 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:48 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:48 - retail_live - INFO - save_this_webpage_product_data:Captured data page:10 of 25
+2020-11-03 12:46:57 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 11 of 25
+2020-11-03 12:46:59 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:46:59 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:46:59 - retail_live - INFO - save_this_webpage_product_data:Captured data page:11 of 25
+2020-11-03 12:47:08 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 12 of 25
+2020-11-03 12:47:10 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:47:10 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:47:10 - retail_live - INFO - save_this_webpage_product_data:Captured data page:12 of 25
+2020-11-03 12:47:18 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 13 of 25
+2020-11-03 12:47:20 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:47:20 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:47:20 - retail_live - INFO - save_this_webpage_product_data:Captured data page:13 of 25
+2020-11-03 12:47:28 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 14 of 25
+2020-11-03 12:47:30 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:47:30 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:47:30 - retail_live - INFO - save_this_webpage_product_data:Captured data page:14 of 25
+2020-11-03 12:47:39 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 15 of 25
+2020-11-03 12:47:40 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:47:40 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:47:40 - retail_live - INFO - save_this_webpage_product_data:Captured data page:15 of 25
+2020-11-03 12:47:49 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 16 of 25
+2020-11-03 12:47:50 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:47:50 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:47:50 - retail_live - INFO - save_this_webpage_product_data:Captured data page:16 of 25
+2020-11-03 12:47:59 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 17 of 25
+2020-11-03 12:48:00 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:00 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:00 - retail_live - INFO - save_this_webpage_product_data:Captured data page:17 of 25
+2020-11-03 12:48:09 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 18 of 25
+2020-11-03 12:48:11 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:11 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:11 - retail_live - INFO - save_this_webpage_product_data:Captured data page:18 of 25
+2020-11-03 12:48:19 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 19 of 25
+2020-11-03 12:48:20 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:20 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:21 - retail_live - INFO - save_this_webpage_product_data:Captured data page:19 of 25
+2020-11-03 12:48:29 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 20 of 25
+2020-11-03 12:48:30 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:30 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:31 - retail_live - INFO - save_this_webpage_product_data:Captured data page:20 of 25
+2020-11-03 12:48:39 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 21 of 25
+2020-11-03 12:48:40 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:40 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:40 - retail_live - INFO - save_this_webpage_product_data:Captured data page:21 of 25
+2020-11-03 12:48:49 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 22 of 25
+2020-11-03 12:48:50 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:48:50 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:48:50 - retail_live - INFO - save_this_webpage_product_data:Captured data page:22 of 25
+2020-11-03 12:48:59 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 23 of 25
+2020-11-03 12:49:00 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:49:00 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:49:00 - retail_live - INFO - save_this_webpage_product_data:Captured data page:23 of 25
+2020-11-03 12:49:08 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 24 of 25
+2020-11-03 12:49:10 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:49:10 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:49:10 - retail_live - INFO - save_this_webpage_product_data:Captured data page:24 of 25
+2020-11-03 12:49:19 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 25 of 25
+2020-11-03 12:49:20 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:49:20 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:49:20 - retail_live - INFO - save_this_webpage_product_data:Captured data page:25 of 25
+2020-11-03 12:49:20 - retail_live - INFO - save_search_results: Saving details
+2020-11-03 12:49:20 - retail_live - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-03 12:49:20 - retail_live - INFO - create_output: Writing output file - 975 product(s) created for search term 'masks'
+2020-11-03 12:49:20 - retail_live - INFO - End
+2020-11-03 12:49:20 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

@@ -1,0 +1,14 @@
+2020-11-02 16:15:45 - retail_live - INFO - set_up_log: Log configured
+2020-11-02 16:15:45 - retail_live - INFO - Search: Initiating new search for 'diet coke zero cans' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-02 16:15:45 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 1
+2020-11-02 16:15:56 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-02 16:16:01 - retail_live - INFO - submit_search_text: Submitting search for 'diet coke zero cans'
+2020-11-02 16:16:07 - retail_live - INFO - check_if_category_page: Checking if search item 'diet coke zero cans' is a sub-category
+2020-11-02 16:16:07 - retail_live - INFO - check_if_category_page: Category Page check for 'diet coke zero cans' successful
+2020-11-02 16:16:12 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for 'diet coke zero cans'
+2020-11-02 16:16:12 - retail_live - WARNING - calc_number_of_result_pages: Warning: Exception trying to calculate number of pages
+2020-11-02 16:16:12 - retail_live - WARNING - Exception:'NoneType' object has no attribute 'li'
+2020-11-02 16:16:12 - retail_live - WARNING - get_number_of_results_pages: Warning: Exception trying to calculate number of pages
+2020-11-02 16:16:18 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 0
+2020-11-02 16:17:23 - retail_live - INFO - create_log: Creating new log
+2020-11-02 16:17:23 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

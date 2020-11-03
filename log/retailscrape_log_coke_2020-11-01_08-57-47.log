@@ -1,0 +1,26 @@
+2020-11-01 08:57:47 - retail_live - INFO - set_up_log: Log configured
+2020-11-01 08:57:47 - retail_live - INFO - Search: Initiating new search for 'coke' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-01 08:57:47 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 1
+2020-11-01 08:57:56 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-01 08:58:01 - retail_live - INFO - submit_search_text: Submitting search for 'coke'
+2020-11-01 08:58:14 - retail_live - INFO - check_if_category_page: Checking if search item 'coke' is a sub-category
+2020-11-01 08:58:14 - retail_live - INFO - check_if_category_page: Category Page check for 'coke' successful
+2020-11-01 08:58:19 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for 'coke'
+2020-11-01 08:58:19 - retail_live - INFO - get_number_of_results_pages: Found 3 results pages for 'coke'
+2020-11-01 08:58:19 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 3
+2020-11-01 08:58:20 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-01 08:58:20 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-01 08:58:20 - retail_live - INFO - save_this_webpage_product_data:Captured data page:1 of 3
+2020-11-01 08:58:26 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 2 of 3
+2020-11-01 08:58:27 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-01 08:58:27 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-01 08:58:27 - retail_live - INFO - save_this_webpage_product_data:Captured data page:2 of 3
+2020-11-01 08:58:34 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 3 of 3
+2020-11-01 08:58:34 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-01 08:58:34 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-01 08:58:35 - retail_live - INFO - save_this_webpage_product_data:Captured data page:3 of 3
+2020-11-01 08:58:35 - retail_live - INFO - save_search_results: Saving details
+2020-11-01 08:58:35 - retail_live - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-01 08:58:35 - retail_live - INFO - create_output: Writing output file - 119 product(s) created for search term 'coke'
+2020-11-01 08:58:35 - retail_live - INFO - End
+2020-11-01 08:58:35 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

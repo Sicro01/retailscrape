@@ -1,0 +1,4 @@
+2020-11-02 16:46:07 - retail_live - INFO - set_up_log: Log configured
+2020-11-02 16:46:07 - retail_live - INFO - Search: Initiating new search for 'coke' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-02 16:46:07 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 1
+2020-11-02 16:46:11 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/

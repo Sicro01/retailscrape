@@ -2,7 +2,7 @@ from classes.search_class import Search # type: ignore
 from functions.helper_functions import setup_log # type: ignore
 import time # type: ignore
 
-def execute_search(search_term, DEBUG_LEVEL):
+def execute_a_search(search_term, DEBUG_LEVEL):
     
     # Execute search
     search = Search(search_term, level=DEBUG_LEVEL)
@@ -16,11 +16,13 @@ def execute_search(search_term, DEBUG_LEVEL):
         
         # Increment attempt and check if max exceeded
         search.check_attempts()
-        
+
         # Try to open website
         search.open_website()
+        time.sleep(10)
         if not search.open_website_unsuccessful:
             time.sleep(5)
+            # search.check_if_category_page()
             search.submit_search_text()
         else:
             search.retry()
@@ -35,6 +37,7 @@ def execute_search(search_term, DEBUG_LEVEL):
             continue # Restart loop
         
         # Test if search term was a valid sub-category - if not a sub-category we will have aborted
+        time.sleep(5)
         if not search.is_category_page:
             time.sleep(5)
             search.get_number_of_results_pages()

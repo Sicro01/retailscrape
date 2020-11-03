@@ -1,0 +1,34 @@
+2020-11-03 12:49:52 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 12:49:52 - retail_live - INFO - Search: Initiating new search for ' kettlebells' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 12:49:52 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/ - attempt # 1
+2020-11-03 12:50:03 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-03 12:50:18 - retail_live - INFO - submit_search_text: Submitting search for ' kettlebells'
+2020-11-03 12:50:30 - retail_live - INFO - check_if_category_page: Checking if search item ' kettlebells' is a sub-category
+2020-11-03 12:50:30 - retail_live - INFO - check_if_category_page: Category Page check for ' kettlebells' successful
+2020-11-03 12:50:40 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for ' kettlebells'
+2020-11-03 12:50:40 - retail_live - INFO - get_number_of_results_pages: Found 5 results pages for ' kettlebells'
+2020-11-03 12:50:40 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 5
+2020-11-03 12:50:41 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:50:41 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:50:41 - retail_live - INFO - save_this_webpage_product_data:Captured data page:1 of 5
+2020-11-03 12:50:50 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 2 of 5
+2020-11-03 12:50:51 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:50:51 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:50:51 - retail_live - INFO - save_this_webpage_product_data:Captured data page:2 of 5
+2020-11-03 12:50:59 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 3 of 5
+2020-11-03 12:51:00 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:51:00 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:51:00 - retail_live - INFO - save_this_webpage_product_data:Captured data page:3 of 5
+2020-11-03 12:51:09 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 4 of 5
+2020-11-03 12:51:10 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:51:10 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:51:10 - retail_live - INFO - save_this_webpage_product_data:Captured data page:4 of 5
+2020-11-03 12:51:18 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 5 of 5
+2020-11-03 12:51:23 - retail_live.webpage_log - INFO - create_log: Creating new log
+2020-11-03 12:51:23 - retail_live.webpage_log - INFO - get_product_data: Capturing product data for current webpage
+2020-11-03 12:51:23 - retail_live - INFO - save_this_webpage_product_data:Captured data page:5 of 5
+2020-11-03 12:51:23 - retail_live - INFO - save_search_results: Saving details
+2020-11-03 12:51:23 - retail_live - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-03 12:51:23 - retail_live - INFO - create_output: Writing output file - 193 product(s) created for search term ' kettlebells'
+2020-11-03 12:51:23 - retail_live - INFO - End
+2020-11-03 12:51:23 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

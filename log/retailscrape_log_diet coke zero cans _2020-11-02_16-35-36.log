@@ -1,0 +1,11 @@
+2020-11-02 16:35:36 - retail_live - INFO - set_up_log: Log configured
+2020-11-02 16:35:36 - retail_live - INFO - Search: Initiating new search for 'diet coke zero cans ' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-02 16:35:36 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 1
+2020-11-02 16:35:41 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:35:53 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 2
+2020-11-02 16:35:57 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:36:07 - retail_live - INFO - open_website: Opening website https://www.walmart.com/ - attempt # 3
+2020-11-02 16:36:12 - retail_live - WARNING - open_website: Error: Unable to open https://www.walmart.com/
+2020-11-02 16:36:22 - retail_live - CRITICAL - check_attempts: Critical Error: Exceeded number of re-try attempts 4 to search for diet coke zero cans 
+2020-11-02 16:36:22 - retail_live - CRITICAL - abort: Aborting search - trying to close log and Chrome
+2020-11-02 16:36:22 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

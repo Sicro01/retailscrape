@@ -11,127 +11,47 @@ import pandas as pd # type: ignore
 import time # type: ignore
 
 # Local modules
-from functions.uber_search import uber_search # type: ignore
+from functions.execute_all_searches import execute_all_searches # type: ignore
+from page_parts.location  import location # type: ignore
+from page_parts.navbar import navbar # type: ignore
+from page_parts.output import output # type: ignore
+from page_parts.page_1_content import page_1_content # type: ignore
+from page_parts.page_2_content import page_2_content # type: ignore 
 
 VALID_DEBUG_OPTIONS = ['CRITICAL', 'ERROR', 'WARNING', 'INFO', 'DEBUG'] # List of valid debug levels
 DEBUG_LEVEL = sys.argv[1] if (len(sys.argv) - 1) == 1 and sys.argv[1] in VALID_DEBUG_OPTIONS else 'INFO' # If argument entered set debug level
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], prevent_initial_callbacks=True)
 
-body = html.Div(
-    [
-        dbc.Row(
-                dbc.Col(
-                    html.H3('Scrape Product Data From Walmart.com'), width={'size': 'auto', 'offset': 4},
-                ),
-        ),
-        html.Hr(),
-        dbc.Row(
-            [
-                dbc.Col(
-                    html.H6('Enter product sub-category(s) (if multiple separate with a comma) to search for and click on search:'), width='3'
-                ),
-                dbc.Col(
-                    dbc.Input(id='search_term_input', placeholder='e.g. coke', type='text'), width=3
-                ),
-                dbc.Col(
-                    dbc.Button("Search", id='search_button', color='primary', className='m-1'), width='auto'
-                ),
-                dbc.Col(
-                    html.H5('Or drag and drop an existing result set to display'), width='auto'
-                ),
-                 dbc.Col(
-                     [
-                        dcc.Upload(
-                        id='upload_data',
-                        children=html.Span([
-                            'Drag and Drop or ',
-                            html.A('Select Files')
-                        ]),
-                        style={
-                            'width': '100%',
-                            'height': '60px',
-                            'lineHeight': '60px',
-                            'borderWidth': '1px',
-                            'borderStyle': 'dashed',
-                            'borderRadius': '5px',
-                            'textAlign': 'center',
-                            'margin': '10px'
-                        },
-                        # Allow multiple files to be uploaded
-                        multiple=False
-                        ),
-                        html.Span(id='output-data-upload'),
-                     ], width='auto'
-                ),
-            ], justify='start', align='center'  
-        ),
-        html.Hr(),
-        dbc.Row(
-            [
-                dbc.Col(
-                    # html.H6('test'), width='12',
-                    html.H6(
-                       className='text-primary',
-                       id='output_message_id'
-                    ), width='12'
-                ),
-                dbc.Col(
-                    # html.H6('Bob'), width='12'
-                    html.H6(
-                        className='text-success',
-                     id='output_success_id'
-                    ), width='12'
-                ),
-            ], 
-        ),
-        dbc.Row(
-            dash_table.DataTable(
-                id='result_table',
-                columns=[
-                    {'name': 'Results Page #', 'id': 'result_page_number', 'hideable': True},
-                    {'name': 'Index Position on Page', 'id': 'result_page_index_position', 'hideable': True},
-                    {'name': 'Search Term', 'id': 'search_term', 'hideable': True},
-                    {'name': 'Source URL', 'id': 'url', 'hideable': True},
-                    {'name': 'Product Description', 'id': 'description', 'hideable': True},
-                    {'name': 'From Price', 'id': 'from_price', 'hideable': True},
-                    {'name': 'To Price', 'id': 'to_price', 'hideable': True},
-                    {'name': 'Fulfillment', 'id': 'fulfillment', 'hideable': True},
-                    {'name': 'Availability', 'id': 'availability', 'hideable': True},
-                    {'name': 'Star Rating', 'id': 'rating', 'hideable': True},
-                    {'name': 'Duplicate Description?', 'id': 'duplicate_indicator', 'hideable': True},
-                ],
-                # style_cell={'textAlign': 'left'},
-                page_size=15,
-                style_data={'whiteSpace': 'normal', 'height': 'auto'},
-                style_cell={'maxWidth': '400px'},
-                style_as_list_view=True,
-                style_data_conditional=[
-                    {
-                     'if': {'row_index': 'odd'},
-                     'backgroundColor': 'rgb(248, 248, 248)'
-                    }
-                ],
-                style_header={
-                  'backgroundColor': 'rgb(230, 230, 230)',
-                 'fontWeight': 'bold',
-                 'textAlign': 'center'
-                }
-            ),
-            className='pl-4'
-        ),
-    ],
-    className='pl-4'
-)
+app.layout = dbc.Container(fluid=True, className='m-0, p-0', children=[location(), navbar(), output()])
 
-app.layout= html.Div([body])
-# Execute Search
+# Display page html
+@app.callback(
+    Output('page_content', 'children'),
+    [Input('url', 'pathname')]
+)
+def display_page(url):
+    if url in ('/', '/page-1'):
+        return page_1_content()
+    elif url == '/page-2':
+        return page_2_content()
+    else:
+        print('else')
+        return dbc.Jumbotron(
+        [
+            html.H1("404: Not found", className="text-danger"),
+            html.Hr(),
+            html.P(f"The pathname {url} was not recognised..."),
+        ]
+    )
+
+# Execute Search and re-display page links
 @app.callback(
     Output(component_id='result_table', component_property='data'),
-    Output(component_id='output_success_id', component_property='children'),
+    Output(component_id='results_output_success_id', component_property='children'),
     [Input(component_id='search_button', component_property='n_clicks')],
-    [Input(component_id='upload_data', component_property='contents')],
-    [State(component_id='upload_data', component_property='filename')],
+    [Input(component_id='results_upload_data', component_property='contents')],
+    [State(component_id='results_upload_data', component_property='filename')],
     [State(component_id='search_term_input', component_property='value')]
 )
 def run_search(n_clicks, upload_contents, filename, search_terms):
@@ -142,29 +62,37 @@ def run_search(n_clicks, upload_contents, filename, search_terms):
     else:
         input_id = ctx.triggered[0]['prop_id'].split('.')[0]
     
-    # Act on the trigger
     # User is trying to search
     if input_id == 'search_button':
         if search_terms != None: # Check search term entered
-            print(f'run_search:{DEBUG_LEVEL}')
-            tabledata, success_message = uber_search(search_terms, DEBUG_LEVEL)
+            tabledata, success_message = execute_all_searches(search_terms, DEBUG_LEVEL)
             return tabledata, success_message
+
     # User is try to upload a result set
-    if input_id == 'upload_data':
-        content_type, content_string = upload_contents.split(',')
-        decoded = (pybase64.standard_b64decode(content_string))
-        df = pd.read_csv(io.StringIO(decoded.decode('utf-8')))
-        return df.to_dict(orient='records'), len(df)
+    if input_id == 'results_upload_data':
+        if upload_contents is not None:
+            list_df_all = []
+            success_message = 'Uploaded: '
+            for upload, this_filename in zip(upload_contents, filename):
+                df = parse_uploaded_results(upload)
+                list_df_all.append(df)
+                success_message += f'File: {this_filename}({len(df)} rows); '
+            df_all = pd.concat(list_df_all)
+        return df_all.to_dict(orient='records'), success_message
+
+def parse_uploaded_results(upload):
+    content_type, content_string = upload.split(',')
+    decoded = (pybase64.standard_b64decode(content_string))
+    df = pd.read_csv(io.StringIO(decoded.decode('utf-8')), sep='\t')
+    return df
 
 # Return initial message
 @app.callback(
-    Output(component_id='output_message_id', component_property='children'),
+    Output(component_id='results_output_message_id', component_property='children'),
     [Input(component_id='search_button', component_property='n_clicks')],
-    [Input(component_id='upload_data', component_property='contents')],
-    [State(component_id='upload_data', component_property='filename')],
     [State(component_id='search_term_input', component_property='value')]
 )
-def display_message(n_clicks, upload_contents, filename, search_terms):
+def display_message(n_clicks, search_terms):
     # Determine which input triggered the callback
     ctx = dash.callback_context
     if not ctx.triggered:
@@ -186,14 +114,33 @@ def display_message(n_clicks, upload_contents, filename, search_terms):
                 start_message += f'\'{list_of_search_terms[0]}\''
                 start_message += ' - results will be displayed below'
                 return start_message
-                
         else:
             return 'Please enter one or more product sub-categories'
 
-    # User is try to upload a result set
-    if input_id == 'upload_data':
-        message = f'Uploading results filename \'{filename}\''
-        return message
+# Display Invoice Lines
+@app.callback(
+    Output(component_id='invoice_line_table', component_property='data'),
+    Output(component_id='invoice_lines_output_success_id', component_property='children'),
+    [Input(component_id='invoice_lines_upload_data', component_property='contents')],
+    [State(component_id='invoice_lines_upload_data', component_property='filename')],
+)
+def display_invoice_lines(upload_contents, filename):
+    if upload_contents is not None:
+        list_df_all = []
+        success_message = 'Uploaded: '
+        for upload, this_filename in zip(upload_contents, filename):
+            df = parse_uploaded_invoice_lines(upload)
+            list_df_all.append(df)
+            success_message += f'File: {this_filename}({len(df)} rows); '
+        df_all = pd.concat(list_df_all)
+        return df_all.to_dict(orient='records'), success_message
+
+def parse_uploaded_invoice_lines(upload):
+    print(type(upload))
+    content_type, content_string = upload.split(',')
+    decoded = (pybase64.standard_b64decode(content_string))
+    df = pd.read_csv(io.StringIO(decoded.decode('utf-8')), sep=',')
+    return df
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, dev_tools_ui=False, dev_tools_props_check=False)

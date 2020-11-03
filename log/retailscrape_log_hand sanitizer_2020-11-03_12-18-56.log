@@ -1,0 +1,4 @@
+2020-11-03 12:18:56 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 12:18:56 - retail_live - INFO - Search: Initiating new search for 'hand sanitizer' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 12:19:21 - retail_live - INFO - create_log: Creating new log
+2020-11-03 12:19:21 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

@@ -1,0 +1,1001 @@
+result_page_item_position_index,result_page_number,search_term,url,description,from_price,to_price,fulfillment,availability,rating,duplicate_indicator
+0,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"IBC Root Beer Made with Sugar Soda, 12 Fl Oz Glass Bottles, 4 Count",$3.24,$3.24,Free pickup today,Pickup Only,4.5,N
+1,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Fever Tree Ginger Beer, 4 pack, 6.8 fl oz bottles",$4.98,$4.98,Free pickup today,Pickup Only,4.5,N
+2,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob ULTRA Light Beer, 24 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,4.5,N
+3,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bundaberg Brewed Drinks Bundaberg  Ginger Beer, 4 ea",$5.98,$5.98,Free pickup today,,5,Y
+4,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"A&W Root Beer, 7.5 fl oz cans, 6 pack",$2.50,$2.50,Free pickup today,Pickup Only,4.5,N
+5,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Keystone Light Beer, Lager Beer, 30 Pack Beer, 12 FL OZ Cans, 4.1% ABV",,,,In-store purchase only,0,Y
+6,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild Session IPA, Low Calorie, Award Winning, 12 fl oz Cans, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+7,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Upside Dawn, Run Wild & Cerveza Atletica Mixed Case, Low Calorie, Award Winning, 12 fl oz, Pack of 18",$39.99,$39.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+8,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 30 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+9,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Busch Light Beer, 30 Pack Beer, 12 FL OZ Cans, 4.1% ABV",,,,In-store purchase only,4.5,N
+10,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Coors Light Beer, Light Lager Beer, 30 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4.5,N
+11,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Natural Light Beer, 30 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,4.5,N
+12,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,MALTA INDIA 42OZ,$3.78,$3.78,Free pickup today,Pickup Only,5,N
+13,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"TRULY Lemonade Hard Seltzer Variety, 12 PACK, 12oz beer cans, Gluten Free, Light",,,,In-store purchase only,4.5,N
+14,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Corona Extra Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.6% ABV",,,,In-store purchase only,0,N
+15,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"TRULY Hard Seltzer Berry Variety, 12pk, 12oz beer white cans, Gluten Free, Light",,,,In-store purchase only,4,Y
+16,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 30 Pack, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4,N
+17,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Coors Banquet Lager Beer, Beer 30 Pack, 12 FL OZ Cans, 5% ABV",,,,In-store purchase only,5,N
+18,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Natural Light Beer, 15 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,0,N
+19,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Budweiser Beer, 30 Pack Beer, 12 FL OZ Cans, 5% ABV",,,,In-store purchase only,5,N
+20,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Goya Malt Beverage, 7 Fl Oz, 6 Count",$3.98,$3.98,Free pickup today,Pickup Only,4.5,N
+21,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob ULTRA Light Beer, 24 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4.5,N
+22,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Corona Extra Mexican Lager Beer, 24 pk 12 fl oz Bottles, 4.6% ABV",,,,In-store purchase only,4.5,N
+23,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Dos Equis Lager Especial Beer, 12 pack, 12 fl oz",,,,In-store purchase only,4.5,N
+24,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 12 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+25,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Coors Light Lager Beer, 12 Pack, 12 FL OZ Bottles",,,,In-store purchase only,0,N
+26,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 12 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+27,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 24 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4.5,N
+28,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Modelo Especial Mexican Lager Beer, 24 pk 12 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,4.5,N
+29,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Modelo Especial Mexican Lager Beer, 24 pk 12 fl oz Cans, 4.4% ABV",,,,In-store purchase only,4.5,N
+30,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob ULTRA Light Beer, 12 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4.5,N
+31,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob ULTRA Light Beer, 18 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+32,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Natural Ice Beer, 30 Pack 12 fl. oz. Cans, 5.9% ABV",,,,In-store purchase only,0,N
+33,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob Ultra Pure Gold Organic Light Lager, 12 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,5,N
+34,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Michelob ULTRA Light Beer, 12 Pack Beer, 16 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,5,N
+35,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 18 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+36,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 18 Pack Beer, 12 FL OZ Bottles",,,,In-store purchase only,5,N
+37,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Stella Artois Lager, 18 Pack Beer - 11.2 FL OZ Bottles, 5% ABV",,,,In-store purchase only,4.5,N
+38,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Bud Light Beer, 20 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4.5,N
+39,1,beer,https://www.walmart.com/search/?cat_id=0&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 18 Pack, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,5,N
+0,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Michelob ULTRA Light Beer, 12 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4.5,N
+1,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,5,N
+2,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Michelob ULTRA Infusions Lime & Prickly Pear Cactus Light Beer, 6 Pack Beer, 12 FL OZ Bottles, 4% ABV",,,,In-store purchase only,0,N
+3,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Tecate Light Mexican Beer, 30 pack, 12 fl oz cans",,,,In-store purchase only,0,N
+4,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Banquet Lager Beer, Beer 18 Pack, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,5,N
+5,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 18 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,0,N
+6,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Heineken Lager Beer, 24 pack, 12 fl oz",,,,In-store purchase only,5,N
+7,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Blue Moon Light Sky Wheat Beer, Craft Beer, Beer 6 Pack, 12 FL OZ Cans, 4% ABV",,,,In-store purchase only,3.5,N
+8,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Corona Premier Mexican Lager Light Beer, 12 pk 12 fl oz Bottles, 4.0% ABV",,,,In-store purchase only,4.5,N
+9,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Miller Genuine Draft Beer, American Lager, 12 Pack Beer, 12 fl. oz. Bottles, 4.6% ABV",,,,In-store purchase only,5,N
+10,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Busch Light Beer, 12 Pack Beer, 12 FL OZ Cans, 4.1% ABV",,,,In-store purchase only,0,N
+11,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Natural Light Naturdays Light Beer, 30 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+12,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Miller Genuine Draft Beer, American Lager, 18 Pack Beer, 12 fl. oz. Bottles, 4.6% ABV",,,,In-store purchase only,5,N
+13,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Michelob Ultra Pure Gold Organic Light Lager, 6 Pack Beer, 12 FL OZ Bottles",,,,In-store purchase only,5,N
+14,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 15 Pack Beer, 16 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,5,N
+15,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Blue Moon Belgian White Wheat Beer, Craft Beer, Beer 6 Pack, 12 FL OZ Bottles, 5.4% ABV",,,,In-store purchase only,0,N
+16,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Michelob ULTRA Light Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4.5,N
+17,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 18 pk 12 fl oz Cans, 4.4% ABV",,,,In-store purchase only,4,N
+18,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Bud Light Platinum Beer, 18 Pack 12 fl. oz. Slim Cans, 6% ABV",,,,In-store purchase only,0,N
+19,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 12 Pack, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,0,N
+20,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 12 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4.5,N
+21,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Modelo Negra Mexican Amber Lager Beer, 12 pk 12 fl oz Bottles, 5.4% ABV",,,,In-store purchase only,4.5,N
+22,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Pacifico Clara Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,5,N
+23,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Blue Moon Belgian White Wheat Beer, Craft Beer, Beer 12 Pack, 12 FL OZ Bottles, 5.4% ABV",,,,In-store purchase only,4.5,N
+24,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Mug Root Beer, 2 Liter Bottle",$1.25,$1.25,Free pickup today,Pickup Only,4.5,N
+25,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Blue Moon Belgian White Wheat Beer, Craft Beer, Beer 15 Pack, 12 FL OZ Cans, 5.4% ABV",,,,In-store purchase only,5,N
+26,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Bud Light Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+27,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Corona Extra Coronita Mexican Lager Beer, 6 pk 7 fl oz Bottles, 4.6% ABV",,,,In-store purchase only,5,N
+28,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 18 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,5,N
+29,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Corona Light Mexican Lager Beer, 12 pk 12 fl oz Cans, 4.0% ABV",,,,In-store purchase only,5,N
+30,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Modelo Negra Mexican Amber Lager Beer, 6 pk 12 fl oz Bottles, 5.4% ABV",,,,In-store purchase only,5,N
+31,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Foster's Ale Beer, 25.4 fl. oz. Beer Can, 5% ABV",,,,In-store purchase only,5,N
+32,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Budweiser Beer, 24 Pack Beer, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,5,N
+33,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Budweiser Beer, 12 Pack Beer, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,0,N
+34,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Pabst Blue Ribbon Beer, 6 ct",,,,In-store purchase only,5,N
+35,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Stella Artois Lager, 12 Pack Beer, 11.2 FL OZ Cans, 5% ABV",,,,In-store purchase only,5,N
+36,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 9 Pack Beer, 16 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4,N
+37,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Corona Premier Mexican Lager Light Beer, 18 pk 12 fl oz Bottles, 4.0% ABV",,,,In-store purchase only,0,N
+38,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Budweiser Beer, 18 Pack Beer, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,0,N
+39,2,beer,https://www.walmart.com/search/?cat_id=0&page=2&ps=40&query=beer,"Budweiser Beer, 18 Pack Beer, 12 FL OZ Cans, 5% ABV",,,,In-store purchase only,0,N
+0,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Rolling Rock Extra Pale Beer, 12 Pack 12 fl. oz. Bottles, 4.6% ABV",,,,In-store purchase only,5,N
+1,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Busch Non Alcoholic Beer, 12 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,4,N
+2,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Elysian Space Dust IPA Craft Beer, India Pale Ale, 6 Pack Beer, 12 FL OZ Bottles, 8.2% ABV",,,,In-store purchase only,3,N
+3,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Shock Top Belgian White Wheat Beer, 15 Pack Beer, 12 FL OZ Cans, 5.2% ABV",,,,In-store purchase only,5,N
+4,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Orange Beer, 12 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,5,N
+5,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 6 Pack, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+6,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Lime Beer, 12 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+7,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Miller High Life American Lager Beer, Beer 12 Pack, 12 FL OZ Bottles, 4.6% ABV",,,,In-store purchase only,5,N
+8,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Shock Top Belgian White Wheat Beer, 6 Pack Beer, 12 FL OZ Bottles, 5.2% ABV",,,,In-store purchase only,0,N
+9,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Platinum Beer, 12 Pack Beer, 12 FL OZ Bottles, 6% ABV",,,,In-store purchase only,5,N
+10,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Corona Familiar Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.8% ABV",,,,In-store purchase only,4,N
+11,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+12,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 12 pk 12 fl oz Cans, 4.4% ABV",,,,In-store purchase only,5,N
+13,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Blue Moon Mango Wheat Beer, Craft Beer, Beer 6 Pack , 12 FL OZ Bottles, 5.4% ABV",,,,In-store purchase only,0,N
+14,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Platinum Beer, 6 Pack Beer, 12 FL OZ Bottles, 6% ABV",,,,In-store purchase only,4.5,N
+15,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Corona Premier Mexican Lager Light Beer, 6 pk 12 fl oz Bottles, 4.0% ABV",,,,In-store purchase only,3,N
+16,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Goya Jamaican Style Ginger Beer, 12.0 FL Oz",$78.93,$78.93,Sold & shipped by AMI Ventures Inc Free delivery,,4.5,N
+17,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Budweiser Beer, 6 Pack Beer, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,5,N
+18,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Corona Extra Mexican Lager Beer, 6 pk 12 fl oz Bottles, 4.6% ABV",,,,In-store purchase only,4.5,N
+19,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Elysian Contact Haze Hazy IPA Craft Beer, 6 Pack Beer, 12 FL OZ Cans, 6% ABV",,,,In-store purchase only,4.5,N
+20,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Lime, Lemonade & Orange Beer Variety Pack, 12 Pack Beer, 12 FL OZ Cans, 5% ABV",,,,In-store purchase only,5,N
+21,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Orange Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,3,N
+22,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"White Claw Variety Pack, 12 Pack, 12 oz Cans",,,,In-store purchase only,3.5,N
+23,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Great Value Ginger Ale, 12 fl oz, 12 count",$2.28,$2.28,Free pickup today,Pickup Only,4.5,N
+24,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Keystone Light Beer, Lager Beer, 30 Pack Beer, 12 FL OZ Cans, 4.1% ABV",,,,In-store purchase only,0,Y
+25,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Stewart's Fountain Classics Real Sugar Root Beer, 12 Fl. Oz., 4 Count",$2.82,$2.82,Free pickup today,Pickup Only,4.5,N
+26,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"TRULY Hard Seltzer Berry Variety, 12pk, 12oz beer white cans, Gluten Free, Light",,,,In-store purchase only,4,Y
+27,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Pabst Blue Ribbon Beer, 30 pack, 12 fl oz",,,,In-store purchase only,5,N
+28,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Michelob ULTRA Infusions Lime & Prickly Pear Cactus Light Beer, 12 Pack Beer, 12 FL OZ Bottles, 4% ABV",,,,In-store purchase only,5,N
+29,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Twisted Tea Original Hard Iced, 12 pack beer cans, 12 fl oz",,,,In-store purchase only,4,N
+30,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Busch Beer, 30 Pack Beer, 12 FL OZ Cans, 4.3% ABV",,,,In-store purchase only,5,N
+31,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Beer, 20 Pack Beer, 16 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,3.5,N
+32,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Corona Extra Coronita Mexican Lager Beer, 24 pk 7 fl oz Bottles, 4.6% ABV",,,,In-store purchase only,4.5,N
+33,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Coors Banquet Lager Beer, Beer 12 Pack, 12 FL OZ Cans, 5% ABV",,,,In-store purchase only,5,N
+34,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Blue Moon Light Sky Wheat Beer, Craft Beer, Beer 12 Pack, 12 FL OZ Cans, 4% ABV",,,,In-store purchase only,5,N
+35,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Beer, 12 Pack Beer, 16 FL OZ Bottles, 4.2% ABV",,,,In-store purchase only,4,N
+36,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Cerveza Dos Equis Ambar Lager Mexican Beer, 12-Pack 12 Oz. Bottles",$12.97,$12.97,,,5,N
+37,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 3 pk 24 fl oz Cans, 4.4% ABV",,,,In-store purchase only,4,N
+38,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Redd's Hard Apple Ale Beer, 6 Pack, 12 fl. oz. Bottles, 5% ABV",,,,In-store purchase only,5,N
+39,3,beer,https://www.walmart.com/search/?cat_id=0&page=3&ps=40&query=beer,"Bud Light Beer, 24 Pack 10 fl. oz. Cans, 4.2% ABV",,,,Out of stock,5,N
+0,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 18 Pack, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+1,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Kona Brewing Co. Island Hopper Beer Variety Pack, 12 Pack Beer, 12 FL OZ Bottles",,,,In-store purchase only,0,N
+2,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Corona Premier Mexican Lager Light Beer, 12 pk 12 fl oz Cans, 4.0% ABV",,,,In-store purchase only,4,N
+3,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Samuel Adams Boston Lager Beer, 12 oz, 12 count",,,,In-store purchase only,5,N
+4,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Bud Light Beer, 12 Pack Beer, 8 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+5,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Corona Light Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.0% ABV",,,,In-store purchase only,5,N
+6,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Goose Island IPA Craft Beer, India Pale Ale, 6 Pack Beer, 12 FL OZ Bottles, 5.9% ABV",,,,In-store purchase only,4.5,N
+7,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Beck's Pilsner Beer, 12 Pack 12 fl. oz. Bottles, 4.8% ABV",,,,In-store purchase only,5,N
+8,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Natural Ice Beer, 15 Pack Beer, 12 FL OZ Cans, 5.9% ABV",,,,In-store purchase only,5,N
+9,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Miller Genuine Draft Beer, American Lager, 30 Pack Beer, 12 fl. oz. Cans, 4.6% ABV",,,,In-store purchase only,5,N
+10,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Modelo Especial Modelito Mexican Lager Beer, 24 pk 7 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,5,N
+11,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 12 Pack Beer, 8 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,3.5,N
+12,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Coors Banquet Lager Beer, Beer 6 Pack, 12 FL OZ Bottles, 5% ABV",,,,In-store purchase only,0,N
+13,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Stella Artois Lager, 24 Pack Beer - 11.2 FL OZ Bottles",,,,In-store purchase only,4.5,N
+14,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Dos Equis Ambar Lager Beer, 6 pack, 12 fl oz bottles",,,,In-store purchase only,0,N
+15,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Stone Beer Variety Pack, 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+16,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Corona Familiar Mexican Lager Beer, 24 pk 12 fl oz Bottles, 4.8% ABV",,,,In-store purchase only,5,N
+17,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Elysian Space Dust IPA Craft Beer, India Pale Ale, 12 Pack Beer, 12 FL OZ Bottles, 8.2% ABV",,,,In-store purchase only,0,N
+18,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Tecate Mexican Beer, 12 pack, 12 fl oz cans",,,,In-store purchase only,0,N
+19,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Pabst Blue Ribbon Beer, 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+20,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Lagunitas Little Sumpin Beer, 12 pack, 12 fl oz Bottles",,,,In-store purchase only,5,N
+21,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Saint Archer Gold Light Lager Beer, Craft Beer, Beer 12 Pack, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+22,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Steel Reserve High Gravity Lager Beer, 24 fl. oz. Can, 8.1% ABV",,,,In-store purchase only,5,N
+23,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Bud Light Chelada The Original Made with Clamato Beer, 25 fl. oz. Can, 4.2% ABV",,,,In-store purchase only,5,N
+24,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 18 pk 12 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,0,N
+25,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Kona Brewing Co. Big Wave Golden Ale Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.4% ABV",,,,In-store purchase only,5,N
+26,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Pacifico Clara Mexican Lager Beer, 6 pk 12 fl oz Bottles, 4.4% ABV",,,,In-store purchase only,0,N
+27,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Tecate Light Mexican Beer, 12 pack, 12 fl oz cans",,,,In-store purchase only,0,N
+28,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Bundaberg Brewed Drinks Bundaberg  Ginger Beer, 4 ea",$5.98,$5.98,Free pickup today,,4,Y
+29,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Foster's Premium Ale Beer, 25.4 fl. oz. Beer Can, 5.5% ABV",,,,In-store purchase only,5,N
+30,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Beers of Mexico Variety Pack, 12 pack, 12 fl oz",,,,In-store purchase only,5,N
+31,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Bud Light Beer, 3 Pack Beer, 25 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,5,N
+32,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Sol Chelada Beer, Mexican Import, 24 fl. oz. Beer Can, 4.5% ABV",,,,In-store purchase only,4,N
+33,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Heineken Lager, 18 pack, 12 fl oz bottles",,,,In-store purchase only,4.5,N
+34,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Upside Dawn Craft Golden Ale, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+35,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Pacifico Clara Mexican Lager Beer, 24 pk 12 fl oz Bottles, 4.4% ABV",,,,Out of stock,0,N
+36,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Redd's Wicked Apple Ale Beer, 12 Pack, 10 fl. oz. Cans, 8% ABV",,,,Out of stock,5,N
+37,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Coors Banquet Lager Beer, Beer 12 Pack, 12 FL OZ Bottles, 5% ABV",,,,Out of stock,5,N
+38,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 6 Pack, 16 FL OZ Cans, 4.2% ABV",,,,Out of stock,0,N
+39,4,beer,https://www.walmart.com/search/?cat_id=0&page=4&ps=40&query=beer,"Redd's Wicked Black Cherry Ale Beer, 12 Pack, 10 fl. oz. Cans, 8% ABV",,,,Out of stock,4.5,N
+0,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Bud Light Beer, 25 FL OZ Can, 4.2% ABV",,,,In-store purchase only,5,N
+1,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Modelo Chelada Especial Mexican Import Flavored Beer, 3 pk 24 fl oz Cans, 3.5% ABV",,,,In-store purchase only,0,N
+2,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Budweiser Nitro Reserve Gold Lager Beer, 12 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,5,N
+3,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Budweiser Beer, 25 FL OZ Can, 5% ABV",,,,In-store purchase only,5,N
+4,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Cervezas Clasicas Variety Pack Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.3% ABV",,,,In-store purchase only,5,N
+5,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"TRULY Hard Seltzer Tropical Variety, 12pk, 12oz beer white cans, Gluten Free, Light",,,,In-store purchase only,5,N
+6,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Corona Familiar Mexican Lager Beer, 6 pk 12 fl oz Bottles, 4.8% ABV",,,,In-store purchase only,0,N
+7,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,Twang Beer Salt Lime 1.4oz Bottle,$1.98,$1.98,Free pickup today,,5,N
+8,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Heineken Lager, 12 pack, 12 fl oz bottles",,,,In-store purchase only,5,N
+9,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Red Stripe Beer, 6 pack, 12 fl oz",,,,In-store purchase only,5,N
+10,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 24 FL OZ Can, 4.2% ABV",,,,In-store purchase only,5,N
+11,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Founders All Day IPA Session Ale, 15 pack, 12 fl oz cans",,,,In-store purchase only,4.5,N
+12,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Red Stripe Lager Beer, 12 pack, 11.2 fl oz Bottles",,,,In-store purchase only,0,N
+13,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild IPA and Upside Dawn Golden Ale Mixed Case, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+14,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild Session IPA, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+15,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Corona Familiar Mexican Lager Beer, 32 fl oz Bottle, 4.8% ABV",,,,In-store purchase only,0,N
+16,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 24 fl oz Can, 4.4% ABV",,,,In-store purchase only,5,N
+17,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Budweiser Beer, 3 Pack 25 fl. oz. Cans, 5% ABV",,,,In-store purchase only,0,N
+18,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Michelob ULTRA Light Beer, 25 FL OZ Can, 4.2% ABV",,,,In-store purchase only,5,N
+19,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 6 pk 12 fl oz Cans, 4.4% ABV",,,,In-store purchase only,0,N
+20,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Old Milwaukee Non-Alcoholic Beer, 12 pack, 12 fl oz",,,,In-store purchase only,5,N
+21,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Bud Light Beer, 6 Pack 12 fl. oz. Cans, 4.2% ABV",,,,In-store purchase only,5,N
+22,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,White Claw Black Cherry 6-pk 12oz. Can,,,,In-store purchase only,4,N
+23,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Vizzy Gluten Free Hard Seltzer Variety Pack, Seltzer 12 Pack, 12 FL OZ Slim Cans, 5% ABV",,,,In-store purchase only,5,N
+24,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Golden Road Brewing Wolf Pup Session IPA Craft Beer, 12 Pack Beer, 12 FL OZ Cans, 4.5% ABV",,,,In-store purchase only,0,N
+25,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Heineken Lager Beer, 24 fl oz can",,,,In-store purchase only,0,N
+26,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Natural Light Beer, 12 Pack 12 fl. oz. Cans",,,,In-store purchase only,0,N
+27,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Kona Brewing Co. Longboard Island Lager Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.6% ABV",,,,In-store purchase only,0,N
+28,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Pabst Blue Ribbon Extra Beer 12 Pack, 12 fl oz Cans",,,,In-store purchase only,4,N
+29,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Saint Archer IPA Beer, 6 Pack, 12 fl. oz. Cans, 7% ABV",,,,In-store purchase only,4,N
+30,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Natural Light Beer, 25 fl. oz. Can, 4.2% ABV",,,,In-store purchase only,5,N
+31,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Corona Extra Mexican Lager Beer, 24 fl oz Bottle, 4.6% ABV",,,,In-store purchase only,0,N
+32,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Guinness Draught Stout, 6 pack, 11.2 fl oz Bottles",,,,In-store purchase only,0,N
+33,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Heineken 0.0 Alcohol Free, 6 pack, 11.2 fl oz Cans, 69 Calories",,,,In-store purchase only,4.5,N
+34,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Beck's German Beer, 6 Pack Beer, 12 FL OZ Bottles, 4.8% ABV",,,,In-store purchase only,0,N
+35,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Sierra Nevada Pale Ale, 12 pack, 12 fl oz",,,,In-store purchase only,5,N
+36,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Molson Canadian Lager Beer, 30 Pack, 12 fl. oz. Cans, 5% ABV",,,,Out of stock,0,N
+37,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Genesee Beer, 30 pack, 12 fl oz",,,,Out of stock,0,N
+38,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 24 FL OZ Can, 4.2% ABV",,,,Out of stock,5,N
+39,5,beer,https://www.walmart.com/search/?cat_id=0&page=5&ps=40&query=beer,"Michelob Golden Light Draft Beer, 6 Pack 12 fl. oz. Bottles",,,,Out of stock,5,N
+0,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 3 Pack Beer, 24 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,0,N
+1,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Sapporo Premium Beer, 22.0 FL OZ",,,,In-store purchase only,5,N
+2,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Heineken 0.0 Alcohol Free Beer, 6 pack, 11.2 fl oz bottles, 69 Calories",,,,In-store purchase only,4.5,N
+3,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Coors Light Beer, Light Lager Beer, 6 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4.5,N
+4,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,Sierra Nevada Hazy Little Thing IPA 6-12 fl. oz. Cans,,,,In-store purchase only,0,N
+5,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Miller Genuine Draft Beer, American Lager, 18 Pack Beer, 12 fl. oz. Cans, 4.6% ABV",,,,In-store purchase only,0,N
+6,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,White Claw Raspberry 6-pk 12oz. Can,,,,In-store purchase only,0,N
+7,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Upside Dawn Craft Golden Ale, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,4,N
+8,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"O'Doul's Premium Golden Non-Alcoholic Brew, 12 Pack 12 fl. oz. Cans",,,,In-store purchase only,4,N
+9,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Lagunitas IPA, 6 pack, 12 fl oz",,,,In-store purchase only,5,N
+10,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Kutztown ""Nix Besser"" White Birch Beer, 24 Oz. Bottles (Pack of 8)",$35.95,$35.95,Sold & shipped by Kauffman's Fruit Farm & Market Free delivery,,5,N
+11,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Lagunitas IPA, 12 pack, 12 fl oz",,,,In-store purchase only,5,N
+12,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Dos Equis Lager Especial, 6 pack, 12 fl oz bottles",,,,In-store purchase only,5,N
+13,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Heineken Lager, 12 pack, 12 fl ozcans",,,,In-store purchase only,5,N
+14,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild Session IPA and Cerveza Atletica Light Copper Lager Mixed Case, Low-Calorie, Award Winning, 12 fl oz, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+15,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Guinness Draught Stout, 4 pack, 14.9 fl oz Cans",,,,In-store purchase only,0,N
+16,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Great Value Root Beer, 8 fl oz, 6 count",$1.64,$1.64,Free pickup today,,4.5,N
+17,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Mug Caffeine-Free Root Beer, 20 Fl. Oz.",$1.88,$1.88,Free pickup today,,5,N
+18,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Smirnoff Ice Variety Fun Pack, 12 pack, 12 fl oz Cans",,,,In-store purchase only,4,N
+19,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"21st Amendment Hell or High Watermelon Wheat Beer, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+20,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,New Belgium Voodoo Ranger Imperial IPA 6PK 12oz Bottles,,,,In-store purchase only,5,N
+21,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Budweiser Chelada Beer, 25 fl. oz. Can, 5% ABV",,,,In-store purchase only,5,N
+22,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Schweppes 1783 Tahitian Lime Ginger Beer, 6.32 fluid ounce glass bottles, 4 pack",,,,In-store purchase only,0,N
+23,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Heineken Lager, 18 pack, 12 fl oz cans",,,,In-store purchase only,5,N
+24,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Rolling Rock Extra Pale Beer, 12 Pack 12 fl. oz. Cans, 4.6% ABV",,,,In-store purchase only,0,N
+25,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Corona Extra Mexican Lager Beer, 3 pk 24 fl oz Cans, 4.6% ABV",,,,In-store purchase only,0,N
+26,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Mickeys Fine Malt Liquor Ale Beer, 12 Pack, 12 fl. oz. Bottles, 5.6% ABV",,,,In-store purchase only,0,N
+27,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Firestone 805 Blond Ale, 12 pack, 12 fl oz",,,,In-store purchase only,5,N
+28,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Upside Dawn Golden Ale and Cerveza Atletica Light Copper Lager Mixed Case, Low-Calorie, Award Winning, 12 fl oz, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+29,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Upside Dawn Golden Ale and Cerveza Atletica Light Copper Lager Mixed Case, Low-Calorie, Award Winning, 12 fl oz, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+30,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Bundaberg Ginger Beer, 375 Ml (Pack of 6)",$63.99,$63.99,Pro sellerSold & shipped by shopGourmet.com Free delivery,,0,N
+31,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Miller High Life American Lager Beer, Beer, 32 FL OZ Bottle, 4.6% ABV",,,,In-store purchase only,0,N
+32,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,Craft Beer Kit | Hefeweizen,$44.99,$44.99,Sold & shipped by CRAFT A BREW LLC Free delivery,,0,N
+33,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,Beer Bong by True,$30.55,$30.55,Sold & shipped by SlickBlue Free delivery,,0,N
+34,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Sierra Nevada Torpedo Extra IPA, 12 pack, 12 fl oz",,,,In-store purchase only,4.5,N
+35,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Sierra Nevada Pale Ale, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+36,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Kirin Ichiban Premium Beer, 6 Pack 12 fl. oz. Bottles, 4.5% ABV",$60.00,$60.00,,,0,N
+37,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Molson Canadian Lager Beer, 24 Pack, 12 fl. oz. Bottles, 5% ABV",,,,Out of stock,0,N
+38,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,"Blue Moon Belgian White Wheat Beer, Craft Beer, Beer 24 Pack, 12 FL OZ Bottles, 5.4% ABV",,,,Out of stock,4.5,N
+39,6,beer,https://www.walmart.com/search/?cat_id=0&page=6&ps=40&query=beer,Sierra Nevada Torpedo Extra IPA Beer 12-12 fl. oz. Cans,,,,Out of stock,0,N
+0,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Natural Ice Beer, 12 Pack 12 fl. oz. Cans, 5.9% ABV",,,,In-store purchase only,0,N
+1,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Heineken Lager, 6 pack, 12 fl oz bottles",,,,In-store purchase only,0,N
+2,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Kutztown ""Nix Besser"" White Birch Beer, 24 Oz. Bottles (Pack of 4)",$22.85,$22.85,"Sold & shipped by WinCrest Bulk Foods, Inc Free delivery",,0,N
+3,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Pennsylvania Dutch Birch Beer 12 oz. (24 Cans),$42.99,$42.99,"Sold & shipped by M & M Trading of PA, llc Free delivery",,0,N
+4,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Sierra Nevada Pale Ale, 12 pack, 12 fl oz Cans",,,,In-store purchase only,5,N
+5,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcholic Beer - Cerveza Atletica Light Copper Lager, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+6,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Elysian Brewing Mix Pack, 12 Pack 12 fl. oz. Cans",,,,In-store purchase only,0,N
+7,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Heineken Light Lager, 12 pack, 12 fl oz bottles",,,,In-store purchase only,3,N
+8,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Tecate Beer, 3 pack, 24 fl oz Cans",,,,In-store purchase only,0,N
+9,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Pennsylvania Dutch Diet Birch Beer 12 oz. (24 Cans),$42.99,$42.99,"Sold & shipped by M & M Trading of PA, llc Free delivery",,0,N
+10,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"HO SCALE Miniature ""If You Like Beer You'll Love Schlitz The Beer That Made Milwaukee Famous"" Vintage Billboard",$15.31,$15.31,"Sold & shipped by Modellbahn Ott Hobbies, Inc. Free delivery",,0,N
+11,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Mush-Mouth Oatmeal Stout, Beer Making Ingredient Extract Kit",$35.96,$35.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+12,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"BPONG Official Beer Pong Kit World Series of Beer Pong (WSOBP) 2 Racks, 22 Cups & 2 Balls",$29.99,$29.99,Sold & shipped by BoozinGear Free delivery,,0,N
+13,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Pabst Hard Coffee 4/11 C,,,,In-store purchase only,5,N
+14,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"O'Doul's Premium Golden Non-Alcoholic Brew, 6 Pack 12 fl. oz. Bottles, 0.5% ABV",,,,In-store purchase only,5,N
+15,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,ZYTHOS DOUBLE IPA ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grain,$45.24,$45.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+16,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Bravus Non-Alcoholic Beer - Amber Ale - 6-pack,$22.99,$22.99,Sold & shipped by Bravus Brewing Company Free delivery,,0,N
+17,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Twang Flavored Beer Salt, Lime, 1.4 Ounce Bottles, 24 Count",$60.11,$60.11,Sold & shipped by Hawks Online Free delivery,,0,N
+18,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Vintage 1990 Etched 16oz Pint Beer Soda Glass - 30th Birthday Aged to Perfection - 30 years old gifts,$15.99,$15.99,"Sold & shipped by Poseidon Brands, LLC Free delivery",,0,N
+19,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Belvoir Fruit Fram Organic Ginger Beer Case of 4 X 250ml,$31.49,$31.49,Sold & shipped by Epicure Company Free delivery,,0,N
+20,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,New Belgium Voodoo Ranger IPA 6PK 12oz Bottles,,,,In-store purchase only,0,N
+21,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Rogue Batsquatch Hazy Nw Ipa 6/12 C,,,,In-store purchase only,0,N
+22,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Cascade Pellet Hops Home Beer brewing ingredients 2oz pk homebrew,$5.99,$5.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+23,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"A&W Diet Root Beer, 20 Fl Oz Bottles, (Pack of 16, Total of 320 Fl Oz)",$38.99,$38.99,Sold & shipped by Young Systems LLC Free delivery,,0,N
+24,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Coors Banquet Lager Beer, Beer, 24 FL OZ Can, 5% ABV",,,,In-store purchase only,0,N
+25,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,OKTOBERFEST MARZEN (ALE version) Homebrew Beer Recipe Extract Ingredient Kit,$35.24,$35.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+26,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Made in Mexico 4-Shrimp Cocktail Copa Coctelera Quadrado Square Schooner Beer Glasses Mexican Jarro de Vidrio Glass Copa De Cctel De Camarones 7""X4"" Chavela",$44.91,$44.91,Sold & shipped by Always-Quality Free delivery,,0,N
+27,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Vintage 1999 Etched 16oz Pint Beer Soda Glass - 21st Birthday Aged to Perfection - 21 years old gifts,$15.99,$15.99,"Sold & shipped by Poseidon Brands, LLC Free delivery",,0,N
+28,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild Session IPA and Cerveza Atletica Light Copper Lager Mixed Case, Low-Calorie, Award Winning, 12 fl oz, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+29,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Fentimans Ginger Beer 275ml (Pack of 8),$40.75,$40.75,Sold & shipped by Epicure Company Free delivery,,0,N
+30,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,El Dorado Pellet Hops Home Beer brewing ingredients 2oz pk homebrew,$4.50,$4.50,Sold & shipped by Home Brew Stuff Inc Free delivery,,5,N
+31,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Pacifico Clara Mexican Lager Beer, 24 fl oz Can, 4.4% ABV",,,,In-store purchase only,5,N
+32,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Beck's Non-Alcoholic - 6 PK, 12.0 FL OZ",,,,In-store purchase only,5,N
+33,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,Simposh Lemon & Lime Wedge Slicer Cutter to Garnish Food Drink Corona Beer Tea Cocktails Oysters and More | Enjoy Slices of Lemon and Lime Wedges in Seconds,$10.99,$10.99,Sold & shipped by Simposh,,0,N
+34,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Miller Lite Lager Beer, Light Beer, Beer 6 Pack, 8 FL OZ Cans, 4.2% ABV",,,,Out of stock,0,N
+35,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Bud Light Lime Beer, 24 Pack Beer, 12 FL OZ Cans",,,,Out of stock,0,N
+36,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Kokanee Glacier Beer, 6 Pack 16 fl. oz. Cans",,,,Out of stock,0,N
+37,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Michelob Golden Light Draft Beer, 18 Pack 12 fl. oz. Cans",,,,Out of stock,0,N
+38,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Grolsch Swingtop Pilsner Beer, 4 Pack Beer, 16 fl. oz. Bottles, 5% ABV",,,,Out of stock,5,N
+39,7,beer,https://www.walmart.com/search/?cat_id=0&page=7&ps=40&query=beer,"Natty Daddy Beer, 4 Pack 16 fl. oz. Cans, 8% ABV",,,,Out of stock,0,N
+0,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Cerveza Atletica Light Copper Lager, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,5,N
+1,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Lagunitas Little Sumpin Sumpin Ale 6 Pack, 12 fl oz Cans",,,,In-store purchase only,0,N
+2,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,New Belgium Voodooranger Hoppypack12/12c,,,,In-store purchase only,0,N
+3,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Point 5 Non Alcoholic Beer 12-Pack (12, 12-oz Bottles)",$31.00,$31.00,Sold & shipped by Point 5 Brewing Free delivery,,5,N
+4,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Lagunitas Day Time IPA, 12.0 OZ",,,,In-store purchase only,0,N
+5,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Beer line Cleaning Kit with 4 oz Cleaning Solution,$37.95,$37.95,Sold & shipped by Draft Warehouse Free delivery,,0,N
+6,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Vintage 1940 Etched 16oz Pint Beer Soda Glass - 80th Birthday Aged to Perfection - 80 years old gifts,$15.99,$15.99,"Sold & shipped by Poseidon Brands, LLC Free delivery",,0,N
+7,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Bud Light Platinum Seltzer Variety Pack, Hard Seltzer, Gluten Free, 6 Pack, 12 FL OZ Slim Cans, 8% ABV",,,,In-store purchase only,0,N
+8,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Cock n Bull Apple Ginger Beer | 100% Natural Apple and Ginger Flavors | Perfect for Moscow Mules, Dark and Stormy Cocktails and Hot Toddys | Non-alcoholic Beer",$28.99,$28.99,Sold & shipped by Around the Clock Gifts Free delivery,,0,N
+9,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Munich Oktoberfest Beer Wagon Lidded .75L Beer Stein,$62.39,$62.39,Sold & shipped by Essence of Europe Gifts,,0,N
+10,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,New Belgium Voodoo Ranger Rotating IPA Series 6PK 12oz Cans,,,,In-store purchase only,0,N
+11,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Firestone 805 Lager, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+12,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Draft Beer Tower - Brass - 3"" Column - 1 Faucet beer towers KegWorks",$114.99,$114.99,Sold & shipped by KegWorks,,0,N
+13,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Rogue Dead Guy Ale, 6 pack, 12 fl oz cans",,,,In-store purchase only,0,N
+14,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Mile High American Pale Ale, Beer Making Ingredient Extract Kit",$36.96,$36.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+15,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Ball Lock Homebrew Cornelius Keg - 2.5 Gallon - Single Handle - New Kitchen & Dining & Home Brewing & Wine Making & Beer Brewing & Kegs & Kegging All Safe,$94.99,$94.99,Sold & shipped by KegWorks,,0,N
+16,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Dunkelweizen Brewers Best Classic Beer Making Kit,$58.49,$58.49,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+17,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,CROOK & MARKER PARTY PACK RED VARIETY 8/11.5oz CANS,,,,In-store purchase only,5,N
+18,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Stone IPA, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+19,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Tecate Light Mexican Beer, 3 pack, 24 fl oz cans",,,,In-store purchase only,0,N
+20,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Dogfish Head 90 Min Imperial Ipa 6/12 B,,,,In-store purchase only,0,N
+21,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Natural Light Naturdays Light Beer, 12 Pack Beer, 12 FL OZ Cans, 4.2% ABV",,,,In-store purchase only,4.5,N
+22,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,FermCap S - Homebrew Beer Anti-Foam Inhibitor - 1oz Size,$6.49,$6.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+23,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,GERMAN HEFEWEIZEN Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$35.24,$35.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+24,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,New Belgium Voodoo Ranger Juicy Haze IPA 6Pk 12oz Cans,,,,In-store purchase only,0,N
+25,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Centennial Pellet Hops Home Beer brewing ingredients 1oz pk homebrew,$4.49,$4.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+26,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Austin Homebrew Clone Recipe Lone Star Beer (1B) - ALL GRAIN,$37.44,$37.44,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+27,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Stone Delicious IPA 6 Pack, 12oz Cans",,,,In-store purchase only,0,N
+28,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Fymall S-Shape Air Lock Twin Bubble Grommet Beer Fermentation Homebrew,$6.49,$6.49,Sold & shipped by Fymall Free delivery,,0,N
+29,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Beer Bottle Vest, Mini Tactic Military Vest for Sofa Beer Bottle Can Beverage Decoration Cover, Beverage Vest",$8.69,$8.69,Sold & shipped by Joybuy Express Free delivery,,0,N
+30,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,ABC Beer Kit Pale Ale,$37.00,$37.00,Sold & shipped by ABC Crafted Series Free delivery,,0,N
+31,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Bud Ice Lager, 25 fl. oz. Can, 5.5% ABV",,,,In-store purchase only,0,N
+32,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Budweiser Nitro Reserve Gold Lager, 6 Pack 12 fl. oz. Cans",,,,In-store purchase only,0,N
+33,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Studio Mercantile Chilling Beer Pints,$23.92,$23.92,Sold & shipped by The Season Free delivery,,0,N
+34,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Amarillo Pellet Hops Home Beer brewing ingredients 1oz pk homebrew,$4.49,$4.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+35,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Belgian Saison Brewers Best Classic Beer Making Kit,$39.95,$39.95,Sold & shipped by Hobby Homebrew Free delivery,,0,N
+36,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,Lagunitas Ipa 12/12c,,,,In-store purchase only,0,N
+37,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"ZiegenBock Texas Amber Beer, 6 Pack 12 fl. oz. Cans, 4.9% ABV",,,,Out of stock,0,N
+38,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Shiner Ruby Redbird Beer 12 pack, 12 fl oz",,,,Out of stock,0,N
+39,8,beer,https://www.walmart.com/search/?cat_id=0&page=8&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 24 fl oz Bottle, 4.4% ABV",,,,Out of stock,0,Y
+0,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - All Out Stout and Run Wild IPA, Low-Calorie, Award Winning, 12 fl oz, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+1,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,BAWLS Root Beer 10oz 24 pack,$39.02,$39.02,Pro sellerSold & shipped by shopGourmet.com Free delivery,,0,N
+2,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,AMERICAN CREAM Pre-Prohibition Lager Extract Beer Brewing recipe Homebrew kit,$35.99,$35.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,5,N
+3,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"CRYSTALIA Craft Beer Glasses Set of 6, Belgian Style Stemmed Tulip Classics, IPA Beer Tasting Glassware,13 1/2 oz",$24.99,$24.99,Sold & shipped by Canopus Group Free delivery,,0,N
+4,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Homebrew Root Beer,$11.41,$11.41,Sold & shipped by Hobby Homebrew Free delivery,,0,N
+5,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Beer Bottle Beverage Opener 6.5"" Beer Design Carta Blanca Corona Extra Indio Cerveza Wooden Handmade Made in Mexico Bar Tool (Indio)",$9.99,$9.99,Sold & shipped by My Exports Worldwide Free delivery,,0,N
+6,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,10 LB BRIESS SPARKLING AMBER DRY MALT EXTRACT DME Homebrew Home Brewing Beer,$39.99,$39.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+7,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Deschutes Brewery Fresh Squeezed IPA,, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+8,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Mini Vest Shape Nylon Adjustable Detachable DIY Drinks Water Bottles Decoration KTV Bar Ornament Beer Bottle Cover,$9.49,$9.49,Sold & shipped by Joybuy Express Free delivery,,0,N
+9,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,OATMEAL STOUT ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$38.24,$38.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+10,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Anchor Steam Beer, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+11,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,CITRA IPA Extract Beer Recipe Homebrew kit Malt hops and grain ingredients,$42.24,$42.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,5,N
+12,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Sierra Nevada Torpedo Extra IPA, 6 pack, 12 fl oz",,,,In-store purchase only,5,N
+13,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Economy Beer Line Cleaning Kit - 4oz Liquid,$43.95,$43.95,Sold & shipped by KegWorks,,0,N
+14,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Hurricane High Gravity Malt Liquor, 25 fl. oz. Can, 8.1% ABV",,,,In-store purchase only,4,N
+15,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,12 oz Beer Bottles- AMBER- Case of 24,$22.00,$22.00,Sold & shipped by Home Brew Ohio Free delivery,,5,N
+16,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"St. Pauli Girl NA Pilsner, 6 Pack 12 fl. oz. Bottles, 4.9% ABV",,,,In-store purchase only,0,N
+17,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Firestone Mind Haze 6/12c,,,,In-store purchase only,0,N
+18,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Spring Loaded Beer Bottle Filler,$11.64,$11.64,Sold & shipped by Hawks Online Free delivery,,0,N
+19,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,THE AMERICAN CREAM Extract Beer Brewing recipe Homebrew kit Pre-Prohibition Ale,$35.24,$35.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+20,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Natural Brew Draft Root Beer, 12 Fl. Oz., 4 Count",$43.72,$43.72,Sold & shipped by All Goods Distributors Free delivery,,0,N
+21,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Cascade Pellet Hops Home Beer brewing ingredients 1oz pk homebrew,$4.49,$4.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+22,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Firestone Walker Select, 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+23,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,American Pale Ale Brewers Best Classic Beer Making Kit,$39.95,$39.95,Sold & shipped by Hobby Homebrew Free delivery,,0,N
+24,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Pacific Jade (NZ) PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.79,$5.79,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+25,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Lagunitas Sumpin' Easy 12/12 C,,,,In-store purchase only,0,N
+26,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"TRULY Hard Seltzer Lime, 6pk, 12oz beer white cans, Gluten Free, Light",,,,In-store purchase only,0,N
+27,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Kona Brewing Co. Big Wave Golden Ale, 12 Pack 12 fl. oz. Bottles, 4.4% ABV",,,,In-store purchase only,5,N
+28,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Stone Neverending Haze IPA 6 Pack, 12 fl oz Cans",,,,In-store purchase only,0,N
+29,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,FLAKED OATS Adjunct Homebrew Beer Creamy Texture Full-Body Flavor Buy per Pound,$1.99,$1.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+30,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Vintage 2001 Etched 16oz Pint Beer Soda Glass - 19th Birthday Aged to Perfection - 19 Years Old Gifts,$15.99,$15.99,"Sold & shipped by Poseidon Brands, LLC Free delivery",,0,N
+31,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Deschutes Variety Pack. 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+32,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,KLONDIKE (ALASKAN) AMBER ALE Homebrew Beer Recipe Extract Ingredients Kit,$36.19,$36.19,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+33,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Tuscom Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.96,$7.96,Sold & shipped by Joybuy Free delivery,,0,Y
+34,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,Belching Bvr Deftones Phantm Bride 6/16c,,,,In-store purchase only,0,N
+35,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Modelo Especial Mexican Lager Beer, 24 fl oz Bottle, 4.4% ABV",,,,Out of stock,0,Y
+36,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Shock Top Lemon Shandy Beer, 15 Pack 12 fl. oz. Cans, 4.2% ABV",,,,Out of stock,5,N
+37,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Sierra Nevada Pale Ale, 24 pack, 12 fl oz",,,,Out of stock,5,N
+38,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"Busch Ice Beer, 18 Pack 12 fl. oz. Cans, 5.9% ABV",,,,Out of stock,0,N
+39,9,beer,https://www.walmart.com/search/?cat_id=0&page=9&ps=40&query=beer,"SpikedSeltzer Cape Cod Cranberry Beer, 6 Pack 12 fl. oz. Cans",,,,Out of stock,0,N
+0,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Fentimans - Rose Lemonade - 275ml (Case of 12),$52.96,$52.96,Sold & shipped by Epicure Company Free delivery,,0,N
+1,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Oktoberfest Beer Bottle Stein Lid,$10.34,$10.34,Sold & shipped by Essence of Europe Gifts,,0,N
+2,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,1 LB BRIESS BAVARIAN WHEAT DRY MALT EXTRACT DME Homebrew Home Brewing Beer,$9.99,$9.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+3,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Sierra Nevada Summerfest Crisp Lager, 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+4,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Stone Beer Stone Buenaveza 12/12b,,,,In-store purchase only,0,N
+5,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Estrella Jalisco Mix Chelada Pack Mexican Beer, 15 Pack Beer, 12 FL OZ Cans",,,,In-store purchase only,3.5,N
+6,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Stone Fear Movie Lions Double IPA 6 Pack, 16 oz Cans",,,,In-store purchase only,0,N
+7,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Saint Archer Hazy Ipa 6/12 C,,,,In-store purchase only,0,N
+8,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Drakes Dennogginizer Imperial Ipa 6/12b,,,,In-store purchase only,0,N
+9,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Kona Brewing Co. Light Blonde Ale, 6 Pack 12 fl. oz. Bottles, 4.2% ABV",,,,In-store purchase only,0,N
+10,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Stoneware Beer Stein German Gift For Oma,$16.84,$16.84,Sold & shipped by Essence of Europe Gifts,,0,N
+11,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Twang Beer Salt, Lemon Lime, 1.4oz Bottles, 3-pack",$7.14,$7.14,Sold & shipped by SCS Direct Inc,,0,N
+12,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Continental Pilsner Brewers Best Classic Beer Making Kit,$38.95,$38.95,Sold & shipped by Hobby Homebrew Free delivery,,0,N
+13,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Perle (US) PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.49,$5.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+14,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Brooklyn Beer Belching Beaver Peanut Butter 6/12 C,,,,In-store purchase only,0,N
+15,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"21st Amendment Brew Free Or Die IPA, 6 pack, 12 fl oz cans",,,,In-store purchase only,0,N
+16,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Kathmandu to Timbuktu Banana Cream Ale, Beer Making Ingredient Extract Kit",$78.00,$78.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+17,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Thunder Cookie Gingerbread Stout, Beer Making Ingredient Extract Kit",$85.00,$85.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+18,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Sapporo Draft,, 6 pack, 12 fl oz",,,,In-store purchase only,5,N
+19,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Monster Brew Home Brewing Supp Amber Beer Bottles (24 Pack), 12 oz",$34.75,$34.75,Sold & shipped by AZ  World Free delivery,,0,N
+20,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Dogfish Head 60 Min IPA, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+21,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Modern Times Seasonal 4/16c,,,,In-store purchase only,0,N
+22,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Great Stuff Big Gap Filler - 12 oz Cans - Full Case (12 cans),$27.47,$78.99,Sold & shipped by Supply the Home Free delivery,,5,N
+23,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Q Drinks Cocktail Mixer, Ginger Beer, 16.9 Fl Oz, 1 Bottle",$39.99,$39.99,Sold & shipped by The Ali's Cavern Free delivery,,0,N
+24,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Lagunitas Super Cluster 6/12c,,,,In-store purchase only,0,N
+25,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Hop Valley Bubble Stash Ipa 6/12c,,,,In-store purchase only,0,N
+26,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Lagunitas Seasonal Ale, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+27,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Microbreweries Deschutes Handup Ipa 6/12b,,,,In-store purchase only,0,N
+28,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Cheers & Beers 8 x 4 Beer Tasting Score Sheet,$3.87,$3.87,Pro sellerSold & shipped by KT Supply LLC,,0,N
+29,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Microbreweries Breaking Bud Ipa 4/16 C,,,,In-store purchase only,0,N
+30,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Ironbeer Six Pack 12 Oz Cans Non Alcoholic,$16.99,$16.99,Sold & shipped by CubanFoodMarket Free delivery,,1,N
+31,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Tiger Lager, 4 pack, 16 fl oz cans",,,,In-store purchase only,4,N
+32,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,Malta Hatuey Brand Six Pack 7 oz bottles,$17.98,$17.98,Sold & shipped by CubanFoodMarket Free delivery,,0,N
+33,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,BEER NUT STAINLESS STEEL TAIL PIECE GASKET KIT KEGERATOR DRAFT BEER SHANK,$4.55,$4.55,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+34,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Swill American Radler Beer, 12 pack, 12 fl oz bottles",,,,Out of stock,0,N
+35,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Schlafly Sampler Pack, 12 pack, 12 fl oz bottles",,,,Out of stock,0,N
+36,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Kalik Gold Beer, 6 pack, 12 fl oz bottles",,,,Out of stock,0,N
+37,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Samuel Adams The Beers of Summer Variety Pack, 12 pack, 12 fl oz",,,,Out of stock,0,N
+38,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Dad's Old Fashioned Caffeine-Free Root Beer, 1 L",,,,Out of stock,0,N
+39,10,beer,https://www.walmart.com/search/?cat_id=0&page=10&ps=40&query=beer,"Leinenkugel's Summer Shandy Beer, Beer 24 Pack, 12 FL OZ Bottles, 4.2% ABV",,,,Out of stock,4,N
+0,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Reeds Original Brew, Ginger Brew Stronger, 12 Fl Oz (Innerpack of 4)",$23.78,$23.78,Sold & shipped by Bayside beverage Online Free delivery,,0,N
+1,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Schofferhofer Grapefruit Hefeweizen-Mix, 6 pack, 11 fl oz",,,,In-store purchase only,0,N
+2,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Pabst Blue Ribbon Singles 24 fl oz Single Can,,,,In-store purchase only,0,N
+3,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Belvoir Belvoir Fruit Farms  Ginger Beer, 25.4 oz",$117.53,$117.53,Sold & shipped by evoxMarket Free delivery,,0,N
+4,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Blue Moon 40233 Blue Moon Beer Can Insulator,$4.69,$4.69,Sold & shipped by MainMerch Inc.,,0,N
+5,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Oktoberfest 5 Gallon Homebrew Beer Ingredient Kit,$4.99,$4.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+6,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Morris Fake Beer Carded-KA23,$4.99,$4.99,Sold & shipped by GagWorks Free delivery,,0,N
+7,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,GRAINS OF PARADISE .5 oz Homebrew Beer Peppery Zest Citrus Pine Flavor Adjunct,$4.99,$4.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+8,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Lagunitas Maximus IPA, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+9,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,WILLAMETTE PELLET HOPS Home Beer brewing ingredients 1oz pk homebrew,$5.49,$5.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+10,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,CORIANDER WHOLE SEEDS Home Brewing Belgian Wit Wheat Beer 1 OZ Culinary quality,$5.49,$5.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+11,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Palisade PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.40,$5.40,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+12,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,TETTNANGER PELLET HOPS Home Beer brewing ingredients 1oz pk homebrew,$5.49,$5.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+13,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Motueka (NZ) PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.49,$5.49,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+14,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Nugget Pellet Hops Home Beer brewing ingredients 2oz pk homebrew,$5.99,$5.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+15,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Nelson Sauvin (NZ) PELLET HOPS Home Beer brewing ingredients 2oz PK homebrew,$5.99,$5.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+16,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Falconer's Flight 7C's PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.94,$5.94,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+17,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,NORTHERN BREWER PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$5.99,$5.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+18,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Drakes Ipa 6/12b,,,,In-store purchase only,0,N
+19,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Beer Gun Replacement Rubber Valve Seat,$6.90,$6.90,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+20,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Nelson Sauvin (NZ) PELLET HOPS Home Beer brewing ingredients 1oz PK homebrew,$6.94,$6.94,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+21,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Siaonvr Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$6.91,$6.91,Sold & shipped by Joybuy Free delivery,,0,N
+22,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Pack of 12 - Glow in the Dark Beer Bottle Slapsticker labels,$6.99,$6.99,Sold & shipped by Rockymart LLC Free delivery,,0,N
+23,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,S-Shape Air Lock Twin Bubble Grommet Homebrew Beer Fermentation Wine Making Tool,$6.99,$6.99,Sold & shipped by Deepablaze LLC Free delivery,,0,N
+24,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Mnycxen Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.39,$7.39,Sold & shipped by Joybuy Free delivery,,0,N
+25,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,10558 Beer Bottle Brush,$5.98,$5.98,Sold & shipped by Home Brew Ohio Free delivery,,5,N
+26,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,MEGAWHEELS Creative Metal Retro Style Key-Shaped Beer Opener,$7.43,$7.43,Sold & shipped by Joybuy Free delivery,,0,N
+27,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Unbranded Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.69,$7.69,Sold & shipped by Joybuy Free delivery,,0,N
+28,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Lagunitas 12th Of Never Ale 1/19 C,,,,In-store purchase only,0,N
+29,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.69,$7.69,Sold & shipped by Joybuy Free delivery,,0,Y
+30,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Tuscom Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.83,$7.83,Sold & shipped by Joybuy Free delivery,,0,Y
+31,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Outtop Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$7.96,$7.96,Sold & shipped by Joybuy Free delivery,,0,N
+32,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,OFFICIAL BEER TESTER PATCH ALE SUDS DRINKER FUNNY HUMOR,$7.99,$7.99,Sold & shipped by HATNPATCH Free delivery,,0,N
+33,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Golding (US) PELLET HOPS Home Beer brewing ingredients 2oz PK homebrew,$7.98,$7.98,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+34,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,Beer Line Connector Set,$7.99,$7.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+35,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Cerveza Tecate Mexican Lager Beer, 6-Pack 16 Oz. Cans",,,,Out of stock,0,N
+36,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Busch Light Beer, 24 Pack 12 fl. oz. Bottles, 4.1% ABV",,,,Out of stock,0,N
+37,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Molson Canadian Light Beer, 24 fl. oz. Can, 3.9% ABV",,,,Out of stock,0,N
+38,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"King Cobra Premium Malt Liquor, 6 Pack 16 fl. oz. Cans, 6% ABV",,,,Out of stock,0,N
+39,11,beer,https://www.walmart.com/search/?cat_id=0&page=11&ps=40&query=beer,"Miller Genuine Draft Beer, American Lager, 6 Pack Beer, 12 fl. oz. Cans, 4.6% ABV",,,,Out of stock,0,N
+0,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Betterlife Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$8.09,$8.09,Sold & shipped by Envisioned Software Free delivery,,0,N
+1,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Sanfanil Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$8.49,$8.49,Sold & shipped by Joybuy Free delivery,,0,N
+2,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,LACETRE Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$8.59,$8.59,Sold & shipped by Joybuy Free delivery,,0,N
+3,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Creative Metal Guitar-Shaped Beer Opener,$9.08,$9.08,Sold & shipped by Little by Little House Free delivery,,0,N
+4,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"3 PACK BEER NUT, TAIL PIECE, WASHER GASKET KIT FOR KEGERATOR DRAFT BEER SHANK",$8.99,$8.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+5,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,XIAWELIT Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$9.19,$9.19,Sold & shipped by Joybuy Free delivery,,0,N
+6,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"New England IPA - All Natural Men's Soap - 5oz Bar With Exfoliating Pumice and Himalayan Sea Salt, Beer and Citra Hops - Refreshing Citrus Scent",$9.50,$9.50,Sold & shipped by Big Al's Soap Company Free delivery,,0,N
+7,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Brewer's Best NEIPA (New England IPA) Five Gallon Beer Making Ingredient Kit,$54.35,$54.35,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+8,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Wonawenie Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$9.59,$9.59,Sold & shipped by Joybuy Free delivery,,0,N
+9,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Stone Delicious IPA, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+10,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,1 LB BRIESS TRADITIONAL DARK DRY MALT EXTRACT DME Homebrew Home Brewing Beer,$9.99,$9.99,Sold & shipped by Home Brew Stuff Inc,,0,N
+11,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Pabst Blue Ribbon Beer Metal Ribbon Keychain,$9.99,$9.99,Sold & shipped by MainMerch Inc.,,0,N
+12,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$10.14,$10.14,Sold & shipped by Joybuy Free delivery,,0,Y
+13,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Bouanq Wall Mount Metal Bar Club Party Wine Beer Soda Glass Cap Bottle Opener Open Tool,$10.22,$10.22,Sold & shipped by WIKE-UP Free delivery,,0,N
+14,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Treefloewr Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$10.00,$10.00,Sold & shipped by Joybuy Free delivery,,0,N
+15,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,DIY Beer Bottle Cover Vest Adjustable Drinks Bar Ornament Detachable,$9.99,$9.99,Sold & shipped by fysho Free delivery,,0,Y
+16,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Xisheep Wall Mount Metal Bar Club Party Wine Beer Soda Glass Cap Bottle Opener Open Tool,$10.49,$10.49,Sold & shipped by MOUNTAS INC Free delivery,,0,N
+17,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Beer Line Cleaning Attachment beer keg hose fittings ABECO,$10.52,$10.52,Sold & shipped by Draft Warehouse Free delivery,,0,N
+18,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Home Brew Stuff Beer Line Neoprene Coupling Washer (Pack of 12),$10.38,$10.38,Sold & shipped by Hawks Online Free delivery,,0,N
+19,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Keystone Light Beer, Lager Beer, 6 Pack Beer, 12 FL OZ Cans, 4.1% ABV",$24.13,$24.13,Sold & shipped by AMI Ventures Inc Free delivery,,0,N
+20,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Bear Republic Racer 5 IPA, 6 pack, 12 fl oz",,,,In-store purchase only,0,N
+21,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Beer MFL Ball Lock Disconnect,$10.99,$10.99,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+22,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Wisremt Tactical Beer Bottle Cover Military Mini Miniature Molle Vest Personal Bottle Drink Set Adjustable Shoulder Strap,$10.59,$13.89,Sold & shipped by Joybuy Free delivery,,0,N
+23,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Home Brewing Wine Bottling Spring Loaded Beer Bottle Filler Tool Stop Valve,$11.49,$11.49,Sold & shipped by Joybuy Free delivery,,0,N
+24,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,DIY Beer Bottle Cover Vest Adjustable Drinks Bar Ornament Detachable,$9.99,$9.99,Sold & shipped by Daxin Free delivery,,0,Y
+25,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Beer Bottle Set Nylon Mini Vest Shape Adjustable Shoulder Straps Indoor Outdoor Table Decor,$10.99,$10.99,Sold & shipped by Joybuy Free delivery,,0,N
+26,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Bud Light 2-Pack Can Beer Glass, 16oz",$45.41,$45.41,Sold & shipped by AMI Ventures Inc Free delivery,,0,N
+27,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,24 Hrs in A Day... 24 Beers In A Case Coincidence?,$11.99,$11.99,Sold & shipped by Florida Gifts Inc. Free delivery,,0,N
+28,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,DEYIOU Christmas Flanking Bottle Set Of Beverage Cola Beer Bottle Set Decorat 5pc,$12.99,$12.99,Sold & shipped by Joybuy Express Free delivery,,0,N
+29,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Medallion Beer Stein Oktoberfest Hat Pin for German Hat,$12.94,$12.94,Sold & shipped by Essence of Europe Gifts,,0,N
+30,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Intertap Interchangeable Stout Creamer Spout - 304 Stainless Steel beer keg faucets,$12.99,$12.99,Sold & shipped by KegWorks Free delivery,,0,N
+31,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Medallion Beer Stein with Germany Hat Pin for German Hat,$12.94,$12.94,Sold & shipped by Essence of Europe Gifts,,0,N
+32,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Medallion Beer Stein Edelweiss Hat Pin for German Hat,$12.94,$12.94,Sold & shipped by Essence of Europe Gifts,,0,N
+33,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Bev Rite Beer Line with Connectors on Both Ends, 5-Feet-304 Grade Stainless Steel Contact, Clear",$13.95,$13.95,Sold & shipped by Draft Warehouse Free delivery,,0,N
+34,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"PDR Premium Beer Balsamico - 3.4 fl. Oz. - 100% Natural, Aged in Oak Barrels, Fermented, Unfiltered, Vegan, Non-GMO in Glass Bottle",$13.99,$23.99,Sold & shipped by Pödör Premium Oils & Vinegars,,0,N
+35,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Rubber Wood Handle Stainless Steel Beer Bottle OpenerSoda Bottle Screwdriver,$14.20,$14.20,Sold & shipped by TOOLS MALL INC Free delivery,,0,Y
+36,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,CM Soft Neoprene Slim Can Sleeves Insulators Slim Can Covers for 12 Fluid Ounce Energy Drink & Beer Cans for Wedding Party Wedding Gifts Engagement Decoration (Wedding Pattern B (2 Pcs)),$15.05,$15.05,Sold & shipped by Hawks Online Free delivery,,0,N
+37,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,COCK-A-DOODLE DOO BREW BEER CAN CHICKEN RUB,$14.99,$14.99,Sold & shipped by Sausage and Seasoning Co. Free delivery,,0,N
+38,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,Briess 2 Row Brewers Malt for Beer Making Home Brewing,$16.26,$16.26,Sold & shipped by DC Brands Free delivery,,0,N
+39,12,beer,https://www.walmart.com/search/?cat_id=0&page=12&ps=40&query=beer,"Redd's Wicked Apple Ale Beer, 10 Pack, 12 fl. oz. Cans, 8% ABV",,,,Out of stock,0,N
+0,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Plastic Resin Simulation Beer Bottle Random Color,$16.06,$16.06,Sold & shipped by Joybuy Free delivery,,0,N
+1,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,A&W Root Beer & Orange Crush Singles To Go Drink Mix Combo (Pack of 6) By AW,$21.06,$21.06,Sold & shipped by Breezes Free delivery,,0,N
+2,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Gambrinus Honey Malt For Beer Making Home Brewing, 1 Pound Bag",$16.19,$16.19,Sold & shipped by WMKOnline Free delivery,,0,N
+3,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,ESSEN Beer Line Assembly,$15.99,$15.99,Sold & shipped by Essen Free delivery,,0,N
+4,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Brewers Best Natural Beer and Wine Fruit Flavoring (Blueberry),$16.88,$16.88,Sold & shipped by DC Brands Free delivery,,0,N
+5,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Bottle Cover Mini Vest Shape Nylon Adjustable Detachable DIY Drinks Can Water Bottles Decoration KTV Bar Ornament,$17.12,$17.18,Sold & shipped by Joybuy Free delivery,,0,N
+6,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Free Beer Made in the USA with heavy gauge steel""",$16.00,$16.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+7,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Retro Birthday Etched 16oz Beer Mug 50th Birthday Gift,$17.99,$17.99,"Sold & shipped by Poseidon Brands, LLC Free delivery",,0,N
+8,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,3 LB BRIESS TRADITIONAL DARK DRY MALT EXTRACT DME Homebrew Home Brewing Beer,$15.99,$15.99,Sold & shipped by Home Brew Stuff Inc,,5,N
+9,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,German Oktoberfest Beer Stein Hat Pin with Oktoberfest,$17.49,$17.49,Sold & shipped by Essence of Europe Gifts,,0,N
+10,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,1 X 5 Feet of 3/16 Inch I.d. Beer Line Assembly with WingnutThis beer line remains flexible and durable at recommended temperatures and pressures By Beverage Factory,$21.17,$21.17,Sold & shipped by ITIStore Free delivery,,0,N
+11,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,BYO-30 Great Beer Styles,$17.79,$17.79,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+12,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Apple Bottle Beer Soda Pop Wood Cap Caps Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+13,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter H in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+14,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"A&W Root Beer, 20 Fl Oz Bottles, (Pack of 16, Total of 320 Fl Oz)",$38.99,$38.99,Sold & shipped by Young Systems LLC Free delivery,,0,N
+15,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter E in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+16,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"A&W Root Beer, 20 Fl Oz Bottles, (Pack of 12, Total of 240 Fl Oz)",$34.99,$34.99,Sold & shipped by Young Systems LLC Free delivery,,0,N
+17,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Kuriozud Stainless Steel Beer Bottle Cooler,$18.19,$20.76,Sold & shipped by Joybuy Free delivery,,0,N
+18,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Star Bottle Beer Soda Pop Wood Cap Caps Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+19,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter X in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+20,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,22 oz Beer Bottles- AMBER- Case of 12,$25.30,$25.30,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+21,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter C in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+22,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter F in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+23,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Learn to Brew 1 x Faucet Adapter for Jet Carboy Beer Bottle Washer,$19.64,$19.64,Sold & shipped by Hawks Online Free delivery,,0,N
+24,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Grand Service Footed Beer 14oz,$20.90,$20.90,Sold & shipped by Wasserstrom Restaurant Supply Free delivery,,0,N
+25,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Vacu Vin Speed Opener Stainless Steel Modelo Beer Accessory, One Size, Blue",$18.81,$18.81,Sold & shipped by Snapp! Free delivery,,0,N
+26,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Glenhaven Beer Cans Six Pack Ornament,$18.99,$18.99,Sold & shipped by The Christmas Mouse Free delivery,,0,N
+27,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Barbuzzo Bombs Away Beer Bomb, Red/Blue",$19.34,$19.34,Sold & shipped by AMI Ventures Inc Free delivery,,0,N
+28,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cap Traps Letter O in Alphabet Beer Soda Pop Wood Cap Organizer,$39.99,$39.99,Sold & shipped by Whinycat,,0,N
+29,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Happy Hour Double-Sided Cardstock 12""X12""-More Beer",$21.00,$21.00,Sold & shipped by Valucrafts Free delivery,,0,N
+30,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Beer Cork 44X25.5mm 30 count,$21.67,$21.67,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+31,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Bermuda Offshore Trading Regatta  Ginger Beer, 4 ea",$21.99,$21.99,Sold & shipped by MGR Fantastic Deals Inc Free delivery,,0,N
+32,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Willkey 10 Pack Wall Mounted Bottle Opener Vintage Bronze Beer Heavy Duty Rustic Beer and Soda opener with Matching Screws for Bartender Cafe Bars Restaurant,$21.99,$21.99,Sold & shipped by Joybuy Express Free delivery,,0,N
+33,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Automatic Champagne Wire Hood Tightener | Easy And Fun To Use | Easily Tightens Champagne Wires For A Fancy Touch | Great For Home Brewing Champagne, Beer, Wine, Mead",$23.99,$23.99,"Sold & shipped by Fermentaholics, LLC Free delivery",,0,N
+34,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Classic Beer Style Series: Bock (Darryl Richman),$24.04,$24.04,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+35,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Classic Beer Style Series: Vienna, Marzen, Oktobefest (Fix)",$24.04,$24.04,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+36,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Home Brew Ohio Soda Making Packet-Classic Root Beer,$24.18,$24.18,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+37,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Classic Beer Style Series: Scotch Ale (Greg Noonan),$24.04,$24.04,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+38,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,Home Brew Ohio Soda Making Packet-Gnome Root Beer,$21.99,$21.99,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+39,13,beer,https://www.walmart.com/search/?cat_id=0&page=13&ps=40&query=beer,"Beck's Pilsner Beer, 22 fl. oz. Bottle, 5% ABV",,,,Out of stock,0,N
+0,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Scotch Ale (Greg Noonan),$24.04,$24.04,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+1,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,IT'S BEER THIRTY EMB DT,$14.95,$14.95,Sold & shipped by The Home Outfitter Free delivery,,0,N
+2,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Morgan's Canadian Lager 1.5kg Beer Making Ingredient Kit,$24.99,$24.99,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+3,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Free Beer Thermomter Made in the USA with heavy gauge steel""",$23.00,$23.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+4,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"TigerFlex PVC Tubing with Rigid PVC Helix - 4"" O.D. - Per Foot -For Forced Air Systems beer keg taps TigerFlex",$24.99,$24.99,Sold & shipped by KegWorks Free delivery,,0,N
+5,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Amber Glo beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+6,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Arrow Premium Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+7,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Edelweiss Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+8,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Lion Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+9,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Bock Beer Wakeshua Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+10,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,BEER FRIENDS BEER CADDY,$26.00,$26.00,Sold & shipped by VHD Retail LLC Free delivery,,0,N
+11,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Johnson Premium Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+12,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Home Brew Ohio Soda Making Packet-Classic Birch Beer,$24.18,$24.18,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+13,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Ortliebs Lager Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+14,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Beck's Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+15,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Munich Oktoberfest Beer Wagon Scene .75L Beer Stein,$25.94,$25.94,Sold & shipped by Essence of Europe Gifts,,0,N
+16,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Goebel Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+17,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Bavarian Helles (Horst Dornbusch),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+18,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Continental Pilsener (David Miller),$26.45,$26.45,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+19,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,6lb LIQUID MALT EXTRACT BAVARIAN WHEAT LME Home Beer Brewing Homebrew Recipe,$24.99,$24.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+20,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Emotion Lotion Root Beer 3.38oz,$25.01,$25.01,Sold & shipped by Discreet Pleasures Free delivery,,0,N
+21,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Morgan's Canadian India Pale Ale 1.5kg Beer Making Ingredient Kit,$27.48,$27.48,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+22,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Kolsch (Eric Warner),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+23,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - All Out Stout and Upside Dawn Golden Ale, Low-Calorie, Award Winning, 12 fl oz, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+24,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Brown Ale (Daniels/Parker),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+25,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Brucks Jubilee Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+26,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"American Pilsener Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+27,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Continental Brewing Co Pale Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+28,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Two Rivers Bock Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+29,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Citra LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Hop Pellets - 3 Pack,$25.74,$25.74,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+30,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Smoked Beers (Daniels/Larson),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+31,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - All Out Stout & Cerveza Atletica, Low-Calorie, Award Winning, 12 fl oz Cans, Pack of 12",$27.99,$27.99,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+32,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Pale Ale (Terry Foster),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+33,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Seipps Extra Pale Beer Made in the USA with heavy gauge steel""",$26.00,$26.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+34,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Beer Y with 3/8 ID Bore,$28.07,$28.07,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+35,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,QUITTER BEER CADDY,$29.00,$29.00,Sold & shipped by VHD Retail LLC Free delivery,,0,N
+36,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"DAD'S BEER, BEER CADDY",$29.00,$29.00,Sold & shipped by VHD Retail LLC Free delivery,,0,N
+37,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,AUTCARIBLE Multi-style creative Hawaiian Tiki Cup cocktail glass beer mug red wine glass ceramic holiday islander Tiki Cup,$27.06,$47.55,Sold & shipped by EcoVe Machine Free delivery,,0,N
+38,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,"Bev Rite DW3212 Draft Beer Shank Assembly, 304 Grade, 2-1/8"" Long, Stainless Steel",$30.71,$30.71,Sold & shipped by Find-It-Fast Free delivery,,0,N
+39,14,beer,https://www.walmart.com/search/?cat_id=0&page=14&ps=40&query=beer,Classic Beer Style Series: Barley Wine (Allen/Cantwell),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+0,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Mnycxen Beer Foam Maker Battery Operated Beer Foamer Outdoor Accessories,$30.59,$30.59,Sold & shipped by Joybuy Express Free delivery,,0,N
+1,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Classic Beer Style Series: Barley Wine (Allen/Cantwell),$27.65,$27.65,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+2,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Brooklyn Brewery Classic Tulip 16 Ounce Pint Glass for Craft Beer Lovers - 2 Pack (2 Glasses),$31.71,$31.71,Sold & shipped by AMI Ventures Inc Free delivery,,0,N
+3,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Susquehanna Glass Munique Beer Chalices (Set of 4),$31.99,$31.99,Sold & shipped by Overstock Free delivery,,0,N
+4,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Bev Rite 5-1/2 Inch Long Beer Nipple Shank Assembly, Chrome Plated, 3/16 Inch ID Bore",$31.22,$31.22,Sold & shipped by Find-It-Fast Free delivery,,0,N
+5,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,German Castle Engraved Ceramic Beer Stein,$32.44,$32.44,Sold & shipped by Essence of Europe Gifts,,0,N
+6,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Didtye Beer Foam Maker Battery Operated Beer Foamer Outdoor Accessories,$29.19,$29.19,Sold & shipped by Joybuy Free delivery,,0,N
+7,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,YOU HAD ME BEER CADDY,$29.00,$29.00,Sold & shipped by VHD Retail LLC Free delivery,,0,N
+8,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew Clone Recipe Patty's Chili Beer (23A) - ALL GRAIN,$33.23,$33.23,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+9,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Beer Bong, Green, Holds approximately two 12oz beers By True Ship from US",$32.67,$32.67,Sold & shipped by NOBLE HOUSE DEVELOPMENT INC Free delivery,,0,N
+10,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Beer is Coming Colossal Engraved Beer Mug,$29.95,$29.95,Sold & shipped by HomeWetBar,,0,N
+11,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"24""x36"" Gallery Poster, lager bier beer 1879",$33.95,$33.95,Sold & shipped by History Galore Free delivery,,0,N
+12,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Amber 22 oz Beer Bottles - 12 Per Case,$34.99,$34.99,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+13,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Mayers Brewology 101: The Science of Making Beer - Light Continental Ale & Rich Amber Ale,$31.95,$71.95,Sold & shipped by Scientifics Direct Inc Free delivery,,0,N
+14,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,SAAZ KOLSCH ALE Homebrew Light Lager-like Beer Recipe Extract Ingredient Kit,$35.24,$35.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+15,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Spptty Vintage Wood Oak,Oak Barrel,1.5L Vintage Wood Oak Timber Wine Barrel for Beer Whiskey Rum Port",$34.95,$34.95,Sold & shipped by OTVIAP STORE Free delivery,,0,N
+16,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Stainless Steel Dry Hopper Beer Home Brewing Filter 300 Micron Mesh for Cornelius Kegs Corney Kegs , 70mmx300mm, Material: Stainless Steel By nasisa",$36.99,$36.99,Sold & shipped by ITIStore Free delivery,,0,N
+17,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,DUKE IT OUT ESB ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$37.24,$37.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+18,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew Clone Recipe Patty's Chili Beer (23A) - MINI MASH,$35.39,$35.39,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+19,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew Clone Recipe Sierra Nevada Wheat Beer (6D) - ALL GRAIN,$35.93,$35.93,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+20,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,HBS 1550 Extract Beer Brewing recipe Homebrew kit Malt & hops (New Belgium 1554),$37.24,$37.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+21,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Beer Foam Maker Battery Operated Beer Foamer Outdoor Accessories,$35.85,$35.85,Sold & shipped by Joybuy Free delivery,,0,N
+22,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Ginger Beer Made in the USA with heavy gauge steel""",$36.00,$36.00,Sold & shipped by Garage Art Decor Free delivery,,0,N
+23,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Personalized Bucket List Beer Bucket,$32.75,$32.75,Sold & shipped by Unique's Shop,,0,N
+24,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,VIENNA LAGER Extract Beer Brewing recipe Homebrew kit Malt & hops ingredients,$38.24,$38.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+25,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,SMOKED SCOTTISH ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$37.24,$37.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+26,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew Clone Recipe Rolling Rock Beer (1B) - MINI MASH,$38.68,$38.68,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+27,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,"Bev Rite Draft Beer Shank Assembly - 304 Grade Stainless Steel, 4-1/8 inch Long",$37.04,$37.04,Sold & shipped by Find-It-Fast Free delivery,,0,N
+28,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Belgian Beer Glass - 13 oz - 4 Pack,$38.00,$38.00,Sold & shipped by KegWorks,,0,N
+29,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew Clone Recipe Lone Star Beer (1B) - MINI MASH,$36.62,$36.62,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+30,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,ABC Beer Kit Draught,$37.00,$37.00,Sold & shipped by ABC Crafted Series Free delivery,,0,N
+31,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,IRISH STOUT ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$40.24,$40.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+32,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Spring Fling Lime Ale 5 Gallon Homebrew Beer Ingredient Kit,$40.99,$40.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+33,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Beer Bottles - 1 L Amber Flip-Tops - Case of 6,$35.74,$35.74,Sold & shipped by WMKOnline Free delivery,,0,N
+34,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Austin Homebrew California Common Beer (7B) - ALL GRAIN,$38.53,$38.53,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+35,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,BELGIAN SAISON Extract Beer Brewing recipe Homebrew kit Malt & hops ingredients,$39.24,$39.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+36,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Scottish Ale 5 Gallon Homebrew Beer Ingredient Kit,$41.99,$41.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+37,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Bayern Coat of Arms Engraved Beer Stein,$38.94,$38.94,Sold & shipped by Essence of Europe Gifts,,0,N
+38,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,RYE-RISH RED ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$38.99,$38.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+39,15,beer,https://www.walmart.com/search/?cat_id=0&page=15&ps=40&query=beer,Traditional BOCK ALT Extract Beer Brewing recipe Homebrew kit Malt & hops,$39.24,$39.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,Y
+0,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,"Keep On Keepin' On Session IPA, Beer Making Ingredient Extract Kit",$39.96,$39.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+1,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Traditional BOCK ALT Extract Beer Brewing recipe Homebrew kit Malt & hops,$39.24,$39.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,Y
+2,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Scottish Ale 5 Gallon Homebrew Beer Ingredient Kit,$41.99,$41.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+3,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,English Pale Ale 5 Gallon Homebrew Beer Ingredient Kit,$40.99,$40.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+4,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Betterlife Beer Foam Maker Battery Operated Beer Foamer Outdoor Accessories,$39.70,$39.70,Sold & shipped by Envisioned Software Free delivery,,0,N
+5,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,RYE IPA Extract Beer Brewing recipe Homebrew kit Malt hops & grain ingredients,$40.24,$40.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+6,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,WINTER JUBILATION ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grain,$40.24,$40.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+7,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,NIGHT CAP STOUT ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$40.24,$40.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+8,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Treefloewr Beer Foam Maker Battery Operated Beer Foamer Outdoor Accessories,$36.80,$36.80,Sold & shipped by Joybuy Free delivery,,0,N
+9,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Answer Dark Wheat Beer (6D) - ALL GRAIN,$41.48,$41.48,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+10,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,ABC Beer Kit Wheat Beer,$37.00,$37.00,Sold & shipped by ABC Crafted Series Free delivery,,0,N
+11,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Oatmeal Stout 5 Gallon Homebrew Beer Extract Ingredient Kit,$41.99,$41.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+12,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,"BALTIC PORTER ALE Extract Beer Brewing recipe Homebrew kit Malt, hops, grains",$41.24,$41.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+13,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,BLACK HILLS PORTER Homebrew Beer Recipe Ingredient Kit,$41.24,$41.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+14,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Cascade LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Pellets - 6 Pack,$37.37,$37.37,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+15,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Boulevard's Unfiltered Wheat Beer (6D) - MINI MASH,$41.84,$41.84,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+16,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Negra Modelo Dark Beer (3A) - MINI MASH,$42.46,$42.46,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+17,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Milk Stout 5 Gallon Homebrew Beer Extract Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+18,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Lime Long Neck Counter Display (Beer Salt),$42.00,$42.00,"Sold & shipped by BuilderDepot, Inc.",,0,N
+19,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Blue Star Wheat Beer (6D) - MINI MASH,$44.04,$44.04,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+20,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Dunkelweizen 5 Gallon Homebrew Beer Ingredient Kit,$42.99,$42.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+21,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew California Common Beer (7B) - MINI MASH,$43.00,$43.00,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+22,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Rolling Rock Beer (1B) - ALL GRAIN,$37.92,$37.92,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+23,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Root Beer Barrels (5 lbs.),$38.00,$38.00,Sold & shipped by Azzle Wholesale Mart Free delivery,,0,N
+24,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Weizenbier 5 Gallon Homebrew Beer Ingredient Kit,$42.99,$42.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+25,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Grain Belt Premium Beer (1B) - MINI MASH,$43.01,$43.01,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+26,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,EVA Beer Line Tubing - 3/16 in (5 mm) ID - 30 m Roll,$43.18,$43.18,Sold & shipped by Find-It-Fast Free delivery,,0,N
+27,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,GERMAN BROWN ALT ALE Extract Beer Brewing recipe Homebrew kit Malt hops & grains,$38.24,$38.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+28,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Belgian Saison Hombrew 5 Gallon Beer Extract Ingredient Recipe Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+29,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Anchor Steam Beer (7B) - MINI MASH,$42.51,$42.51,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+30,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Belgian White Beer (16A) - ALL GRAIN,$43.07,$43.07,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+31,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Vanilla Cream Ale 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+32,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Blueberry Cream Ale 5 Gallon Homebrew Beer Extract Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+33,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,"Daredevil American IPA, Beer Making Ingredient Extract Kit",$42.96,$42.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+34,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Neuschwanstein Ludwigs Castle Beer Stein 0.55L,$38.94,$38.94,Sold & shipped by Essence of Europe Gifts,,0,N
+35,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Austin Homebrew Clone Recipe Anchor Steam Beer (7B) - EXTRACT,$46.27,$46.27,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+36,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Personalized Brewed To Perfection Beer Caddy,$45.99,$45.99, Free deliveryFree pickup,,0,N
+37,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,DAD'S PALE ALE Extract Beer recipe Homebrew kit Malt and hops ingredients,$44.99,$44.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+38,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Peanut Butter Cream Ale 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+39,16,beer,https://www.walmart.com/search/?cat_id=0&page=16&ps=40&query=beer,Coconut Cream Ale 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+0,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Peanut Butter Cream Ale 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+1,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Coconut Cream Ale 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+2,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,CHOCOLATE STOUT ALE Extract Beer Brewing recipe Homebrew kit Dark Malt and hops,$45.98,$45.98,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+3,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Traditional BOCK LAGER Extract Beer Brewing recipe Homebrew kit Malt & hops,$40.24,$40.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+4,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Super Deluxe Beer Line Cleaning Upgrade Kit,$40.79,$40.79,Sold & shipped by KegWorks,,0,N
+5,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Negra Modelo Dark Beer (3A) - ALL GRAIN,$45.34,$45.34,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+6,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Blue Star Wheat Beer (6D) - EXTRACT,$48.56,$48.56,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+7,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,German Village Collectible Beer Stein,$45.44,$45.44,Sold & shipped by Essence of Europe Gifts,,0,N
+8,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Craft A Brew Chocolate Milk Stout Craft Beer 1 Gallon Brewing Kit,$44.99,$44.99,Sold & shipped by Rise Up Botanics Free delivery,,0,N
+9,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Celis White Beer (16A) - ALL GRAIN,$43.79,$43.79,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+10,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Irish Red Ale 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+11,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Cleveland Brown 5 Gallon Homebrew Beer Extract Ingredient Kit,$40.99,$40.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+12,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Summer Ale 5 Gallon Homebrew Beer Ingredient Kit,$40.99,$40.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+13,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Belgian White Beer (16A) - MINI MASH,$43.96,$43.96,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+14,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Bohemian Pilsner 5 Gallon Homebrew Beer Ingredient KIt,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+15,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,English Brown Ale 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+16,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,BLACK DIAMOND CASCADIAN IPA ALE Homebrew Beer Recipe Extract Ingredient Kit,$45.24,$45.24,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+17,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Robust Porter 5 Gallon Homebrew Beer Ingredient Kit,$45.99,$45.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+18,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Answer Dark Wheat Beer (6D) - MINI MASH,$47.85,$47.85,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+19,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,The White House Honey Porter Beer Kit Homebrewing Recipe of the Founding Fathers,$45.99,$45.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+20,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Simcoe LupuLN2 Cry Hops - 1 Oz. Beer Brewing Hop Pellets - 6 Pack,$51.41,$51.41,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+21,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Personalized Established Wood Beer Caddy,$45.99,$45.99, Free deliveryFree pickup,,0,N
+22,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,BAWLS Guarana Root Beer 16oz 24 pack,$48.00,$48.00,Sold & shipped by BAWLS Guarana,,0,N
+23,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,"Nuclear Santa Hoppy Red Holiday Ale, Beer Making Ingredient Extract Kit",$47.95,$47.95,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+24,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe 80-Acre Hoppy Wheat Beer (6D) - MINI MASH,$51.75,$51.75,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+25,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Oktoberfest Ferris Wheel German Towns Beer Stein,$51.94,$51.94,Sold & shipped by Essence of Europe Gifts,,0,N
+26,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,West Coast IPA 5 Gallon Homebrew Beer Ingredient Kit,$47.98,$47.98,Sold & shipped by My Brew Supply Free delivery,,0,N
+27,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Sleeman Steam Beer (7B) - ALL GRAIN,$47.99,$47.99,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+28,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Celis White Beer (16A) - EXTRACT,$48.25,$48.25,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+29,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Saaz Lager 5 Gallon Homebrew Beer Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+30,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Brewers Best One Gallon Home Brew Beer Ingredient Kit (Pale Ale),$48.36,$48.36,Sold & shipped by Hawks Online Free delivery,,0,N
+31,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,My Crest 25 oz. Beer Mug,$53.20,$53.20,Sold & shipped by EDM Imports Inc Free delivery,,0,N
+32,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Coffee Porter 5 Gallon Homebrew Beer Extract Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+33,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Red Ale 5 Gallon Homebrew Beer Ingredient Kit,$47.99,$47.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+34,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Quarantine American IPA 5 Gallon Homebrew Beer Extract Ingredient Kit,$49.99,$49.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+35,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Austin Homebrew Clone Recipe Zywiec Beer (2A) - MINI MASH,$44.52,$44.52,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+36,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Mosaic LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Hops Pellets - 6 Pack,$49.51,$49.51,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+37,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Irish Stout 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+38,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Beer Brewing Time .85 Liter Stein,$49.34,$49.34,Sold & shipped by Essence of Europe Gifts,,0,N
+39,17,beer,https://www.walmart.com/search/?cat_id=0&page=17&ps=40&query=beer,Orange Wheat 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+0,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Irish Stout 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+1,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Shedu Oatmeal Stout Signature Beer Refill,$49.97,$49.97,Sold & shipped by EDM Imports Inc Free delivery,,0,N
+2,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Orange Wheat 5 Gallon Homebrew Beer Extract Ingredient Kit,$44.99,$44.99,Sold & shipped by My Brew Supply Free delivery,,0,Y
+3,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Pulp Addiction Grapefruit IPA, Beer Making Ingredient Extract Kit",$52.70,$52.70,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+4,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Brewer's Best American Amber Homebrew Beer Ingredient Kit, By Brewers Best",$51.69,$51.69,Sold & shipped by ITIStore Free delivery,,0,N
+5,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Bavarian Mountain Village Beer Stein,$51.94,$51.94,Sold & shipped by Essence of Europe Gifts,,0,N
+6,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Austin Homebrew Clone Recipe Sleeman Steam Beer (7B) - MINI MASH,$52.09,$52.09,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+7,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Cock-N-Bull Cherry Ginger Beer. 2 Packs of Four (Total 8-12 fl oz Bottles).,$48.99,$48.99,Sold & shipped by Around the Clock Gifts Free delivery,,0,N
+8,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Blueberry Honey 5 Gallon Homebrew Beer Extract Ingredient Kit,$51.99,$51.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+9,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Craft Beer Kit Fat Friar Amber Ale,$54.99,$54.99,Sold & shipped by Cascade Sales Group Free delivery,,0,N
+10,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Oatmeal Porter Clone 5 Gallon Homebrew Beer Ingredient Kit (Highland Brewing Company),$46.99,$46.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+11,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Zombie Apocalypse Double Blood Red Ale, Beer Making Ingredient Extract Kit",$56.96,$56.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+12,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"1031 Robust Porter Homebrew Beer Ingredient Kit, Contents: Ingredients, Priming Sugar, Grain Bag(s), Bottle Caps, Brewing Procedures By Brewer's Best Ship from US",$57.37,$57.37,Sold & shipped by NOBLE HOUSE DEVELOPMENT INC Free delivery,,0,N
+13,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Imperial Pale Ale Brewers Best Premium Beer Making Kit,$54.90,$54.90,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Citra LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Hop Pellets - 6 Pack,$47.97,$47.97,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+15,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Bass Pale Ale Pub Beer Tap Handle, Bass Pale Ale Draft Beer Tap Handle By DraftHandlescom,USA",$53.49,$53.49,Sold & shipped by LUCKYSTARTECHNOLOGYINC Free delivery,,0,N
+16,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,American Cream Ale Brewers Best Classic Beer Making Kit,$53.81,$53.81,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+17,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Terminator Dopplebock, Beer Making Ingredient Extract Kit",$47.96,$47.96,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+18,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"(6 Pack) Fentimans North America Ginger Beer, 9.3 Fl Oz.",$51.33,$51.33,,,5,N
+19,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Draft Beer Tower Refurbish Kit - Chrome Plated Brass,$56.69,$56.69,Sold & shipped by Kingdom Restore Free delivery,,0,N
+20,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,NB Beer Bottles 12 oz. w/ Bottle Divider,$24.12,$24.12,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+21,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Whiskey Barrel Stout 5 Gallon Homebrew Beer Ingredient Kit,$48.98,$48.98,Sold & shipped by My Brew Supply Free delivery,,0,N
+22,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Brewers Best - Home Brew Beer Ingredient Kit (5 Gallon), (American Cream Ale)",$56.79,$56.79,Sold & shipped by Hawks Online Free delivery,,0,N
+23,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,INTBUYING 2L Mini Growler Spears Beer Keg With Tap Faucet With CO2 Injector Premium,$110.00,$110.00,Sold & shipped by TOPSELLER INC. Free delivery,,0,N
+24,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Austin Homebrew Clone Recipe Harpoon Summer Beer (6C) - MINI MASH,$49.76,$49.76,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+25,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Mexica Cerveza Brewers Best Classic Beer Making Kit,$56.15,$56.15,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+26,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Scottish Ale Brewers Best Classic Beer Making Kit,$50.30,$50.30,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+27,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit -5 Gallon(Toasted Coconut Cream Ale),$50.30,$50.30,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+28,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,India Pale Ale 5 Gallon Homebrew Beer Ingredient Kit,$50.99,$50.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+29,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Red Ale Brewers Best Classic Beer Making Kit,$73.00,$73.00,Sold & shipped by Gabson Enterprises Free delivery,,0,N
+30,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Cascade LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Pellets - 9 Pack,$51.37,$51.37,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+31,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Pixie Dust Galaxy IPA, Beer Making Ingredient Extract Kit",$52.71,$52.71,Sold & shipped by Jasper's Homebrew Supply Co Free delivery,,0,N
+32,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Beer Clean Glass Cleaner, Powder, .5oz Packet, 100/Carton",$61.65,$61.65,Sold & shipped by ADVENTURER'S BAG Free delivery,,0,N
+33,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Athletic Brewing Company - Craft Non-Alcoholic Beer - Run Wild IPA & Golden Ale & Cerveza & All Out Stout Mixed Case, Low-Calorie, Award Winning, 12 fl oz, Pack of 24",$53.98,$53.98,Sold & shipped by Athletic Brewing Company Free delivery,,0,N
+34,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Chrome Ferrule For Real Ale Beer Engine,$67.99,$67.99,Sold & shipped by KegWorks Free delivery,,0,N
+35,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Alcohol Napkins Set of 4, Bottle of Beer with Hand-Drawn Lettering of Stout Pale Ale Lager Wheat, Silky Satin Fabric for Brunch Dinner Buffet Party, by Ambesonne",$22.99,$22.99,Sold & shipped by 3DeKor LLC Free delivery,,0,N
+36,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,"Brewers Best - Home Brew Beer Ingredient Kit (5 Gallon), (American Light)",$63.37,$63.37,Sold & shipped by DC Brands Free delivery,,0,N
+37,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,MOO-MOO CHOCOLATE STOUT ALE Rich Dark Beer Brewing recipe Homebrew Extract kit,$54.99,$54.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+38,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Belgian Dark Strong Brewers Best Premium Beer Making Kit,$70.19,$70.19,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+39,18,beer,https://www.walmart.com/search/?cat_id=0&page=18&ps=40&query=beer,Pacific Coast IPA Brewers Best Beer Making Kit,$66.68,$66.68,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+0,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Twang Flavored Beer Salt, Lemon-Lime, 1.4 Ounce Bottle, 24 Count",$58.87,$58.87,Sold & shipped by Hawks Online Free delivery,,0,N
+1,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,RYE-RISH RED ALE Home Brew Beer Recipe Ingredient Kit,$69.55,$69.55,Sold & shipped by DC Brands Free delivery,,0,N
+2,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Draft Beer Tower Rebuild Kit - Stainless Steel SS304,$64.95,$64.95,Sold & shipped by Draft Warehouse Free delivery,,0,N
+3,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Barbary Beer 4.5oz,$69.77,$69.77,Sold & shipped by Wasserstrom Restaurant Supply Free delivery,,0,N
+4,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Germany Bayern Coat of Arms Cobalt Blue Beer Stein with Engraved Metal Lid,$71.36,$71.36,Sold & shipped by Essence of Europe Gifts,,0,N
+5,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"9pc Silver and Blue Fosters Beer Bucket with Goodies 20""",$68.99,$68.99,Sold & shipped by Christmas Central Free delivery,,0,N
+6,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,India Pale Ale Brewers Best Classic Beer Making Kit,$71.36,$71.36,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+7,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"9pc White and Red Budweiser Beer Bucket with Goodies 20""",$68.99,$68.99,Sold & shipped by Christmas Central Free delivery,,0,N
+8,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Brewers Best Home Brew Beer Ingredient Recipe Kit (5 Gallon) - Pacific Coast IPA,$71.58,$71.58,Sold & shipped by DC Brands Free delivery,,0,N
+9,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Frankenmuth Bavarian Dunkel, Beer Making Ingredient Extract Kit",$75.00,$75.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+10,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,American Light Brewers Best Classic Beer Making Kit,$71.00,$71.00,Sold & shipped by NuMoon LLC Free delivery,,0,N
+11,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Russian Imperial Stout Brewers Best Beer Making Kit,$69.40,$69.40,Sold & shipped by Digi Commerce Free delivery,,0,N
+12,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Neuschwanstein Ludwigs Castle Beer Stein with Engraved Metal Lid 0.55L,$75.39,$75.39,Sold & shipped by Essence of Europe Gifts,,0,N
+13,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,NUT BROWN ALE Home Brew Beer Recipe Ingredient Kit,$64.79,$64.79,Sold & shipped by DC Brands Free delivery,,0,N
+14,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,GREEN BELT PALE ALE Home Brew Beer Recipe Ingredient Kit,$74.88,$74.88,Sold & shipped by DC Brands Free delivery,,0,N
+15,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Fever-Tree Premium Ginger Beer (6x4 Pack),$73.60,$73.60,"Sold & shipped by SHOP24US, LLC Free delivery",,0,N
+16,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Firecracker Red Ale, Beer Making Ingredient Extract Kit",$78.00,$78.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+17,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Belgian Golden Ale Brewers Best Premium Beer Making Kit,$78.38,$78.38,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+18,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Belgian Witbier Brewers Best Premium Beer Making Kit,$75.00,$75.00,Sold & shipped by T&L Deals Free delivery,,0,N
+19,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"9pc Silver Pabst Blue Ribbon Beer Bucket with Goodies 20""",$68.99,$68.99,Sold & shipped by Christmas Central Free delivery,,0,N
+20,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Draft Tower Single Tap for Beer Kegerator by Learn To Brew LLC,$74.95,$74.95,Sold & shipped by Learn to Brew Free delivery,,0,N
+21,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Southern Belle Pecan Praline Amber Ale, Beer Making Ingredient Extract Kit",$81.00,$81.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+22,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Home Brewing Kit for Beer  Craft A Brew Bone Dry Irish Stout Beer Kit  Reusable Make Your Own Beer Kit  Starter Set 1 Gallon,$81.00,$81.00,"Sold & shipped by Jaoz, Inc Free delivery",,0,N
+23,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Brewers Best Home Brew 5 Gallon Beer Ingredient Recipe Kit - Peanut Butter Porter,$79.73,$79.73,Sold & shipped by WMKOnline Free delivery,,0,N
+24,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Kit (All Grain) - Cream Ale by Erik Beer (Unmilled Base Malts),$81.39,$81.39,Sold & shipped by DC Brands Free delivery,,0,N
+25,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Craft A Brew, Reusable Make Your Own Beer Kit, O.G. Orange Golden Beer Kit, 1 Gallon",$81.00,$81.00,"Sold & shipped by Jaoz, Inc Free delivery",,0,N
+26,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Brewers Best - Home Brew Beer Ingredient Kit (5 gallon), (Coffee Porter)",$80.72,$80.72,Sold & shipped by DC Brands Free delivery,,0,N
+27,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Toasted Caramel Apple Pie Ale, Beer Making Ingredient Extract Kit",$81.00,$81.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+28,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Tebru Home Beer Barrel, 4L Mini Stainless Steel Beer Barrel with Spiral Cover Lid Practical Home Hotel Supplies, Practical Beer Supplies",$77.29,$77.29,Sold & shipped by Unicorn Gifts Free delivery,,0,N
+29,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Super Soaker Summer Watermelon Ale, Beer Making Ingredient Extract Kit",$82.00,$82.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+30,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,OKTOBERFEST / MARZEN Home Brew Beer Recipe Ingredient Kit (ALE VERSION)),$77.98,$77.98,Sold & shipped by DC Brands Free delivery,,0,N
+31,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,CHOCOLATE STOUT ALE Home Brew Beer Recipe Ingredient Kit,$79.90,$79.90,Sold & shipped by DC Brands Free delivery,,0,N
+32,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Belgian IPA Brewers Best Premium Beer Making Kit,$81.00,$81.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+33,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Home Brewing Kit for Beer  Craft A Brew Oktoberfest Ale Beer Kit  Reusable Make Your Own Beer Kit  Starter Set 1 Gallon,$81.00,$81.00,"Sold & shipped by Jaoz, Inc Free delivery",,0,N
+34,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"California Dreamin' Honey Blonde Ale, Beer Making Ingredient Extract Kit",$85.00,$85.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+35,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,"Brewers Best - Home Brew Beer Ingredient Kit (5 gallon), (Dunkelweizen)",$71.79,$71.79,Sold & shipped by DC Brands Free delivery,,0,N
+36,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Mosaic LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Hops Pellets - 12 Pack,$90.84,$90.84,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+37,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Simcoe LupuLN2 Cry Hops - 1 Oz. Beer Brewing Hop Pellets - 9 Pack,$72.43,$72.43,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+38,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,RYE IPA Home Brew Beer Recipe Ingredient Kit,$86.94,$86.94,Sold & shipped by Hawks Online Free delivery,,0,N
+39,19,beer,https://www.walmart.com/search/?cat_id=0&page=19&ps=40&query=beer,Royalty Ginger Beer 11oz (Case of 24 Cans),$82.01,$82.01,Sold & shipped by DropAir Free delivery,,0,Y
+0,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Belgian Style Beer Bottles - 750ml (Case of 12),$91.30,$91.30,Sold & shipped by DC Brands Free delivery,,0,N
+1,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Royalty Ginger Beer 11oz (Case of 24 Cans),$82.01,$82.01,Sold & shipped by DropAir Free delivery,,0,Y
+2,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Black Hills Porter Home Brew Beer Recipe Ingredient Kit (Deschutes Black Butte),$87.35,$87.35,Sold & shipped by DC Brands Free delivery,,0,N
+3,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Cascade LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Pellets - 16 Pack,$86.39,$86.39,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+4,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Fright Night Pumpkin Oktoberfest, Beer Making Ingredient Extract Kit",$92.00,$92.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+5,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Brewers Best Brut IPA Limited Five Gallon Beer Making Ingredient Kit,$87.12,$87.12,Sold & shipped by DC Brands Free delivery,,0,N
+6,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Milk'n It Oatmeal & Cream Stout, Beer Making Ingredient Extract Kit",$84.00,$84.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+7,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Simcoe LupuLN2 Cry Hops - 1 Oz. Beer Brewing Hop Pellets - 9 Pack,$72.43,$72.43,Sold & shipped by The Homebrew Shop Free delivery,,0,Y
+8,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Between Hither & Yon Maple Pecan Artisanal Brown Nectar, Beer Making Ingredient Extract Kit",$85.00,$85.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+9,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Monkey Finger Vanilla Porter, Beer Making Ingredient Extract Kit",$95.00,$95.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+10,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Oktoberfest Ferris Wheel German Towns Beer Stein with Metal Lid,$90.94,$90.94,Sold & shipped by Essence of Europe Gifts,,0,N
+11,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Imperial Blonde Ale Brewers Best Premium Beer Making Kit,$74.76,$74.76,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+12,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Milk Stout Brewers Best Classic Beer Making Kit,$78.00,$78.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+13,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,NIGHT CAP ALE Home Brew Beer Recipe Ingredient Kit,$96.03,$96.03,Sold & shipped by DC Brands Free delivery,,0,N
+14,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Brewers Best Home Brew Beer Ingredient Kit - 5 Gallon (Blueberry Honey Ale),$88.70,$88.70,Sold & shipped by DC Brands Free delivery,,0,N
+15,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Brewer's Best Home Brew Beer Ingredient Kit, 5 gal (Blueberry Honey Ale)",$76.04,$76.04,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+16,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,CZECH PILSNER LAGER Home Brew Beer Recipe Ingredient Kit,$79.81,$79.81,Sold & shipped by DC Brands Free delivery,,0,N
+17,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Stone Cold India Pale ALE Home Brew Beer Recipe Ingredient Kit IPA,$81.70,$81.70,Sold & shipped by DC Brands Free delivery,,0,N
+18,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit (Belgian Saison) (5 Gallon) 2 pack,$107.22,$107.22,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+19,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,English Brown Ale Brewers Best Classic Beer Making Kit,$79.00,$79.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+20,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Amped & Juiced IPA, Beer Making Ingredient Extract Kit",$99.00,$99.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+21,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Tebru Homebrew Stone,6in Stainless Steel Carbonation Stone SS316 with G1/4in NPT Female Gas Inlet for Beer Homebrew,Stainless Steel Carbonation Stone",$84.93,$84.93,Sold & shipped by Unicorn Gifts Free delivery,,0,N
+22,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Velvet Revolution Bohemian Pilsner, Beer Making Ingredient Extract Kit",$85.00,$85.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+23,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,German Cities Oktoberfest Beer Stein with Engraved Metal Lid,$84.36,$84.36,Sold & shipped by Essence of Europe Gifts,,0,N
+24,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Tiger Run Around the Tree Hop Saison, Beer Making Ingredient Extract Kit",$85.00,$85.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+25,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Craft A Brew BK Home Brewing Oak Aged IPA Reusable Make Your Own Beer Kit  Starter Set 1 Gallon, Clear",$89.00,$89.00,"Sold & shipped by Jaoz, Inc Free delivery",,0,N
+26,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"I Eat Danger In Kentucky for Breakfast Stout, Beer Making Ingredient Extract Kit",$108.00,$108.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+27,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Simcoe LupuLN2 Cry Hops - 1 Oz. Beer Brewing Hop Pellets - 16 Pack,$123.83,$123.83,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+28,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Citra LupuLN2 Cryo Hops - 1 Oz. Beer Brewing Hop Pellets - 12 Pack,$87.75,$87.75,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+29,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,"Craft A Brew Home Brewing Single Hop IPA Reusable Make Your Own Beer Kit  Starter Set 1 Gallon, 1 gal, Clear",$89.00,$89.00,"Sold & shipped by Jaoz, Inc Free delivery",,0,N
+30,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,TOF Beer Keg Tap Coupler - K System beer keg couplers,$89.99,$89.99,Sold & shipped by KegWorks Free delivery,,0,N
+31,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Brewer's Best Smoked Porter Home Brew Beer Ingredient Kit (2 Units),$93.50,$93.50,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+32,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Kurt Adler 11-Inch Fabrich Beer Santa,$67.66,$67.66,Sold & shipped by Cancun Deals Free delivery,,0,N
+33,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Stainless Steel Homebrew Beer Bottle Fill Tap De-foaming Filling Accessories,$118.15,$118.15,Sold & shipped by Joybuy Free delivery,,0,Y
+34,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Micro Matic 2837 2-Way Beer Manifold with 1 Barbed Inlet,$134.37,$134.37,Sold & shipped by ADVENTURER'S BAG Free delivery,,0,N
+35,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Brewer's Best Smoked Porter Home Brew Beer Ingredient Kit (3 Units),$139.05,$139.05,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+36,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Rustic Neuschwanstein Castle with German Cities LE German Beer Stein 1 L,$169.98,$169.98,Sold & shipped by Home and Holiday Shops Free delivery,,0,N
+37,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Micro Matic MM-B68 68 oz. Alkaline Beer Line Cleaner - 6/Case,$174.24,$174.24,Sold & shipped by ADVENTURER'S BAG Free delivery,,0,Y
+38,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,500 Years of Germany Beer Purity Law Gift Boxed LE Grey German Beer Stein 1 L,$179.98,$179.98,Sold & shipped by Home and Holiday Shops Free delivery,,0,N
+39,20,beer,https://www.walmart.com/search/?cat_id=0&page=20&ps=40&query=beer,Molson Ice 24 Pack-12 fl. oz. Cans,,,,Out of stock,0,N
+0,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Stainless Steel Homebrew Beer Bottle Fill Tap De-foaming Filling Accessories,$123.32,$123.32,Sold & shipped by Joybuy Free delivery,,0,Y
+1,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Micro Matic MM-B68 68 oz. Alkaline Beer Line Cleaner - 6/Case,$174.24,$174.24,Sold & shipped by ADVENTURER'S BAG Free delivery,,0,Y
+2,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit (Belgian Saison) (5 Gallon) 3 pack,$159.46,$159.46,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+3,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best Smoked Porter Home Brew Beer Ingredient Kit (4 Units),$184.61,$184.61,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+4,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Brewer's Best - Home Brew Beer Ingredient Kit (5 Gallon), (Belgian Saison) (Pack of 4)",$217.20,$217.20,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+5,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Gefest GFG152-2 Beer Tower Gefest 2 Glycol,$194.50,$194.50,Sold & shipped by UnbeatableSale Free delivery,,0,N
+6,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best Smoked Porter Home Brew Beer Ingredient Kit (5 Units),$230.17,$230.17,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+7,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Leader ESBC60, 60x27.5x36-Inch Countertop Beer Cooler, ETL Listed, ETL Sanitatio",$1815.52,$1815.52,Sold & shipped by McDonald Paper & Restaurant Supplies Free delivery,,0,N
+8,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Terra TR263-6 Beer Tower Terra 6,$707.34,$707.34,Sold & shipped by UnbeatableSale,,0,N
+9,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,2 Pack - Barrel Aged in a Bottle Oak Infusion Spiral. Barrel Age Your Whiskey,$24.80,$24.80,Sold & shipped by DropAir Free delivery,,0,N
+10,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Seagram's Spiked JamaicanMeHappy, 24 fl oz can",,,,In-store purchase only,4.5,N
+11,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Cool Gear Pop Lights Bottle - Graveyard,,,,In-store purchase only,0,N
+12,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Lalbrew Verdant IPA Brewing Yeast-11 Grams,$8.95,$8.95,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+13,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Kolsch Homebrew Beer Ingredient Kit,$39.80,$39.80,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,INTBUYING Half Keg 15.5 Gallon 1/2 Stainless Steel Beer Barrel Craft Beer Bar Barrel Homebrew Beer Storage 60L,$219.00,$219.00,Sold & shipped by TOPSELLER INC. Free delivery,,0,N
+15,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best English Brown Ale Homebrew Beer Ingredient Kit,$69.68,$69.68,Sold & shipped by Digi Commerce Free delivery,,0,N
+16,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Ginger Beer Non-alcoholic Beverage (Australia) 12-pack 375ml, Pack of 12 375ml By Bundaberg",$64.48,$64.48,Sold & shipped by Breezes Free delivery,,0,N
+17,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Mexican Cerveza 5 Gallon Homebrew Beer Extract Ingredient Kit,$43.99,$43.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+18,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Heathen Chemistry White IPA, Beer Making Ingredient Extract Kit",$92.00,$92.00,Sold & shipped by Jericho and Co. Free delivery,,0,N
+19,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Mnycxen Christmas Flanking Bottle Set of Beverage Cola Beer Bottle Set Decorat 5Pc,$11.37,$11.37,Sold & shipped by Joybuy Free delivery,,0,N
+20,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,American Light Homebrew Beer Ingredient Kit,$64.96,$64.96,Sold & shipped by Digi Commerce Free delivery,,0,N
+21,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Brewers Best - Home Brew Beer Ingredient Kit (5 gallon), (Black IPA)",$79.64,$79.64,Sold & shipped by DC Brands Free delivery,,0,N
+22,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Old Jamaica Ginger Beer Can 300ml - 6 Pack,$22.83,$22.83,Sold & shipped by Epicure Company Free delivery,,0,N
+23,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,American Blonde Ale 5 Gallon Advanced All Grain Homebrew Beer Ingredient Kit,$39.99,$39.99,Sold & shipped by My Brew Supply Free delivery,,0,N
+24,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Brewer's Best - Home Brew Beer Ingredient Kit (5 gallon), (Red Ale)",$64.58,$64.58,Sold & shipped by Digi Commerce Free delivery,,0,N
+25,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Austin Homebrew Chocolate Stout (13E) - MINI MASH,$44.76,$44.76,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+26,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit - 5 Gallon (Blueberry Honey Ale),$51.16,$51.16,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+27,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Alpine Nelson 6/12 C,,,,In-store purchase only,0,N
+28,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Monster Brew Home Brewing Supp Amber Beer Bottles (24 Pack), 12 oz (3-(Pack))",$86.31,$86.31,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+29,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Monster Brew Home Brewing Supp Amber Beer Bottles (12 Pack), 22 oz",$28.58,$28.58,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+30,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Gnome Soda Extracts, Draft Style Root Beer",$13.75,$13.75,Sold & shipped by Home Brew Ohio Free delivery,,5,N
+31,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Funnel-55 Gallon Spun Steel,$39.80,$39.80,Sold & shipped by Namo solutions Free delivery,,0,N
+32,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Pomegranate),$7.86,$7.86,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+33,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Quokka Tritan Bottle Quick Sip Azurite 830 ml Pack of 3,$36.99,$36.99,Sold & shipped by Max Warehouse Free delivery,,0,N
+34,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Ez-Cap Beer Bottles: Amber / 16 Oz,$36.69,$36.69,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+35,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Guinness Extra Stout, Single 22 fl oz Bottle",,,,Out of stock,0,N
+36,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Sierra Nevada Hop Hunter IPA,, 6 pack, 12 fl oz",,,,Out of stock,0,N
+37,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Genesee Cream Ale, 30 pack, 12 fl oz Cans",,,,Out of stock,0,N
+38,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,Modern Times Blazing World 4/16 C,,,,Out of stock,0,N
+39,21,beer,https://www.walmart.com/search/?cat_id=0&page=21&ps=40&query=beer,"Bud Light Apple Beer, 12 pk 12 fl. oz. Cans",,,,Out of stock,5,N
+0,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Briess Grain U.S. Brewers Malt for Beer Making & Home Brewing 1 LB (Rye),$9.31,$9.31,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+1,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (Porter),$22.56,$22.56,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+2,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Smirnoff Seltzer Cranberry Lime, 6 pack, 12 fl oz Cans",,,,In-store purchase only,0,N
+3,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Trumer Beer Trumer Pils 6/12 C,,,,In-store purchase only,0,N
+4,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewers Best Whiskey Barrel Stout Beer Ingredient Kit,$47.95,$47.95,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+5,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit -5 Gallon(Toasted Coconut Cream Ale),$42.49,$42.49,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+6,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"CASE OF 12 - 16 oz. EZ Cap Beer Bottles - AMBER, Garden, Lawn, Maintenance",$37.99,$37.99,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+7,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,1 X Beer Line Cleaning Solution 4oz Bottle,$7.30,$7.30,Sold & shipped by Home Brew Ohio Free delivery,,5,N
+8,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (IPA (India Pale Ale)),$26.11,$26.11,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+9,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Pacific Coast IPA Beer Ingredient Kit,$46.80,$46.80,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+10,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (Raspberry Golden Ale),$32.82,$32.82,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+11,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Weldless Bulkhead - Stainless Steel,$7.95,$7.95,Sold & shipped by Learn to Brew Free delivery,,0,N
+12,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,1 LB BRIESS GOLDEN LIGHT DRY MALT EXTRACT DME Homebrew Home Brewing,$12.99,$12.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+13,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Monster Brew Home Brewing Supp Amber Beer Bottles (24 Pack), 12 oz (5-(Pack))",$140.22,$140.22,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Kona Brewing Co. Spiked Island Seltzer Variety Pack, 12 Pack 12 fl. oz. Cans , 5% ABV",,,,In-store purchase only,0,N
+15,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Coffee Porter Brewers Best Beer Making Kit - Premium,$49.95,$49.95,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+16,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring 4 oz. (Lime),$8.66,$8.66,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+17,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Raspberry),$9.21,$9.21,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+18,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Hamm's Beer, America's Classic Premium Lager, 24 fl. oz. Beer Can, 4.7% ABV",,,,Out of stock,0,N
+19,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Milwaukee's Best Premium Lager Beer, 12 Pack, 12 fl. oz. Cans, 4.8% ABV",,,,Out of stock,0,N
+20,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Molson Golden Beer 18-12 fl. oz. Cans,,,,Out of stock,5,N
+21,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Pizza Port Kook Double India Pale Ale, 16 fl oz, 6 pack",,,,Out of stock,0,N
+22,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Stella Artois Lager, 6 pack, 11 fl oz",$10.97,$10.97,,,0,N
+23,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Tecate Beer, 24 fl oz",,,,Out of stock,0,N
+24,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Coney Island Overpass IPA Beer, 12 fl oz, 6 pack",,,,Out of stock,0,N
+25,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Bud Light Beer, 22 fl. oz. Bottle, 4.2% ABV",,,,Out of stock,0,N
+26,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Bud Light Beer, 24 fl. oz. Bottle",,,,Out of stock,0,N
+27,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Coney Island Hard Root Beer, 12 pack, 12 fl oz",,,,Out of stock,0,N
+28,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Molson Canadian Light Beer, 24 Pack, 12 fl. oz. Bottles, 3.9% ABV",,,,Out of stock,0,N
+29,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Bud Dry Beer, 30pk",,,,Out of stock,0,N
+30,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Kirin Ichiban Premium Beer, 12 Pack 12 fl. oz. Bottles",,,,Out of stock,0,N
+31,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"A&W Caffeine-Free Root Beer, 12 Fl. Oz.",,,,Out of stock,4.5,N
+32,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,SpikedSeltzer Valencia Orange Beer 6-12 fl. oz. Bottles,,,,Out of stock,0,N
+33,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Craft A Brew Oktoberfest Ale Beer Recipe Kit,,,,Out of stock,0,N
+34,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,SpikedSeltzer West Indies Lime Beer 6-12 fl. oz. Bottles,,,,Out of stock,0,N
+35,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,SpikedSeltzer Indian River Grapefruit Beer 6-12 fl. oz. Bottles,,,,Out of stock,0,N
+36,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Craft A Brew Pale Ale Beer Recipe Kit,,,,Out of stock,0,N
+37,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,"Coney Island Brewing Co Hard Root Beer, 6 pack, 9 fl oz",,,,Out of stock,0,N
+38,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,SpikedSeltzer Cape Cod Cranberry Beer 6-12 fl. oz. Bottles,,,,Out of stock,0,N
+39,22,beer,https://www.walmart.com/search/?cat_id=0&page=22&ps=40&query=beer,Genesee 6/16 C,,,,Out of stock,0,N
+0,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Raspberry),$9.21,$9.21,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+1,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (Grapefruit IPA),$24.02,$24.02,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+2,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Hopunion Imported Hop Pellets for Home Brew Beer Making (Czech - Saaz) 1 ounce,$6.05,$6.05,Sold & shipped by Home Brew Ohio Free delivery,,4,N
+3,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Pineapple Bottle Opener  Pineapple Gifts for Island Oasis Pineapple Decor  Birthday Gifts for Travelers  Beach Decor Beer Opener in Gift Box  Pineapple Bar Accessories,$6.97,$6.97,Sold & shipped by AteamProducts Free delivery,,0,N
+4,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,"Monster Brew Home Brewing Supp Amber Beer Bottles (24 Pack), 12 oz (2-(Pack))",$60.48,$60.48,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+5,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Strawberry),$9.27,$9.27,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+6,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,1 Gallon Brewers Best Imperial Stout,$32.75,$32.75,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+7,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Pear),$8.66,$8.66,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+8,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Banana),$7.85,$7.85,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+9,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (Kolsch),$26.11,$26.11,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+10,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Beer & Bourbon Liquor Nuts Gift Tin  - 16oz,$30.00,$30.00,"Sold & shipped by Sugar Plum, Inc. Free delivery",,0,N
+11,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Ball Lock Beer Line Assembly,$13.79,$13.79,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+12,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Pecan),$7.84,$7.84,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+13,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Beer Ingredient Kit -5 Gallon (Peanut Butter Porter),$45.99,$45.99,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Antique Airplane Bottle Opener - Vintage Aviation Gifts for Pilot - Aircraft Decor - Birthday Gift for Veteran - Plane Beer Bottle Opener in Gift Box - Antique Gift,$7.47,$7.47,Sold & shipped by AteamProducts Free delivery,,0,N
+15,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,"12 Oz. 2L x 2 1/2W x 6 3/4H Regina Beer/Water Goblet,Case of 24 EA",$163.41,$163.41,Pro sellerSold & shipped by KT Supply LLC Free delivery,,0,N
+16,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Microbreweries Lgnts Hzy Wndr 6/12c,,,,In-store purchase only,0,N
+17,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,6 Pack Cardboard Beer Bottle Carrier For 12 Ounce Bottles White (24 Count),$27.48,$27.48,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+18,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Novel Personalized Notes Beer Opener Wedding Gifts,$8.80,$8.80,"Sold & shipped by YUNDER TRADE,INC. Free delivery",,0,Y
+19,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Barbed Ball Lock Quick Disconnects Liquid & Gas SET In Beer Out Kegging Homebrew,$12.79,$12.79,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+20,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,HomeBrewStuff Briess CBW Dry Malt Extract (DME) for Home Beer Brewing (Sparkl...,$17.99,$17.99,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+21,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Homebrew Ball-Lock Disconnect - Liquid - Beer Line & Picnic Faucet - Dispense,$12.17,$12.17,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+22,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,"3/16"" Beer Line Assembly and 5/16"" Gas Line Assembly-Ball Lock",$19.95,$19.95,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+23,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (American Brown Ale),$23.44,$23.44,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+24,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Home Brew Beer Ingredient Kit - 5 Gallon (Grapefruit IPA),$49.46,$49.46,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+25,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Fort Point Villager 6/12 C,,,,In-store purchase only,0,N
+26,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Maple),$9.71,$9.71,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+27,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Blackberry),$8.94,$8.94,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+28,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,HomeBrewStuff Briess CBW Dry Malt Extract (DME) for Home Beer Brewing (Bavari...,$17.25,$17.25,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+29,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Classic Soda Extracts Birch Beer 2 Ounces,$9.85,$9.85,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+30,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Oatmeal Stout Beer Ingredient Kit,$45.88,$45.88,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+31,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Beer Bottle Variety Bundle,$43.97,$43.97,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+32,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,HomeBrewStuff Briess CBW Dry Malt Extract (DME) for Home Beer Brewing (Bavari...,$11.45,$11.45,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+33,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Ginger),$8.66,$8.66,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+34,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,"Two Chicks Gin, Apple & Cucumber Gimlet Cocktail 4 Pack, 12 fl oz Cans",,,,In-store purchase only,0,N
+35,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best Classic Soda Extracts Root Beer 2 Ounces,$9.90,$9.90,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+36,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Muntons Connoisseurs Bock Beer 40 Pint Beer Kit,$32.94,$32.94,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+37,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Brewer's Best One Gallon Home Brew Beer Ingredient Kit (Imperial Stout),$28.72,$28.72,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+38,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,"Spice Blend for Spiced Rum, Natural & Artificial (Contains < 0.10% Artificial Top Note) - 2 fl. oz. glass bottle",$6.42,$9.97,Sold & shipped by Apex Flavors,,0,N
+39,23,beer,https://www.walmart.com/search/?cat_id=0&page=23&ps=40&query=beer,Coastwide Professional Lemon DC Plus 32 Oz. Bottle with Graduations CW0450SB-A,$8.71,$8.71,Pro sellerSold & shipped by MyOfficeInnovations Free delivery,,0,N
+0,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Bulk Dried Citrus Peel For Beer and Wine Making - 1 LB (Grapefruit),$25.28,$25.28,Sold & shipped by Home Brew Ohio Free delivery,,5,N
+1,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,PRIMITIVES BY KATHY Shut Up Liver You're Fine Wooden Bottle Tag,$7.95,$7.95,Sold & shipped by Brooklyn Shipping Free delivery,,0,N
+2,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Pyramid Apricot Ale, 12 pack, 12 fl oz",,,,In-store purchase only,0,N
+3,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,No Title,$9.99,$9.99,Sold & shipped by Dietary Depot,,0,N
+4,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Hopunion US Hop Pellets for Home Brew Beer Making (Lemondrop)1 Ounce,$6.65,$6.65,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+5,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Brewer's Best All Natural Flavorings - Tropical Fruit 4 oz,$10.98,$10.98,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+6,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Watermelon),$8.56,$8.56,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+7,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,HomeBrewStuff Galena Hops - 2 oz Pellets,$12.90,$12.90,Sold & shipped by DC Brands Free delivery,,0,N
+8,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,One Step - 8 oz.,$13.03,$13.03,Sold & shipped by Just In Time 365 LLC Free delivery,,0,N
+9,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Alessi Autentico Farro, Porcini Mushroom, 7 Oz",$29.05,$29.05,Sold & shipped by evoxMarket Free delivery,,0,N
+10,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,QUOKKA TRITAN BOTTLE QUICK SIP AZURITE 830 ML,$13.46,$13.46,Sold & shipped by Max Warehouse Free delivery,,0,N
+11,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Home Brew Ohio Flavor Bundle - Strawberry Lemonade - For Home Brewing,$15.38,$15.38,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+12,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Austin Homebrew Clone Recipe Yuengling Traditional Lager (1C) - MINI MASH,$36.66,$36.66,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+13,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Nugget Hop Pellets (US),$14.28,$14.28,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Brewer's Best Natural Beer and Wine Fruit Flavoring (Strawberry/Kiwi),$9.00,$9.00,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+15,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,HomeBrewStuff Golding (US) Hops - 2 oz Pellets,$15.25,$15.25,Sold & shipped by DC Brands Free delivery,,0,N
+16,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"C-IN2 Multipack 2Pk LNS Profile Brif, Wild Fire, Medium",$14.00,$14.00,Sold & shipped by C-IN2 Free delivery,,0,N
+17,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Cornelius Plug Adapter - 1/4"" MPT",$14.99,$14.99,Sold & shipped by Home Brew Stuff Inc Free delivery,,0,N
+18,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,1 Liter Cobalt E.Z. Cap Bottles - Single,$15.65,$15.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+19,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Beer Gift Bag with Gift Tag""Hold My Beer & Watch This"" Design, 2 Pack (Six-Pack of Beer Fits Perfectly)",$10.00,$10.00,Sold & shipped by The Want Knott Store Free delivery,,0,N
+20,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,White Iris Musk,$16.00,$25.00,Sold & shipped by Old City Canning Co. Free delivery,,0,N
+21,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Beer Gift Bag with Gift Tag""Hoppy New Beer"" Design, 2 Pack (Six-Pack of Beer Fits Perfectly)",$10.00,$10.00,Sold & shipped by The Want Knott Store Free delivery,,0,N
+22,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Austin Homebrew Clone Recipe Yuengling Traditional Lager (1C) - ALL GRAIN,$36.05,$36.05,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+23,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"BCGA Concept Bruce Cost  Ginger Ale, 12 oz",$16.99,$16.99,Sold & shipped by MGR Fantastic Deals Inc Free delivery,,0,N
+24,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,HomeBrewStuff Glacier Hops - 2 oz Pellets,$16.43,$16.43,Sold & shipped by DC Brands Free delivery,,0,N
+25,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Fuselage: UMX Vapor Lite HP,$16.99,$16.99,Sold & shipped by Horizon Hobby,,0,N
+26,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,White Labs Belgian Style Saison Ale Blend WLP568 With Cold Pack and Heat Shield,$18.59,$18.59,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+27,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,White Labs Belgian Style Ale Blend WLP575 With Cold Pack and Heat Shield,$18.59,$18.59,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+28,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Weyermann Pale Ale Malt 1 Lb.,$18.28,$18.28,Sold & shipped by DC Brands Free delivery,,0,N
+29,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Home Brew Ohio Flavor Bundle - Chocolate Covered Cherry - For Home Brewing,$18.68,$18.68,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+30,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,El Dorado Hops - 2 oz Pellets,$18.89,$18.89,Sold & shipped by DC Brands Free delivery,,0,N
+31,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,AUTCARIBLE Novel Personalized Notes Beer Opener Wedding Gifts,$8.80,$8.80,Sold & shipped by EcoVe Machine Free delivery,,0,N
+32,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Akoyovwerve Novel Personalized Notes Beer Opener Wedding Gifts,$8.80,$8.80,Sold & shipped by Supreme Deals 18 Free delivery,,0,N
+33,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"REBBL Organic Maca Cold-Brew Energizing Elixir, 12 fl oz",$18.99,$18.99,Sold & shipped by MGR Fantastic Deals Inc Free delivery,,0,N
+34,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Goldthread - Plant Based Tonic Turmeric Radiance - 12 fl. oz.,$18.99,$18.99,Sold & shipped by MGR Fantastic Deals Inc Free delivery,,0,N
+35,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,American Oak Infusion Spirals - Medium Plus Toast,$10.80,$10.80,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+36,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,Novel Personalized Notes Beer Opener Wedding Gifts,$8.80,$8.80,Sold & shipped by St.Pathway Grocery Free delivery,,0,Y
+37,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,5 lb Cara Red Weyermann,$19.94,$19.94,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+38,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"organic wild tonic tropical turmeric, 16 fl oz",$19.99,$19.99,Sold & shipped by MGR Fantastic Deals Inc Free delivery,,0,N
+39,24,beer,https://www.walmart.com/search/?cat_id=0&page=24&ps=40&query=beer,"Coors Light Citrus Radler, 12 pack, 12 fl oz",,,,Out of stock,0,N
+0,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Novel Personalized Notes Beer Opener Wedding Gifts,$8.80,$8.80,Sold & shipped by Party Necessity Inc Free delivery,,0,Y
+1,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,LANDSCAPE FABRIC W/PINS 10YR 3X60,$20.96,$20.96,Sold & shipped by G's Free delivery,,0,N
+2,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,"Cashew Clusters Natural Tasted, 2 lbs Bulk Saving",$21.00,$21.00,Sold & shipped by Bulk Products Online Free delivery,,0,N
+3,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,American Oak Infusion Spirals - Medium Plus Toast,$10.80,$10.80,Sold & shipped by Home Brew Ohio Free delivery,,0,Y
+4,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,5 lb Amber Malt,$21.15,$21.15,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+5,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,"Womens and Womens Plus Size Clearwater Curvy V-Neck T-Shirt, up to size 26/28",$21.62,$21.74,Sold & shipped by NIB Normal Is Boring Inc Free delivery,,0,N
+6,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Pumpkin Ale (23) - ALL GRAIN,$38.67,$38.67,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+7,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Tigi Catwalk Your Highness Elevating 10.14 fl. oz. (Pack of 2),$21.95,$21.95,Sold & shipped by USAPROHAIR Free delivery,,0,N
+8,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Indian Sarsaparilla- 2 oz,$20.81,$20.81,Sold & shipped by DropAir Free delivery,,0,N
+9,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,5 lb Black Prinz Malt,$22.36,$22.36,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+10,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Maltin six pack Cans 12 FL oz / 355 ml,$22.99,$22.99,Sold & shipped by STM Free delivery,,0,N
+11,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Stout Pack,$23.39,$23.39,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+12,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Yuengling Traditional Lager (1C) - EXTRACT,$40.65,$40.65,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+13,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Home Brew Ohio Soda Making Packet-Classic Ginger Ale,$24.18,$24.18,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+14,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Barrs Shandy 330ml (Pack of 6),$23.87,$23.87,Sold & shipped by Epicure Company Free delivery,,0,N
+15,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Briess Pale Ale Canister 3.3 lb,$26.49,$26.49,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+16,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,matoen Small gifts alloy plane beer bottle opener household necessities wedding wedding,$9.78,$9.78,Sold & shipped by Joybuy Free delivery,,0,N
+17,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,"Brewery Snifter, 1 Rare Deschutes Brewery Chalice Glass By Deschutes,USA",$27.69,$27.69,Sold & shipped by LUCKYSTARTECHNOLOGYINC Free delivery,,0,N
+18,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Spearmint cut 1oz  (Mentha spicata),$26.99,$26.99,Sold & shipped by Palatial Products Free delivery,,0,N
+19,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,"K-FLEX USA Pipe Ins.,Elastomeric,2-1/8 in. ID,6 ft. 6RX100218",$24.07,$24.07,Sold & shipped by Zoro,,0,N
+20,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,10 lb Pale Ale Malt,$30.18,$30.18,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+21,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,1 Gallon Brewers Best Pale Ale,$30.41,$30.41,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+22,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Muntons Plain Dark DME 3 LBS,$29.39,$29.39,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+23,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Southern English Brown Ale (11B) - ALL GRAIN,$30.99,$30.99,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+24,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe SS Minnow Mild Ale (11A) - ALL GRAIN,$31.18,$31.18,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+25,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,5 lb Cherry smoked/Rauch Malt,$31.82,$31.82,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+26,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Malt - Bairds Malt Maris Otter Pale Ale - 5 LB,$31.62,$31.62,Sold & shipped by DC Brands Free delivery,,0,N
+27,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Samuel Adams Boston Ale (10A) - ALL GRAIN,$38.47,$38.47,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+28,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Newcastle Brown Ale (11C) - ALL GRAIN,$38.97,$38.97,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+29,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Briess DME - Pale Ale - 3 lb Bag,$31.13,$31.13,Sold & shipped by WMKOnline Free delivery,,0,N
+30,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew American Premium Lager (1C) - ALL GRAIN,$35.12,$35.12,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+31,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Shiner Bock (5B) - MINI MASH,$34.43,$34.43,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+32,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Barrel Aged in a Bottle Oak Infusion Spiral (12),$47.75,$47.75,Sold & shipped by Home Brew Ohio Free delivery,,0,N
+33,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Ball Lock Gas in (Stainless) - Flared,$32.85,$32.85,Sold & shipped by WMKOnline Free delivery,,0,N
+34,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Bert Grants Hefeweizen (15A) - ALL GRAIN,$33.89,$33.89,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+35,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,1 Gallon Brewers Best Raspberry Golden Ale,$32.75,$32.75,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+36,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Clone Recipe Long Trail Kolsch (6C) - ALL GRAIN,$36.43,$36.43,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+37,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew American Standard Lager (1B) - MINI MASH,$36.62,$36.62,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+38,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,Austin Homebrew Southern Brown Ale (11B) - ALL GRAIN,$33.46,$33.46,Sold & shipped by The Homebrew Shop Free delivery,,0,N
+39,25,beer,https://www.walmart.com/search/?cat_id=0&page=25&ps=40&query=beer,"Shiner Wicked Ram IPA, 12 pack, 12 fl oz",,,,Out of stock,0,N

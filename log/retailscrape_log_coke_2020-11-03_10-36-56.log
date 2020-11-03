@@ -1,0 +1,5 @@
+2020-11-03 10:36:56 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 10:36:56 - retail_live - INFO - Search: Initiating new search for 'coke' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 10:36:56 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/?query=coke - attempt # 1
+2020-11-03 10:37:05 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/?query=coke
+2020-11-03 10:37:15 - retail_live - INFO - check_if_category_page: Checking if search item 'coke' is a sub-category

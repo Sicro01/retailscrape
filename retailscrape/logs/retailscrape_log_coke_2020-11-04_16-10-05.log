@@ -1,0 +1,11 @@
+2020-11-04 16:10:05 - retail_live - INFO - set_up_log: Log configured
+2020-11-04 16:10:05 - retail_live - INFO - execute_a_search: Initiating new search for 'coke' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-04 16:10:05 - retail_live - INFO - get_product_data:this_product:
+result_page_number:0 :: result_page_index_position:0 :: search_term:search for bob :: url:test url :: description:product description :: from_price:1.99 :: to_price:1.99 :: cost_price:1.55 :: fulfillment:fulfillment :: availability:availability :: rating:4 :: duplicate_indicator:N
+2020-11-04 16:10:05 - retail_live - INFO - get_product_data:this_product:
+result_page_number:0 :: result_page_index_position:1 :: search_term:search for bob friend :: url:test url other :: description:product description new :: from_price:7.99 :: to_price:9.99 :: cost_price:6.55 :: fulfillment:fulfillment new :: availability:availability yep :: rating:5 :: duplicate_indicator:N
+2020-11-04 16:10:05 - retail_live - INFO - save_search_results: Saving details
+2020-11-04 16:10:05 - retail_live - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-04 16:10:05 - retail_live - INFO - execute_a_search: Writing output file - 2 product(s) created for search term 'coke'
+2020-11-04 16:10:05 - retail_live - INFO - End
+2020-11-04 16:10:05 - retail_live - INFO - log_remove_handlers: Removing all existing log handlers

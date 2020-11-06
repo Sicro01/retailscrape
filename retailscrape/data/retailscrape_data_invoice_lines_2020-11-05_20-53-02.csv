@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE,INVOICE_LINE_DOLLAR_MARGIN,INVOICE_LINE_PERCENT_MARGIN
+12618,2020-10-25,0,search_term,desc,1.99,1.0,0.99,49.75
+12618,2020-10-25,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+63736,2020-11-01,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+63736,2020-11-01,1,search_term,desc,1.99,1.0,0.99,49.75
+145186,2020-11-02,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+145186,2020-11-02,1,search_term,desc,1.99,1.0,0.99,49.75
+195899,2020-10-27,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+195899,2020-10-27,1,search_term,desc,1.99,1.0,0.99,49.75
+235486,2020-10-29,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+235486,2020-10-29,1,search_term,desc,1.99,1.0,0.99,49.75
+315908,2020-10-28,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+315908,2020-10-28,1,search_term,desc,1.99,1.0,0.99,49.75
+320046,2020-10-24,0,search_term,desc,1.99,1.0,0.99,49.75
+320046,2020-10-24,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+353470,2020-11-04,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+353470,2020-11-04,1,search_term,desc,1.99,1.0,0.99,49.75
+573659,2020-10-19,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+573659,2020-10-19,1,search_term,desc,1.99,1.0,0.99,49.75
+573794,2020-10-20,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+573794,2020-10-20,1,search_term,desc,1.99,1.0,0.99,49.75
+587559,2020-10-18,0,search_term,desc,1.99,1.0,0.99,49.75
+587559,2020-10-18,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+620883,2020-10-22,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+620883,2020-10-22,1,search_term,desc,1.99,1.0,0.99,49.75
+631849,2020-10-26,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+631849,2020-10-26,1,search_term,desc,1.99,1.0,0.99,49.75
+661300,2020-10-23,0,search_term,desc,1.99,1.0,0.99,49.75
+661300,2020-10-23,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+689591,2020-10-17,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+689591,2020-10-17,1,search_term,desc,1.99,1.0,0.99,49.75
+734125,2020-11-05,0,search_term,desc,1.99,1.0,0.99,49.75
+734125,2020-11-05,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+779861,2020-10-31,0,search_term,desc,1.99,1.0,0.99,49.75
+779861,2020-10-31,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+799786,2020-10-21,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+799786,2020-10-21,1,search_term,desc,1.99,1.0,0.99,49.75
+860026,2020-11-03,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+860026,2020-11-03,1,search_term,desc,1.99,1.0,0.99,49.75
+942138,2020-10-30,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+942138,2020-10-30,1,search_term,desc,1.99,1.0,0.99,49.75

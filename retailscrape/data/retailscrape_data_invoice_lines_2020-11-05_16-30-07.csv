@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE,INVOICE_LINE_DOLLAR_MARGIN,INVOICE_LINE_PERCENT_MARGIN
+26545,2020-10-22,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+26545,2020-10-22,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+95833,2020-10-17,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+95833,2020-10-17,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+104039,2020-11-05,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+104039,2020-11-05,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+118968,2020-10-24,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+118968,2020-10-24,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+335333,2020-10-23,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+335333,2020-10-23,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+419382,2020-10-19,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+419382,2020-10-19,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+439210,2020-11-04,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+439210,2020-11-04,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+497979,2020-10-29,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+497979,2020-10-29,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+500749,2020-10-20,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+500749,2020-10-20,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+561112,2020-10-25,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+561112,2020-10-25,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+597709,2020-10-30,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+597709,2020-10-30,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+686808,2020-11-02,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+686808,2020-11-02,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+700524,2020-10-31,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+700524,2020-10-31,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+749509,2020-10-21,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+749509,2020-10-21,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+795219,2020-10-28,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+795219,2020-10-28,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+799916,2020-11-03,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+799916,2020-11-03,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+839091,2020-10-18,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+839091,2020-10-18,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+847005,2020-11-01,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+847005,2020-11-01,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+951188,2020-10-27,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+951188,2020-10-27,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+959563,2020-10-26,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+959563,2020-10-26,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02

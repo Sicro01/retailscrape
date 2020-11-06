@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE,INVOICE_LINE_DOLLAR_MARGIN,INVOICE_LINE_PERCENT_MARGIN
+102900,2020-10-22,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+102900,2020-10-22,1,search for bob,product description,1.99,1.55,0.0,0.0
+126337,2020-10-20,0,search for bob,product description,1.99,1.55,0.0,0.0
+126337,2020-10-20,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+128955,2020-11-04,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+128955,2020-11-04,1,search for bob,product description,1.99,1.55,0.0,0.0
+135799,2020-10-18,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+135799,2020-10-18,1,search for bob,product description,1.99,1.55,0.0,0.0
+171509,2020-10-27,0,search for bob,product description,1.99,1.55,0.0,0.0
+171509,2020-10-27,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+187832,2020-10-24,0,search for bob,product description,1.99,1.55,0.0,0.0
+187832,2020-10-24,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+216865,2020-10-30,0,search for bob,product description,1.99,1.55,0.0,0.0
+216865,2020-10-30,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+288389,2020-11-03,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+288389,2020-11-03,1,search for bob,product description,1.99,1.55,0.0,0.0
+402579,2020-10-21,0,search for bob,product description,1.99,1.55,0.0,0.0
+402579,2020-10-21,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+442610,2020-10-26,0,search for bob,product description,1.99,1.55,0.0,0.0
+442610,2020-10-26,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+461169,2020-10-23,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+461169,2020-10-23,1,search for bob,product description,1.99,1.55,0.0,0.0
+555080,2020-10-19,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+555080,2020-10-19,1,search for bob,product description,1.99,1.55,0.0,0.0
+576890,2020-10-25,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+576890,2020-10-25,1,search for bob,product description,1.99,1.55,0.0,0.0
+617580,2020-11-01,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+617580,2020-11-01,1,search for bob,product description,1.99,1.55,0.0,0.0
+674511,2020-11-02,0,search for bob,product description,1.99,1.55,0.0,0.0
+674511,2020-11-02,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+794166,2020-10-31,0,search for bob,product description,1.99,1.55,0.0,0.0
+794166,2020-10-31,1,search for bob friend,product description new,7.99,6.55,0.0,0.0
+844224,2020-10-28,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+844224,2020-10-28,1,search for bob,product description,1.99,1.55,0.0,0.0
+917701,2020-11-05,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+917701,2020-11-05,1,search for bob,product description,1.99,1.55,0.0,0.0
+965379,2020-10-29,0,search for bob friend,product description new,7.99,6.55,0.0,0.0
+965379,2020-10-29,1,search for bob,product description,1.99,1.55,0.0,0.0
+981198,2020-10-17,0,search for bob,product description,1.99,1.55,0.0,0.0
+981198,2020-10-17,1,search for bob friend,product description new,7.99,6.55,0.0,0.0

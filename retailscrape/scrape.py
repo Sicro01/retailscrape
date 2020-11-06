@@ -12,6 +12,10 @@ import time # type: ignore
 
 # Local modules
 from functions.execute_all_searches import execute_all_searches # type: ignore
+from functions.create_invoices import create_invoices # type: ignore
+from classes.outputdata_class import OutputData # type: ignore
+from classes.product_class import Product # type: ignore
+from classes.log_class import Log # type: ignore
 from page_parts.location  import location # type: ignore
 from page_parts.navbar import navbar # type: ignore
 from page_parts.output import output # type: ignore
@@ -20,6 +24,8 @@ from page_parts.page_2_content import page_2_content # type: ignore
 
 VALID_DEBUG_OPTIONS = ['CRITICAL', 'ERROR', 'WARNING', 'INFO', 'DEBUG'] # List of valid debug levels
 DEBUG_LEVEL = sys.argv[1] if (len(sys.argv) - 1) == 1 and sys.argv[1] in VALID_DEBUG_OPTIONS else 'INFO' # If argument entered set debug level
+
+
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], prevent_initial_callbacks=True)
 
@@ -36,7 +42,6 @@ def display_page(url):
     elif url == '/page-2':
         return page_2_content()
     else:
-        print('else')
         return dbc.Jumbotron(
         [
             html.H1("404: Not found", className="text-danger"),
@@ -62,28 +67,66 @@ def run_search(n_clicks, upload_contents, filename, search_terms):
     else:
         input_id = ctx.triggered[0]['prop_id'].split('.')[0]
     
+    scrape_log = Log(module_name='scrape', level=DEBUG_LEVEL)
+    scrape_log.log_addfh()
+    scrape_log.log_addch()
+
+    scrape_log.log.info('################ starting app ################')
+    
     # User is trying to search
     if input_id == 'search_button':
         if search_terms != None: # Check search term entered
-            tabledata, success_message = execute_all_searches(search_terms, DEBUG_LEVEL)
+            
+            # Execute search for all search terms
+            tabledata, success_message, list_all_product_class = execute_all_searches(search_terms, scrape_log)
+            
+            # Create Invoices and Invoice Lines
+            list_of_invoice_lines = create_invoices(list_of_products=list_all_product_class, scrape_log=scrape_log)
+           
+            # Save invoice lines to csv
+            # scrape_log.log.info('################ saving invoice lines ################')
+            sort_columns = ['INVOICE_NUMBER', 'INVOICE_DATE', 'INVOICE_LINE_NUMBER']
+            invoice_line_output = OutputData(class_list=list_of_invoice_lines, sort_columns=sort_columns, filename_term='invoice_lines')
+            invoice_line_output.save_list_as_df()
+            invoice_line_output.save_df_as_csv()
+            
+            # Return data and message to be displayed in Dash
+            scrape_log.log_remove_handlers()
             return tabledata, success_message
 
     # User is try to upload a result set
     if input_id == 'results_upload_data':
         if upload_contents is not None:
             list_df_all = []
+            df_all = []
             success_message = 'Uploaded: '
             for upload, this_filename in zip(upload_contents, filename):
                 df = parse_uploaded_results(upload)
                 list_df_all.append(df)
                 success_message += f'File: {this_filename}({len(df)} rows); '
             df_all = pd.concat(list_df_all)
+
+        # Create output object
+        out_products = OutputData(class_=Product, df=df_all)
+        out_products.df_to_class_list()
+        
+        # Create Invoices and Invoice Lines
+        list_of_invoice_lines = create_invoices(list_of_products=out_products.class_list, scrape_log=scrape_log)
+        
+        # # Save invoice lines to csv
+        sort_columns = ['INVOICE_NUMBER', 'INVOICE_DATE', 'INVOICE_LINE_NUMBER']
+        invoice_line_output = OutputData(class_list=list_of_invoice_lines, sort_columns=sort_columns, filename_term='invoice_lines')
+        invoice_line_output.save_list_as_df()
+        invoice_line_output.save_df_as_csv()
+        
+        # Return data and message to be displayed in Dash
+        scrape_log.log_remove_handlers()
         return df_all.to_dict(orient='records'), success_message
 
 def parse_uploaded_results(upload):
-    content_type, content_string = upload.split(',')
+    _ , content_string = upload.split(',')
     decoded = (pybase64.standard_b64decode(content_string))
-    df = pd.read_csv(io.StringIO(decoded.decode('utf-8')), sep='\t')
+    df = pd.read_csv(io.StringIO(decoded.decode('utf-8')), sep=',')
     return df
 
 # Return initial message
@@ -136,7 +179,6 @@ def display_invoice_lines(upload_contents, filename):
         return df_all.to_dict(orient='records'), success_message
 
 def parse_uploaded_invoice_lines(upload):
-    print(type(upload))
     content_type, content_string = upload.split(',')
     decoded = (pybase64.standard_b64decode(content_string))
     df = pd.read_csv(io.StringIO(decoded.decode('utf-8')), sep=',')

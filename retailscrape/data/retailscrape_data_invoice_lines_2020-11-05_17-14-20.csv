@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE,INVOICE_LINE_DOLLAR_MARGIN,INVOICE_LINE_PERCENT_MARGIN
+40011,2020-10-21,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+40011,2020-10-21,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+59961,2020-10-18,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+59961,2020-10-18,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+141134,2020-11-04,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+141134,2020-11-04,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+209363,2020-10-20,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+209363,2020-10-20,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+279840,2020-11-03,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+279840,2020-11-03,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+285577,2020-10-28,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+285577,2020-10-28,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+297261,2020-11-01,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+297261,2020-11-01,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+362755,2020-10-26,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+362755,2020-10-26,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+399473,2020-10-27,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+399473,2020-10-27,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+417782,2020-10-29,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+417782,2020-10-29,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+477782,2020-10-17,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+477782,2020-10-17,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+499476,2020-10-30,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+499476,2020-10-30,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+566408,2020-11-02,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+566408,2020-11-02,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+609041,2020-10-31,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+609041,2020-10-31,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+661929,2020-10-19,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+661929,2020-10-19,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+666589,2020-10-22,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+666589,2020-10-22,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+718878,2020-10-23,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+718878,2020-10-23,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+724490,2020-10-24,0,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+724490,2020-10-24,1,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+838766,2020-10-25,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+838766,2020-10-25,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11
+982864,2020-11-05,0,search for bob friend,product description new,7.99,6.55,1.4400000000000004,18.02
+982864,2020-11-05,1,search for bob,product description,1.99,1.55,0.43999999999999995,22.11

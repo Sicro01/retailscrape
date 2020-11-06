@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE
+42008,2020-10-31,0,search for bob,product description,1.99,1.55
+42008,2020-10-31,1,search for bob friend,product description new,7.99,6.55
+80813,2020-10-30,0,search for bob friend,product description new,7.99,6.55
+80813,2020-10-30,1,search for bob,product description,1.99,1.55
+170660,2020-10-28,0,search for bob,product description,1.99,1.55
+170660,2020-10-28,1,search for bob friend,product description new,7.99,6.55
+230792,2020-10-22,0,search for bob,product description,1.99,1.55
+230792,2020-10-22,1,search for bob friend,product description new,7.99,6.55
+245134,2020-11-01,0,search for bob friend,product description new,7.99,6.55
+245134,2020-11-01,1,search for bob,product description,1.99,1.55
+313862,2020-10-21,0,search for bob,product description,1.99,1.55
+313862,2020-10-21,1,search for bob friend,product description new,7.99,6.55
+379505,2020-11-04,0,search for bob,product description,1.99,1.55
+379505,2020-11-04,1,search for bob friend,product description new,7.99,6.55
+424148,2020-11-05,0,search for bob,product description,1.99,1.55
+424148,2020-11-05,1,search for bob friend,product description new,7.99,6.55
+454223,2020-10-25,0,search for bob friend,product description new,7.99,6.55
+454223,2020-10-25,1,search for bob,product description,1.99,1.55
+493341,2020-10-17,0,search for bob,product description,1.99,1.55
+493341,2020-10-17,1,search for bob friend,product description new,7.99,6.55
+508249,2020-10-20,0,search for bob,product description,1.99,1.55
+508249,2020-10-20,1,search for bob friend,product description new,7.99,6.55
+653732,2020-10-18,0,search for bob,product description,1.99,1.55
+653732,2020-10-18,1,search for bob friend,product description new,7.99,6.55
+665404,2020-10-26,0,search for bob friend,product description new,7.99,6.55
+665404,2020-10-26,1,search for bob,product description,1.99,1.55
+705738,2020-11-02,0,search for bob friend,product description new,7.99,6.55
+705738,2020-11-02,1,search for bob,product description,1.99,1.55
+770429,2020-10-23,0,search for bob friend,product description new,7.99,6.55
+770429,2020-10-23,1,search for bob,product description,1.99,1.55
+891706,2020-11-03,0,search for bob friend,product description new,7.99,6.55
+891706,2020-11-03,1,search for bob,product description,1.99,1.55
+908639,2020-10-24,0,search for bob friend,product description new,7.99,6.55
+908639,2020-10-24,1,search for bob,product description,1.99,1.55
+913656,2020-10-29,0,search for bob friend,product description new,7.99,6.55
+913656,2020-10-29,1,search for bob,product description,1.99,1.55
+940223,2020-10-27,0,search for bob,product description,1.99,1.55
+940223,2020-10-27,1,search for bob friend,product description new,7.99,6.55
+977161,2020-10-19,0,search for bob,product description,1.99,1.55
+977161,2020-10-19,1,search for bob friend,product description new,7.99,6.55

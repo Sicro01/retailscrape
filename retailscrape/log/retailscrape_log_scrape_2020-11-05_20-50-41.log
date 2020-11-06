@@ -1,0 +1,3 @@
+2020-11-05 20:50:41 - scrape - INFO - ################ starting app ################
+2020-11-05 20:50:41 - scrape.create_invoices - INFO - starting creating invoices
+2020-11-05 20:50:41 - scrape - INFO - log_remove_handlers: Removing all existing log handlers

@@ -7,14 +7,15 @@ from selenium.webdriver.common.by import By # type: ignore
 import collections # type: ignore
 import time # type: ignore
 from typing import List, Set, Dict, Tuple, Optional # type: ignore
-from functions.helper_functions import create_log, log_remove_handlers, get_filename
+from functions.helper_functions import create_log, log_remove_handlers
 from classes.driver_class import Driver # type: ignore
 from classes.webpage_class import Webpage # type: ignore
 from classes.product_class import Product # type: ignore
 import pandas as pd # type: ignore
+from classes.log_class import Log # type: ignore
 
 class Search:
-    def __init__(self, search_term='coke', level='INFO'):
+    def __init__(self, search_term='coke', scrape_log=''):
         self.chrome_driver = ''
         self.search_input_id = 'global-search-input'
         self.search_input_selector = (By.ID, self.search_input_id)
@@ -27,10 +28,10 @@ class Search:
         self.get_attempts = 0
         self.max_get_attempts = 3
         self.target_url = 'https://www.walmart.com/'
+        self.target_url_search = self.target_url + '/search/?query=' + self.search_term
         self.search_execution_failed = True
         self.not_got_target_url = True
-        self.search_log = create_log('retail_live')
-        self.search_log_level = level
+        self.module_log = Log(module_name=scrape_log.module_name + f'.search.{self.search_term}')
         self.target_url_soup = None
         self.first_page_soup = None
         self.open_website_unsuccessful = True
@@ -40,86 +41,87 @@ class Search:
         self.page_processing_unsuccessful = True
         self.next_page_xpath = "//button[contains(@class, 'paginator-btn-next')]"
         self.next_page_selector = (By.XPATH, self.next_page_xpath)
+        self.testing = False
         
     def retry(self):
-        self.search_log.debug(f'retry: Retrying - current attempt # {self.get_attempts}')
+        self.module_log.log.info(f'retry: Retrying - current attempt # {self.get_attempts}')
         self.chrome_driver.driver.close()
         time.sleep(5)
         
     def check_attempts(self):
         self.get_attempts += 1
         if self.get_attempts > self.max_get_attempts:
-            self.search_log.critical(f'check_attempts: Critical Error: Exceeded number of re-try attempts {self.get_attempts} to search for {self.search_term}')
+            self.module_log.log.critical(f'check_attempts: Critical Error: Exceeded number of re-try attempts {self.get_attempts} to search for {self.search_term}')
             self.abort()
     
     def end(self):
-        log_remove_handlers(self.search_log)         
-        self.chrome_driver.driver.close() 
-    
+        try:         
+            self.chrome_driver.driver.close() 
+        except Exception as ex:
+            pass
+        
     def abort(self):
         try:
-            self.search_log.critical(f'abort: Aborting search - trying to close log and Chrome')
-            log_remove_handlers(self.search_log)
+            self.module_log.log.critical(f'abort: Aborting search - trying to close log and Chrome')
+            log_remove_handlers(self.module_log)
             self.chrome_driver.driver.close()
             quit()
         except Exception as ex:
-            self.search_log.critical(f'abort: Aborting failed')
-            self.search_log.critical(f'abort: Error details:{ex}:')
+            self.module_log.log.critical(f'abort: Aborting failed')
+            self.module_log.log.critical(f'abort: Error details:{ex}:')
         quit()
         
     def open_website(self):
-        # Build url
-        # self.target_url += '?query=' + self.search_term
-        self.search_log.info(f'open_website: Opening website and searching {self.target_url} - attempt # {self.get_attempts}')
+        self.module_log.log.info(f'open_website: Opening website and searching {self.target_url_search} - attempt # {self.get_attempts}')
         #Fire up Chrome and try to go to target website
         self.chrome_driver = Driver()
-        self.chrome_driver.driver.get(self.target_url) # Open Chrome and access target website
+        self.chrome_driver.driver.get(self.target_url_search) # Open Chrome and access target website
 
         # Test if we've got the target url
-        self.open_website_unsuccessful = True if self.chrome_driver.driver.current_url != self.target_url else False
+        self.open_website_unsuccessful = True if self.chrome_driver.driver.current_url != self.target_url_search else False
         self.target_url_soup = bsoup(self.chrome_driver.driver.page_source, 'html.parser')
 
         # Return success / fail response
         if not self.open_website_unsuccessful:
-            self.search_log.info(f'open_website: Successfully opened {self.target_url}')
+            self.module_log.log.info(f'open_website: Successfully opened {self.target_url} searching for {self.search_term}')
         else:
-            self.search_log.warning(f'open_website: Error: Unable to open {self.target_url}')
+            self.module_log.log.warning(f'open_website: Error: Unable to open {self.target_url_search}')
         return self.open_website_unsuccessful
     
     def submit_search_text(self):
-        self.search_log.info(f'submit_search_text: Submitting search for \'{self.search_term}\'')
+        self.module_log.log.info(f'submit_search_text: Submitting search for \'{self.search_term}\'')
         try:
             search_input = self.chrome_driver.wait.until(EC.element_to_be_clickable(self.search_input_selector)) # Find the text box to enter search term
-            search_input.clear() # Clear any previous text entries
-            search_input.send_keys(self.search_term) # Submit search term
+            # search_input.clear() # Clear any previous text entries
+            # search_input.send_keys(self.search_term) # Submit search term
             search_input.submit() # 'Press enter' and trigger search
             self.first_page_soup = bsoup(self.chrome_driver.driver.page_source, 'html.parser')
             self.submit_unsuccessful = False
-            self.search_log.debug(f'submit_search_text: Searching for \'{self.search_term}\' successful')
+            self.module_log.log.debug(f'submit_search_text: Searching for \'{self.search_term}\' successful')
         except TimeoutException as ex:
-            self.search_log.warning(f'submit_search_text: Warning: Timeout Exception trying to search for {self.search_term}')
-            self.search_log.warning(f'submit_search_text: Error details:{ex}:')
+            self.module_log.log.warning(f'submit_search_text: Warning: Timeout Exception trying to search for {self.search_term}')
+            self.module_log.log.warning(f'submit_search_text: Error details:{ex}:')
             self.submit_unsuccessful = True
         return self.submit_unsuccessful
     
     def check_if_category_page(self):
-        self.search_log.info(f'check_if_category_page: Checking if search item \'{self.search_term}\' is a sub-category')
+        self.module_log.log.info(f'check_if_category_page: Checking if search item \'{self.search_term}\' is a sub-category')
         self.is_category_page = self.first_page_soup.find('div', class_='CategoryApp')
         self.is_category_page = True if self.is_category_page else False
         if self.is_category_page:
-            self.search_log.warning(f'check_if_category_page: User Error: Search term \'{self.search_term}\' is a major category; re-submit search using a sub-category.')
+            self.module_log.log.warning(f'check_if_category_page: User Error: Search term \'{self.search_term}\' is a major category; re-submit search using a sub-category.')
         else:
-            self.search_log.info(f'check_if_category_page: Category Page check for \'{self.search_term}\' successful')
+            self.module_log.log.info(f'check_if_category_page: Category Page check for \'{self.search_term}\' successful')
         return self.is_category_page
 
     def get_number_of_results_pages(self):
-        self.search_log.info(f'get_number_of_results_pages: Finding number of result pages for \'{self.search_term}\'')
+        self.module_log.log.info(f'get_number_of_results_pages: Finding number of result pages for \'{self.search_term}\'')
         # self.calc_num_result_pages_unsuccessful = self.calc_number_of_result_pages()
         self.calc_number_of_result_pages()
         if self.calc_num_result_pages_unsuccessful:
-            self.search_log.warning(f'get_number_of_results_pages: Warning: Exception trying to calculate number of pages')    
+            self.module_log.log.warning(f'get_number_of_results_pages: Warning: Exception trying to calculate number of pages')    
         else:
-            self.search_log.info(f'get_number_of_results_pages: Found {self.number_of_result_pages} results pages for \'{self.search_term}\'')
+            self.module_log.log.info(f'get_number_of_results_pages: Found {self.number_of_result_pages} results pages for \'{self.search_term}\'')
         # return self.calc_num_result_pages_unsuccessful
 
     def calc_number_of_result_pages(self):
@@ -128,12 +130,12 @@ class Search:
             from_to_page_range = [int(i) for i in page_range.split() if i.isdigit()]
             self.number_of_result_pages = from_to_page_range[1]
             self.calc_num_result_pages_unsuccessful = False
-            self.search_log.debug(f'calc_number_of_result_pages: Successful:{self.number_of_result_pages}')
+            self.module_log.log.debug(f'calc_number_of_result_pages: Successful:{self.number_of_result_pages}')
         except Exception as ex:
-            self.search_log.warning(f'calc_number_of_result_pages: Warning: Exception trying to calculate number of pages')
-            self.search_log.warning(f'Exception:{ex}')
+            self.module_log.log.warning(f'calc_number_of_result_pages: Warning: Exception trying to calculate number of pages')
+            self.module_log.log.warning(f'Exception:{ex}')
             self.calc_num_result_pages_unsuccessful = True
-        return self.calc_num_result_pages_unsuccessful
+        # return self.calc_num_result_pages_unsuccessful
     
     def cycle_through_results_pages(self):
         try:
@@ -144,8 +146,8 @@ class Search:
                 self.page_processing_unsuccessful = False
         except Exception as ex:
             self.page_processing_unsuccessful = True
-            self.search_log.warning(f'cycle_through_results_pages: Warning: Exception trying to cycle through pages.  Search for {self.search_term} will be re-started')
-            self.search_log.warning(f'Exception:{ex}')
+            self.module_log.log.warning(f'cycle_through_results_pages: Warning: Exception trying to cycle through pages.  Search for {self.search_term} will be re-started')
+            self.module_log.log.warning(f'Exception:{ex}')
         return self.page_processing_unsuccessful
     
     def click_next(self):
@@ -154,23 +156,23 @@ class Search:
         time.sleep(3)
     
     def save_this_webpage_product_data(self):
-        self.search_log.info(f'save_this_webpage_product_data: Capturing data - page {self.current_result_page_number} of {self.number_of_result_pages}')
+        self.module_log.log.info(f'save_this_webpage_product_data: Capturing data - page {self.current_result_page_number} of {self.number_of_result_pages}')
         soup = bsoup(self.chrome_driver.driver.page_source, 'html.parser')
         webpage = Webpage(soup, self.chrome_driver.driver.current_url, self.current_result_page_number)
         webpage.get_product_data(self.search_term)
         self.webpages.append(webpage)
-        self.search_log.info(f'save_this_webpage_product_data:Captured data page:{self.current_result_page_number} of {self.number_of_result_pages}')
+        self.module_log.log.info(f'save_this_webpage_product_data:Captured data page:{self.current_result_page_number} of {self.number_of_result_pages}')
         self.current_result_page_number += 1
     
     def save_products(self):
-        self.search_log.info('save_search_results: Saving details')
+        self.module_log.log.info('save_products: concat products')
         for webpage_index, webpage in enumerate(self.webpages):
-            self.search_log.debug(f'save_search_results: Saving webpage:{webpage_index}')
+            self.module_log.log.debug(f'save_search_results: Saving webpage:{webpage_index}')
             self.products = self.products + webpage.products
-        self.search_log.debug(f'save_search_results: len(self.products): {len(self.products)}')
+        self.module_log.log.debug(f'save_search_results: len(self.products): {len(self.products)}')
     
     def flag_duplicate_products(self):
-        self.search_log.info('flag_duplicate_products: Flagging duplicates')
+        self.module_log.log.info('flag_duplicate_products: Flagging duplicates')
         all_product_descriptions = [product.description for product in self.products]
         duplicate_product_descriptions = [item for item, count in collections.Counter(all_product_descriptions).items() if count > 1] # Create list of descriptions which appear > 1
         all_products_set = set(self.products)
@@ -178,13 +180,4 @@ class Search:
         [Product.set_duplicate(product) for product in list(duplicate_products_set)] # Set the duplicate indicator to Y for all products with a duplicate description
         unique_products_set = all_products_set.difference(duplicate_products_set) # Get the differences between the duplicate products and all products to identify the unique products
         self.products = list(duplicate_products_set) + list(unique_products_set) # Combine unique and duplicate sets
-        self.search_log.debug(f'flag_duplicate_products:len(self.products):{len(self.products)}')
-
-    def create_output(self):
-        self.search_log.info(f'create_output: Writing output file - {len(self.products)} product(s) created for search term \'{self.search_term}\'')
-        df = pd.DataFrame.from_records([product.to_dict() for product in self.products])
-        df.sort_values(by=['result_page_number', 'result_page_index_position'],  inplace=True)
-        results_filenpathandame = get_filename(self.search_term, typeoffile='results', suffix='.csv')
-        df.to_csv(results_filenpathandame, sep='\t', index=False)
-        return df  
-    
+        self.module_log.log.debug(f'flag_duplicate_products:len(self.products):{len(self.products)}')

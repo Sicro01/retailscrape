@@ -1,0 +1,4 @@
+2020-11-05 17:15:26 - scrape - INFO - ################ starting app ################
+2020-11-05 17:15:26 - scrape.execute_all_searches - INFO - ################ starting searches ################
+2020-11-05 17:15:32 - scrape - INFO - ################ starting app ################
+2020-11-05 17:15:32 - scrape - INFO - log_remove_handlers: Removing all existing log handlers

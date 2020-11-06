@@ -1,0 +1,3 @@
+RESULT_PAGE_NUMBER,RESULT_PAGE_INDEX_POSITION,SEARCH_TERM,URL,DESCRIPTION,FROM_PRICE,TO_PRICE,COST_PRICE,FULFILLMENT,AVAILABILITY,RATING,DUPLICATE_INDICATOR
+0,0,search for bob,test url,product description,1.99,1.99,1.55,fulfillment,availability,4,N
+0,1,search for bob friend,test url other,product description new,7.99,9.99,6.55,fulfillment new,availability yep,5,N

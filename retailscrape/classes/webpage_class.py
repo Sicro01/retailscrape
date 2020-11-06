@@ -1,4 +1,5 @@
 from collections import namedtuple # type: ignore
+import numpy as np # type: ignore
 from classes.product_class import Product # type: ignore
 from functions.helper_functions import create_log  # type: ignore
 
@@ -9,7 +10,7 @@ class Webpage():
         self.url = url
         self.products = []
         self.webpage_log = create_log('retail_live.webpage_log')
-        self.price_tuple = namedtuple('Price', ['from_price', 'to_price'])
+        self.price_tuple = namedtuple('Price', ['from_price', 'to_price', 'cost_price'])
         self.fulfillment_tuple = namedtuple('Fulfillment', ['fulfillment'])
         self.availability_tuple = namedtuple('Availability', ['availability'])
         self.description_tuple = namedtuple('Description', ['description'])
@@ -23,12 +24,14 @@ class Webpage():
             for result_page_index_position, grid_item_div_tag in enumerate(grid_item_div_tags):
                 description_tuple = self.get_description(grid_item_div_tag) # Get description
                 rating_tuple = self.get_rating(grid_item_div_tag) # Get rating
-                prices_tuple = self.get_prices(grid_item_div_tag) # Get prices
+                # price_tuple = self.get_prices(grid_item_div_tag) # Get prices
+                self.get_prices(grid_item_div_tag) # Get prices
                 fulfillment_tuple = self.get_fulfillment(grid_item_div_tag) # Get fulfillment
                 availability_tuple = self.get_availability(grid_item_div_tag) # Get Availability
                 
                 # Create a product entity
-                this_product = Product(self.result_page_number, result_page_index_position, search_term, self.url, description_tuple.description, prices_tuple.from_price, prices_tuple.to_price                                         ,fulfillment_tuple.fulfillment, availability_tuple.availability, rating_tuple.rating)
+                this_product = Product(self.result_page_number, result_page_index_position, search_term, self.url, description_tuple.description, self.price_tuple.from_price,
+                self.price_tuple.to_price, self.price_tuple.cost_price, fulfillment_tuple.fulfillment, availability_tuple.availability, rating_tuple.rating)
                 
                 self.webpage_log.debug(f'get_product_data:this_product:'+ '\n' + f'{this_product}')
                 self.products.append(this_product)
@@ -52,9 +55,16 @@ class Webpage():
         these_prices = [price_tag.span.text[1:len(price_tag.span.text)] for price_tag in price_tags]  # Lose the first char ($ sign) so we end up with a numeric value
         these_prices.append(these_prices[0]) if len(these_prices) == 1 else None # If we only have a single price (i.e not a price range product) then add another price of the same value
         these_prices.extend(['', '']) if len(these_prices) == 0 else None # Set empty prices if product has fulfillment of 'In-store Only' then no prices will be displayed on webpage
-        prices_tuple = self.price_tuple(these_prices[0], these_prices[1])
-        self.webpage_log.debug(f'get_product_data:prices_tuple:{prices_tuple}')
-        return prices_tuple
+        self.price_tuple.from_price = these_prices[0]
+        self.price_tuple.to_price = these_prices[1]
+        # Add cost price if from_price is numeric
+        self.price_tuple.cost_price = round(float(self.price_tuple.from_price) * np.random.randint(85, 95)/100,2) if self.price_tuple.from_price.replace('.','',1).isdigit() else None
+        # if self.price_tuple.from_price.replace('.','',1).isdigit():
+        #     self.price_tuple.cost_price = round(float(self.price_tuple.from_price) * np.random.randint(85, 95)/100,2)
+        # else:
+        #     self.price_tuple.cost_price = '' 
+        # self.webpage_log.debug(f'get_prices:prices_tuple:{self.price_tuple}')
+        # return price_tuple
     
     def get_fulfillment(self, grid_item_div_tag):
         fulfillment_tag = grid_item_div_tag.find('div', class_="search-result-product-shipping-details gridview")

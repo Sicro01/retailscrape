@@ -1,0 +1,11 @@
+2020-11-05 20:38:57 - scrape - INFO - ################ starting app ################
+2020-11-05 20:38:57 - scrape.execute_all_searches - INFO - starting searches:search_terms=coke
+2020-11-05 20:38:57 - scrape.execute_a_search_coke - INFO - starting a search
+2020-11-05 20:38:57 - scrape.search.coke - INFO - save_products: concat products
+2020-11-05 20:38:57 - scrape.search.coke - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-05 20:38:57 - scrape.execute_a_search_coke - INFO - execute_a_search: Writing output file - 2 product(s) created for search term 'coke'
+2020-11-05 20:38:57 - scrape.execute_a_search_coke - INFO - End
+2020-11-05 20:38:57 - scrape.create_invoices - INFO - starting creating invoices
+2020-11-05 20:38:57 - scrape.create_invoices - INFO - product_indexes=[1, 0]
+2020-11-05 20:38:57 - scrape.create_invoices - INFO - line 1: 713878:2:2020-11-05
+2020-11-05 20:38:57 - scrape.create_invoices - INFO - line 2: 713878:2:2020-11-05

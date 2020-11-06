@@ -1,0 +1,4 @@
+2020-11-05 19:49:19 - scrape - INFO - ################ starting app ################
+2020-11-05 19:49:19 - scrape.execute_all_searches - INFO - starting searches:search_terms=coke
+2020-11-05 19:49:19 - scrape.execute_a_search_coke - INFO - starting a search
+2020-11-05 19:49:19 - scrape.search.coke - INFO - save_search_results: Saving details

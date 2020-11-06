@@ -1,0 +1,13 @@
+2020-11-03 17:52:12 - retail_live - INFO - set_up_log: Log configured
+2020-11-03 17:52:12 - retail_live - INFO - Search: Initiating new search for 'coke' on website https://www.walmart.com/ - max attempts limited to 3
+2020-11-03 17:52:12 - retail_live - INFO - open_website: Opening website and searching https://www.walmart.com/ - attempt # 1
+2020-11-03 17:52:26 - retail_live - INFO - open_website: Successfully opened https://www.walmart.com/
+2020-11-03 17:52:41 - retail_live - INFO - submit_search_text: Submitting search for 'coke'
+2020-11-03 17:52:46 - retail_live - INFO - check_if_category_page: Checking if search item 'coke' is a sub-category
+2020-11-03 17:52:46 - retail_live - INFO - check_if_category_page: Category Page check for 'coke' successful
+2020-11-03 17:52:56 - retail_live - INFO - get_number_of_results_pages: Finding number of result pages for 'coke'
+2020-11-03 17:52:56 - retail_live - WARNING - calc_number_of_result_pages: Warning: Exception trying to calculate number of pages
+2020-11-03 17:52:56 - retail_live - WARNING - Exception:'NoneType' object has no attribute 'li'
+2020-11-03 17:52:56 - retail_live - WARNING - get_number_of_results_pages: Warning: Exception trying to calculate number of pages
+2020-11-03 17:52:56 - retail_live - INFO - retry: Retrying - current attempt # 1
+2020-11-03 17:53:02 - retail_live - INFO - save_this_webpage_product_data: Capturing data - page 1 of 0

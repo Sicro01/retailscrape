@@ -1,0 +1,7 @@
+2020-11-05 20:03:49 - scrape - INFO - ################ starting app ################
+2020-11-05 20:03:49 - scrape.execute_all_searches - INFO - starting searches:search_terms=coke
+2020-11-05 20:03:49 - scrape.execute_a_search_coke - INFO - starting a search
+2020-11-05 20:03:49 - scrape.search.coke - INFO - save_products: concat products
+2020-11-05 20:03:49 - scrape.search.coke - INFO - flag_duplicate_products: Flagging duplicates
+2020-11-05 20:03:49 - scrape.execute_a_search_coke - INFO - execute_a_search: Writing output file - 2 product(s) created for search term 'coke'
+2020-11-05 20:03:49 - scrape.execute_a_search_coke - INFO - End

@@ -1,0 +1,41 @@
+INVOICE_NUMBER,INVOICE_DATE,INVOICE_LINE_NUMBER,INVOICE_LINE_PRODUCT_NAME,INVOICE_LINE_PRODUCT_DESCRIPTION,INVOICE_LINE_PRODUCT_WEB_SELLING_PRICE,INVOICE_LINE_PRODUCT_CALCULATED_COST_PRICE
+101027,2020-11-02,0,search for bob,product description,1.99,1.55
+101027,2020-11-02,1,search for bob friend,product description new,7.99,6.55
+112573,2020-10-19,0,search for bob friend,product description new,7.99,6.55
+112573,2020-10-19,1,search for bob,product description,1.99,1.55
+158061,2020-10-26,0,search for bob friend,product description new,7.99,6.55
+158061,2020-10-26,1,search for bob,product description,1.99,1.55
+159461,2020-10-27,0,search for bob friend,product description new,7.99,6.55
+159461,2020-10-27,1,search for bob,product description,1.99,1.55
+217741,2020-10-29,0,search for bob friend,product description new,7.99,6.55
+217741,2020-10-29,1,search for bob,product description,1.99,1.55
+249509,2020-10-18,0,search for bob friend,product description new,7.99,6.55
+249509,2020-10-18,1,search for bob,product description,1.99,1.55
+282277,2020-10-17,0,search for bob friend,product description new,7.99,6.55
+282277,2020-10-17,1,search for bob,product description,1.99,1.55
+291833,2020-10-22,0,search for bob friend,product description new,7.99,6.55
+291833,2020-10-22,1,search for bob,product description,1.99,1.55
+298600,2020-11-05,0,search for bob,product description,1.99,1.55
+298600,2020-11-05,1,search for bob friend,product description new,7.99,6.55
+361592,2020-10-31,0,search for bob,product description,1.99,1.55
+361592,2020-10-31,1,search for bob friend,product description new,7.99,6.55
+368987,2020-10-30,0,search for bob,product description,1.99,1.55
+368987,2020-10-30,1,search for bob friend,product description new,7.99,6.55
+510020,2020-11-03,0,search for bob,product description,1.99,1.55
+510020,2020-11-03,1,search for bob friend,product description new,7.99,6.55
+649134,2020-11-04,0,search for bob friend,product description new,7.99,6.55
+649134,2020-11-04,1,search for bob,product description,1.99,1.55
+726318,2020-10-20,0,search for bob friend,product description new,7.99,6.55
+726318,2020-10-20,1,search for bob,product description,1.99,1.55
+805617,2020-10-21,0,search for bob,product description,1.99,1.55
+805617,2020-10-21,1,search for bob friend,product description new,7.99,6.55
+880007,2020-10-25,0,search for bob friend,product description new,7.99,6.55
+880007,2020-10-25,1,search for bob,product description,1.99,1.55
+883062,2020-10-23,0,search for bob,product description,1.99,1.55
+883062,2020-10-23,1,search for bob friend,product description new,7.99,6.55
+920191,2020-11-01,0,search for bob friend,product description new,7.99,6.55
+920191,2020-11-01,1,search for bob,product description,1.99,1.55
+926308,2020-10-24,0,search for bob friend,product description new,7.99,6.55
+926308,2020-10-24,1,search for bob,product description,1.99,1.55
+992857,2020-10-28,0,search for bob,product description,1.99,1.55
+992857,2020-10-28,1,search for bob friend,product description new,7.99,6.55
